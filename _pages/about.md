@@ -14,7 +14,6 @@ I am currently working as an **NLP Data Scientist** at <a href="https://www.arte
 Our research work has been published in several prestigious venues such as **ACL 2022**, **CVPR 2021**, **EuroVis 2022**, and **EMNLP 2023**. Moreover, our work has gained considerable attention; our <a href="https://github.com/vis-nlp/ChartQA" style="text-decoration: none; color: #99FF9FF;">ChartQA benchmark</a> has been featured as a key multimodal evaluation benchmark by **OpenAI's GPT-4** official blog post and **Google's Gemini** paper in evaluating their models visual reasoning capabilities.
 
 <br />
-<br />
 
 Education
 ======
@@ -26,7 +25,6 @@ GPA: 9/9, Exceptional
 **B.Sc. in Computer Engineering**, Sep 2017 - June 2020  
 GPA: 3.9/4.0
 
-<br />
 <br />
 
 Work Experience
@@ -46,7 +44,6 @@ Work Experience
 * <a href="https://www.ku.edu.tr/en/" style="text-decoration: none; color: #99FF9FF;">Koc University</a>     
 **Undergraduate Research Assistant**, June 2019 - Jan 2020
 
-<br />
 <br />
 
 Publications
@@ -76,7 +73,6 @@ Published at **ChartQA @ CVPR 2021** **[Best Paper Award]**
 C. Korkmaz, H. E. Kocas, A. Uysal, A. Masry, O. Ozkasap and B. Akgun  
 Published at **BCCA 2020**
 
-<br />
 <br />
 
 Achievements & ExtraCurricular
