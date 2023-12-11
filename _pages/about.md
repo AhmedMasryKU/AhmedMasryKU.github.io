@@ -80,18 +80,18 @@ Published at **BCCA 2020**
 
 Achievements & ExtraCurricular
 ======
-* Al Ghurair Foundation for Education STEM Scholarship Program (AGFE)  
+* **Al Ghurair Foundation for Education STEM Scholarship Program (AGFE)**  
 A merit-based award for highly achieving Arab students to pursue a fully funded STEM degree.
 
-* Vehbi Koc Scholar And Dean’s Honor Roll  
+* **Vehbi Koc Scholar And Dean’s Honor Roll**  
 Merit-based Awards for Academic Excellence
 
-* CVPR 2021 Chart Question Answering Workshop  
+* **CVPR 2021 Chart Question Answering Workshop**  
 Achieved Best Paper Award.
 
-* Al-Ghurair Foundation (AGFE)  
+* **Al-Ghurair Foundation (AGFE)**  
 Student Ambassador
 
-* Robotics Craftsmanship International Academy (University of Coimbra)
+* **Robotics Craftsmanship International Academy (University of Coimbra)**  
 Ranked 1st in the sumo robots competition, and in the top 10 out of 84 participants.
 
