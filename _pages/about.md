@@ -61,11 +61,11 @@ Publications
 ======
 
 1. <a href="https://arxiv.org/abs/2305.14761" style="text-decoration: none; color: #99FF9FF;">UniChart: A Universal Vision-language Pretrained Model for Chart Comprehension and Reasoning</a>  
-Ahmed Masry*, Parsa Kavehzadeh*, Xuan Long Do, Shafiq Joty, and Enamul Hoque [*Equal Contribution]  
+Ahmed Masry\*, Parsa Kavehzadeh\*, Xuan Long Do, Shafiq Joty, and Enamul Hoque [\*Equal Contribution]  
 Published at **EMNLP 2023**
 
 2. <a href="https://aclanthology.org/2022.acl-long.277/" style="text-decoration: none; color: #99FF9FF;">Chart-to-Text: A Large-Scale Benchmark for Chart Summarization</a>  
-Shankar Kantharaj*, Rixie Tiffany Leong*, Xiang Lin*, Ahmed Masry*, Megh Thakkar*, Enamul Hoque, Shafiq Joty [*Equal Contribution]  
+Shankar Kantharaj\*, Rixie Tiffany Leong\*, Xiang Lin\*, Ahmed Masry\*, Megh Thakkar\*, Enamul Hoque, Shafiq Joty [\*Equal Contribution]  
 Published at **ACL 2022**
 
 3. <a href="https://aclanthology.org/2022.findings-acl.177/" style="text-decoration: none; color: #99FF9FF;">ChartQA: A Benchmark for Question Answering about Charts with Visual and Logical Reasoning</a>  
