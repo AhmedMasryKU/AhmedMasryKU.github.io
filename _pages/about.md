@@ -17,12 +17,12 @@ Our research work has been published in several prestigious venues such as **ACL
 
 Research Interest
 ======
-<table border="0">
- <tr>
-    <td>Multimodal Chart Understnding</td>
-    <td>MultiModal Document Understanding</td>
- </tr>
-</table>
+* Natural Language Processing
+* Large Language Modeling
+* Vision - Language
+* Multimodal Large Language Modeling
+* Multimodal Chart Understnding
+* Multimodal Document Understanding
 
 <br />
 
