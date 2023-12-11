@@ -15,7 +15,7 @@ Our research work has been published in several prestigious venues such as **ACL
 
 <br />
 
-Research Interest
+Research Interests
 ======
 * Natural Language Processing
 * Large Language Modeling
