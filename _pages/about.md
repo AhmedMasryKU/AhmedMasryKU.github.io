@@ -7,10 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<a href="https://raihanjoty.github.io/" style="text-decoration: none; color: #99FF9FF;">Prof. Shafiq Joty</a>
 
-I am currently working as an **NLP Data Scientist** at [Arteria AI](https://www.arteria.ai/). Prior to that, I completed my M.Sc. (Thesis-based) in Computer Science from [York University](https://www.yorku.ca/) where I was working as a research assistant under the supervision of [Prof. Enamul Hoque](http://www.yorku.ca/enamulh/index.html) in collaboration with [Prof. Shafiq Joty](https://raihanjoty.github.io/), who is currently a research director at [Salesforce AI Research](https://www.salesforceairesearch.com/). My research focused on multimodal charts understanding tasks, such as answering questions about charts, summarizing charts, and extracting data from charts.
+I am currently working as an **NLP Data Scientist** at <a href="https://www.arteria.ai/" style="text-decoration: none; color: #99FF9FF;">Arteria AI</a>. Prior to that, I completed my M.Sc. (Thesis-based) in Computer Science from <a href="https://www.yorku.ca/" style="text-decoration: none; color: #99FF9FF;">York University</a> where I was working as a research assistant under the supervision of <a href="http://www.yorku.ca/enamulh/index.html" style="text-decoration: none; color: #99FF9FF;">Prof. Enamul Hoque</a>. in collaboration with <a href="https://raihanjoty.github.io/" style="text-decoration: none; color: #99FF9FF;">Prof. Shafiq Joty</a>, who is currently a research director at <a href="https://www.salesforceairesearch.com/" style="text-decoration: none; color: #99FF9FF;">Salesforce AI Research</a>. My research focused on multimodal charts understanding tasks, such as answering questions about charts, summarizing charts, and extracting data from charts.
 
-Our research work has been published in several prestigious venues such as **ACL 2022**, **CVPR 2021**, **EuroVis 2022**, and **EMNLP 2023**. Moreover, our work has gained considerable attention; our <a href="https://github.com/vis-nlp/ChartQA" style="text-decoration: none; color: cyan;">ChartQA benchmark</a> has been featured as a key multimodal evaluation benchmark by **OpenAI's GPT-4** official blog post and **Google's Gemini** paper in evaluating their models visual reasoning capabilities.
+Our research work has been published in several prestigious venues such as **ACL 2022**, **CVPR 2021**, **EuroVis 2022**, and **EMNLP 2023**. Moreover, our work has gained considerable attention; our <a href="https://github.com/vis-nlp/ChartQA" style="text-decoration: none; color: #99FF9FF;">ChartQA benchmark</a> has been featured as a key multimodal evaluation benchmark by **OpenAI's GPT-4** official blog post and **Google's Gemini** paper in evaluating their models visual reasoning capabilities.
 
 <br />
 <br />
@@ -18,10 +19,10 @@ Our research work has been published in several prestigious venues such as **ACL
 Education
 ======
 
-* [York University](https://www.yorku.ca/)  
+* <a href="https://www.yorku.ca/" style="text-decoration: none; color: #99FF9FF;">York University</a>  
 **M.Sc. in Computer Science**, Sep 2020 - June 2022  
 GPA: 9/9, Exceptional
-* [Koc University](https://www.ku.edu.tr/en/)  
+* <a href="https://www.ku.edu.tr/en/" style="text-decoration: none; color: #99FF9FF;">Koc University</a>  
 **B.Sc. in Computer Engineering**, Sep 2017 - June 2020  
 GPA: 3.9/4.0
 
@@ -30,19 +31,19 @@ GPA: 3.9/4.0
 
 Work Experience
 ======
-* [Arteria AI](https://www.arteria.ai/)  
+* <a href="https://www.arteria.ai/" style="text-decoration: none; color: #99FF9FF;">Arteria AI</a>  
 **Data Scientist**, May 2022 - Present
   
-* [York University](https://www.yorku.ca/)  
+* <a href="https://www.yorku.ca/" style="text-decoration: none; color: #99FF9FF;">York University</a>  
 **Research Assistant**, Sep 2020 - June 2022
 
-* [York University](https://www.yorku.ca/)  
+* <a href="https://www.yorku.ca/" style="text-decoration: none; color: #99FF9FF;">York University</a>  
 **Teaching Assistant**, Jan 2021 - Apr 2022
 
 * ShallowAI  
 **Data Scientist Intern**, July 2020 - Sep 2020
 
-* [Koc University](https://www.ku.edu.tr/en/)   
+* <a href="https://www.ku.edu.tr/en/" style="text-decoration: none; color: #99FF9FF;">Koc University</a>     
 **Undergraduate Research Assistant**, June 2019 - Jan 2020
 
 <br />
