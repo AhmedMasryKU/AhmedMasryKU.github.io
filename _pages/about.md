@@ -10,3 +10,12 @@ redirect_from:
 
 I am currently working as an NLP Data Scientist at Arteria AI. Prior to that, I completed my M.Sc. (Thesis-based) in Computer Science from York University where I was working as a research assistant under the supervision of Prof. Enamul Hoque in collaboration with Prof. Shafiq Joty,  who is currently a research director at Salesforce AI Research. My research focused on multimodal charts understanding tasks, such as answering questions about charts, summarizing charts, and extracting data from charts.
 Our research work has been published in several prestigious venues such as ACL 2022, CVPR 2021, and EuroVis 2022. Moreover, our work has gained considerable attention and was cited by several prestigious research AI teams in their papers including Google (Pix2Struct, DePlot, MatCha, Pali-X), Microsoft & Amazon (ChartReader). Additionally, our ChartQA benchmark has been recognized and cited by OpenAI's GPT-4 official blog post in evaluating their GPT-4 model reasoning capabilities.
+
+
+Education
+======
+
+M.Sc. in Computer ScienceYork University, Canada			September 2020 to June 2022 
+GPA: Exceptional, A+
+B.Sc. in Computer EngineeringKoc University (Ranked 1st in Turkey) September 2017 to June 2022
+GPA: 3.9/4.0
