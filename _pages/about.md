@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently working as an **NLP Data Scientist** at [Arteria AI](https://www.arteria.ai/). Prior to that, I completed my M.Sc. (Thesis-based) in Computer Science from [York University](https://www.yorku.ca/) where I was working as a research assistant under the supervision of [Prof. Enamul Hoque](http://www.yorku.ca/enamulh/index.html) in collaboration with [Prof. Shafiq Joty](https://raihanjoty.github.io/), who is currently a research director at [Salesforce AI Research](https://www.salesforceairesearch.com/). My research focused on multimodal charts understanding tasks, such as answering questions about charts, summarizing charts, and extracting data from charts.
 
-Our research work has been published in several prestigious venues such as **ACL 2022**, **CVPR 2021**, **EuroVis 2022**, and **EMNLP 2023**. Moreover, our work has gained considerable attention; our <a href="https://github.com/vis-nlp/ChartQA" style="text-decoration: none; color: #0000FF;">ChartQA benchmark</a> has been featured as a key multimodal evaluation benchmark by **OpenAI's GPT-4** official blog post and **Google's Gemini** paper in evaluating their models visual reasoning capabilities.
+Our research work has been published in several prestigious venues such as **ACL 2022**, **CVPR 2021**, **EuroVis 2022**, and **EMNLP 2023**. Moreover, our work has gained considerable attention; our <a href="https://github.com/vis-nlp/ChartQA" style="text-decoration: none; color: #99FF9FF;">ChartQA benchmark</a> has been featured as a key multimodal evaluation benchmark by **OpenAI's GPT-4** official blog post and **Google's Gemini** paper in evaluating their models visual reasoning capabilities.
 
 <br />
 <br />
