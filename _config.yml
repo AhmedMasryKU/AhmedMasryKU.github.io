@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Ahmed Masry"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Ahmed Masry"
+description              : &description "I am currently working as an NLP Data Scientist at Arteria AI. Prior to that, I completed my M.Sc. (Thesis-based) in Computer Science from York University where I was working as a research assistant under the supervision of Prof. Enamul Hoque in collaboration with Prof. Shafiq Joty,  who is currently a research director at Salesforce AI Research. My research focused on multimodal charts understanding tasks, such as answering questions about charts, summarizing charts, and extracting data from charts. Our research work has been published in several prestigious venues such as ACL 2022, CVPR 2021, and EuroVis 2022. Moreover, our work has gained considerable attention and was cited by several prestigious research AI teams in their papers including Google (Pix2Struct, DePlot, MatCha, Pali-X), Microsoft & Amazon (ChartReader). Additionally, our ChartQA benchmark has been recognized and cited by OpenAI's GPT-4 official blog post in evaluating their GPT-4 model reasoning capabilities."
+url                      : https://ahmedmasry.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "AhmedMasryKU.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Ahmed Masry"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Data Scientist (NLP / ML) at Arteria AI"
+  location         : "Toronto, Canada"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=XqPX5XcAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "AhmedMasryKU"
   google_plus      :
   keybase          :
   instagram        :
