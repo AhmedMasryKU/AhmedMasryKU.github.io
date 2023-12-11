@@ -92,3 +92,35 @@ Student Ambassador
 * **Robotics Craftsmanship International Academy (University of Coimbra)**  
 Ranked 1st in the sumo robots competition, and in the top 10 out of 84 participants.
 
+
+Recent News
+======
+* Paper accepted at EMNLP 2023  
+October 2023
+* Presented ChartQA Poster at TMLS 2023  
+June 2023
+* Defended my M.Sc. Thesis at York University  
+June 2022
+* Presented ChartQA Poster at CVR/VISTA 2022  
+June 2022
+* Paper accepted at EuroVis 2022  
+May 2022
+* Started working at ArteriaAI as an NLP Data Scientist.  
+May 2022
+* Paper accepted at ACL 2022  
+March 2022
+* Paper accepted at ACL 2022  
+March 2022
+* Won Best Paper Paper award at ChartQA@CVPR 2021  
+June 2021
+* Paper accepted at ChartQA@CVPR 2021  
+June 2021
+* Joined as a Graduate Teaching Student at York University  
+January 2021
+* Joined as a Graduate Research Assistant at York University  
+September 2020
+* Started Fully Funded M.Sc. in Computer Science at York University  
+September 2020
+* Started as a Data Scientist Intern at Shallow AI  
+July 2020
+
