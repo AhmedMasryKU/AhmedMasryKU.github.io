@@ -18,7 +18,7 @@ Our research work has been published in several prestigious venues such as **ACL
 Research Interests
 ======
 * Natural Language Processing
-* Large Language Modeling
+* Large Language Models
 * Vision - Language
 * Multimodal Large Language Modeling
 * Multimodal Chart Understnding
