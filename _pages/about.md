@@ -15,6 +15,17 @@ Our research work has been published in several prestigious venues such as **ACL
 
 <br />
 
+Research Interest
+======
+<table border="0">
+ <tr>
+    <td>Multimodal Chart Understnding</td>
+    <td>MultiModal Document Understanding</td>
+ </tr>
+</table>
+
+<br />
+
 Education
 ======
 
