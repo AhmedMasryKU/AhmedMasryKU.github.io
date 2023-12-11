@@ -92,6 +92,7 @@ Student Ambassador
 * **Robotics Craftsmanship International Academy (University of Coimbra)**  
 Ranked 1st in the sumo robots competition, and in the top 10 out of 84 participants.
 
+<br />
 
 Recent News
 ======
