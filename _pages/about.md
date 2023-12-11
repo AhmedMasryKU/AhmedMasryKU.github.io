@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<a href="https://raihanjoty.github.io/" style="text-decoration: none; color: #99FF9FF;">Prof. Shafiq Joty</a>
+
 
 I am currently working as an **NLP Data Scientist** at <a href="https://www.arteria.ai/" style="text-decoration: none; color: #99FF9FF;">Arteria AI</a>. Prior to that, I completed my M.Sc. (Thesis-based) in Computer Science from <a href="https://www.yorku.ca/" style="text-decoration: none; color: #99FF9FF;">York University</a> where I was working as a research assistant under the supervision of <a href="http://www.yorku.ca/enamulh/index.html" style="text-decoration: none; color: #99FF9FF;">Prof. Enamul Hoque</a>. in collaboration with <a href="https://raihanjoty.github.io/" style="text-decoration: none; color: #99FF9FF;">Prof. Shafiq Joty</a>, who is currently a research director at <a href="https://www.salesforceairesearch.com/" style="text-decoration: none; color: #99FF9FF;">Salesforce AI Research</a>. My research focused on multimodal charts understanding tasks, such as answering questions about charts, summarizing charts, and extracting data from charts.
 
@@ -52,27 +52,27 @@ Work Experience
 Publications
 ======
 
-1. UniChart: A Universal Vision-language Pretrained Model for Chart Comprehension and Reasoning  
+1. <a href="https://arxiv.org/abs/2305.14761" style="text-decoration: none; color: #99FF9FF;">UniChart: A Universal Vision-language Pretrained Model for Chart Comprehension and Reasoning</a>  
 Ahmed Masry*, Parsa Kavehzadeh*, Xuan Long Do, Shafiq Joty, and Enamul Hoque [*Equal Contribution]  
 Published at **EMNLP 2023**
 
-2. Chart-to-Text: A Large-Scale Benchmark for Chart Summarization  
+2. <a href="https://aclanthology.org/2022.acl-long.277/" style="text-decoration: none; color: #99FF9FF;">Chart-to-Text: A Large-Scale Benchmark for Chart Summarization</a>  
 Shankar Kantharaj*, Rixie Tiffany Leong*, Xiang Lin*, Ahmed Masry*, Megh Thakkar*, Enamul Hoque, Shafiq Joty [*Equal Contribution]  
 Published at **ACL 2022**
 
-3. ChartQA: A Benchmark for Question Answering about Charts with Visual and Logical Reasoning  
+3. <a href="https://aclanthology.org/2022.findings-acl.177/" style="text-decoration: none; color: #99FF9FF;">ChartQA: A Benchmark for Question Answering about Charts with Visual and Logical Reasoning</a>  
 Ahmed Masry, Do Long, Jia Qing Tan, Shafiq Joty, and Enamul Hoque.  
 Published at **ACL 2022**
 
-5. Chart Question Answering: State of the Art and Future Directions  
+4. <a href="https://arxiv.org/abs/2205.03966" style="text-decoration: none; color: #99FF9FF;">Chart Question Answering: State of the Art and Future Directions</a>   
 Enamul Hoque, Parsa Kavehzadeh, Ahmed Masry  
 Published at **EuroVis 2022**
 
-6. Integrating Image Data Extraction and Table Parsing Methods for Chart Question Answering  
+5. <a href="https://www.yorku.ca/enamulh/papers/cqaw.pdf" style="text-decoration: none; color: #99FF9FF;">Integrating Image Data Extraction and Table Parsing Methods for Chart Question Answering</a>  
 Ahmed Masry, Enamul Hoque Prince  
 Published at **ChartQA @ CVPR 2021** **[Best Paper Award]**
 
-7. Chain FL: Decentralized Federated Machine Learning via Blockchain  
+6. <a href="https://ieeexplore.ieee.org/document/9274451" style="text-decoration: none; color: #99FF9FF;">Chain FL: Decentralized Federated Machine Learning via Blockchain</a>  
 C. Korkmaz, H. E. Kocas, A. Uysal, A. Masry, O. Ozkasap and B. Akgun  
 Published at **BCCA 2020**
 
