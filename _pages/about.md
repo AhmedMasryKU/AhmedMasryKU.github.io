@@ -28,19 +28,19 @@ GPA: 3.9/4.0
 
 Work Experience
 ======
-* Arteria AI
+* Arteria AI  
 Data Scientist, May 2022 - Present
   
-* York University
+* York University  
 Research Assistant, Sep 2020 - June 2022
 
-* York University
+* York University  
 Teaching Assistant, Jan 2021 - Apr 2022
 
-* ShallowAI
+* ShallowAI  
 Data Scientist Intern, July 2020 - Sep 2020
 
-* Koc University
+* Koc University  
 Undergraduate Research Assistant, June 2019 - Jan 2020
 
 
@@ -48,34 +48,28 @@ Undergraduate Research Assistant, June 2019 - Jan 2020
 Publications
 ======
 
-1. UniChart: A Universal Vision-language Pretrained Model for Chart Comprehension and Reasoning
-Ahmed Masry*, Parsa Kavehzadeh*, Xuan Long Do, Shafiq Joty, and Enamul Hoque [*Equal Contribution]
-
+1. UniChart: A Universal Vision-language Pretrained Model for Chart Comprehension and Reasoning  
+Ahmed Masry*, Parsa Kavehzadeh*, Xuan Long Do, Shafiq Joty, and Enamul Hoque [*Equal Contribution]  
 arXiv:2305.14761  (Accepted at EMNLP 2023)
 
-2. Chart-to-Text: A Large-Scale Benchmark for Chart Summarization
-Shankar Kantharaj*, Rixie Tiffany Leong*, Xiang Lin*, Ahmed Masry*, Megh Thakkar*, Enamul Hoque, Shafiq Joty [*Equal Contribution]
-
-Published at ACL 2022 
-
-3. ChartQA: A Benchmark for Question Answering about Charts with Visual and Logical Reasoning
-Ahmed Masry, Do Long, Jia Qing Tan, Shafiq Joty, and Enamul Hoque.
-
+2. Chart-to-Text: A Large-Scale Benchmark for Chart Summarization  
+Shankar Kantharaj*, Rixie Tiffany Leong*, Xiang Lin*, Ahmed Masry*, Megh Thakkar*, Enamul Hoque, Shafiq Joty [*Equal Contribution]  
 Published at ACL 2022
 
-4. Chart Question Answering: State of the Art and Future Directions
-Enamul Hoque, Parsa Kavehzadeh, Ahmed Masry
+3. ChartQA: A Benchmark for Question Answering about Charts with Visual and Logical Reasoning  
+Ahmed Masry, Do Long, Jia Qing Tan, Shafiq Joty, and Enamul Hoque.  
+Published at ACL 2022
 
+4. Chart Question Answering: State of the Art and Future Directions  
+Enamul Hoque, Parsa Kavehzadeh, Ahmed Masry  
 Published at EuroVis 2022
 
-5. Integrating Image Data Extraction and Table Parsing Methods for Chart Question Answering
-Ahmed Masry, Enamul Hoque Prince
-
+5. Integrating Image Data Extraction and Table Parsing Methods for Chart Question Answering  
+Ahmed Masry, Enamul Hoque Prince  
 Published at ChartQA @ CVPR 2021 [Best Paper Award]
 
-6. Chain FL: Decentralized Federated Machine Learning via Blockchain
-C. Korkmaz, H. E. Kocas, A. Uysal, A. Masry, O. Ozkasap and B. Akgun
-
+6. Chain FL: Decentralized Federated Machine Learning via Blockchain  
+C. Korkmaz, H. E. Kocas, A. Uysal, A. Masry, O. Ozkasap and B. Akgun  
 Published at BCCA 2020
 
 
@@ -83,16 +77,16 @@ Published at BCCA 2020
 
 Achievements & ExtraCurricular
 ======
-* Al Ghurair Foundation for Education STEM Scholarship Program (AGFE)
+* Al Ghurair Foundation for Education STEM Scholarship Program (AGFE)  
 A merit-based award for highly achieving Arab students to pursue a fully funded STEM degree.
 
-* Vehbi Koc Scholar And Dean’s Honor Roll
+* Vehbi Koc Scholar And Dean’s Honor Roll  
 Merit-based Awards for Academic Excellence
 
-* CVPR 2021 Chart Question Answering Workshop
+* CVPR 2021 Chart Question Answering Workshop  
 Achieved Best Paper Award.
 
-* Al-Ghurair Foundation (AGFE)
+* Al-Ghurair Foundation (AGFE)  
 Student Ambassador
 
 * Robotics Craftsmanship International Academy (University of Coimbra)
