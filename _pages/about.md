@@ -17,11 +17,11 @@ Our research work has been published in several prestigious venues such as **ACL
 Education
 ======
 
-* York University
+* York University  
 M.Sc. in Computer Science, Sep 2020 - June 2022  
 GPA: 9/9, Exceptional
-* Koc University
-B.Sc. in Computer Engineering, Sep 2017 - June 2020
+* Koc University  
+B.Sc. in Computer Engineering, Sep 2017 - June 2020  
 GPA: 3.9/4.0
 
 
