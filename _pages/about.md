@@ -64,30 +64,30 @@ Publications
 ======
 
 1. <a href="https://arxiv.org/abs/2401.15050" style="text-decoration: none; color: #99FF9FF;">LongFin: A Multimodal Document Understanding Model for Long Financial Domain Documents</a>  
-**Ahmed Masry** and Amir Hajian
+**Ahmed Masry** and Amir Hajian.
 Published at **AIFinSI @ AAAI 2024**
 
-2. <a href="https://arxiv.org/abs/2305.14761" style="text-decoration: none; color: #99FF9FF;">UniChart: A Universal Vision-language Pretrained Model for Chart Comprehension and Reasoning</a>  
+3. <a href="https://arxiv.org/abs/2305.14761" style="text-decoration: none; color: #99FF9FF;">UniChart: A Universal Vision-language Pretrained Model for Chart Comprehension and Reasoning</a>  
 **Ahmed Masry\***, Parsa Kavehzadeh\*, Xuan Long Do, Shafiq Joty, and Enamul Hoque [\*Equal Contribution]  
 Published at **EMNLP 2023**
 
-3. <a href="https://aclanthology.org/2022.acl-long.277/" style="text-decoration: none; color: #99FF9FF;">Chart-to-Text: A Large-Scale Benchmark for Chart Summarization</a>  
+4. <a href="https://aclanthology.org/2022.acl-long.277/" style="text-decoration: none; color: #99FF9FF;">Chart-to-Text: A Large-Scale Benchmark for Chart Summarization</a>  
 Shankar Kantharaj\*, Rixie Tiffany Leong\*, Xiang Lin\*, **Ahmed Masry\***, Megh Thakkar\*, Enamul Hoque, Shafiq Joty [\*Equal Contribution]  
 Published at **ACL 2022**
 
-4. <a href="https://aclanthology.org/2022.findings-acl.177/" style="text-decoration: none; color: #99FF9FF;">ChartQA: A Benchmark for Question Answering about Charts with Visual and Logical Reasoning</a>  
+5. <a href="https://aclanthology.org/2022.findings-acl.177/" style="text-decoration: none; color: #99FF9FF;">ChartQA: A Benchmark for Question Answering about Charts with Visual and Logical Reasoning</a>  
 **Ahmed Masry**, Do Long, Jia Qing Tan, Shafiq Joty, and Enamul Hoque.  
 Published at **ACL 2022**
 
-5. <a href="https://arxiv.org/abs/2205.03966" style="text-decoration: none; color: #99FF9FF;">Chart Question Answering: State of the Art and Future Directions</a>   
+6. <a href="https://arxiv.org/abs/2205.03966" style="text-decoration: none; color: #99FF9FF;">Chart Question Answering: State of the Art and Future Directions</a>   
 Enamul Hoque, Parsa Kavehzadeh, **Ahmed Masry**  
 Published at **EuroVis 2022**
 
-6. <a href="https://www.yorku.ca/enamulh/papers/cqaw.pdf" style="text-decoration: none; color: #99FF9FF;">Integrating Image Data Extraction and Table Parsing Methods for Chart Question Answering</a>  
+7. <a href="https://www.yorku.ca/enamulh/papers/cqaw.pdf" style="text-decoration: none; color: #99FF9FF;">Integrating Image Data Extraction and Table Parsing Methods for Chart Question Answering</a>  
 **Ahmed Masry**, Enamul Hoque Prince  
 Published at **ChartQA @ CVPR 2021** **[Best Paper Award]**
 
-7. <a href="https://ieeexplore.ieee.org/document/9274451" style="text-decoration: none; color: #99FF9FF;">Chain FL: Decentralized Federated Machine Learning via Blockchain</a>  
+8. <a href="https://ieeexplore.ieee.org/document/9274451" style="text-decoration: none; color: #99FF9FF;">Chain FL: Decentralized Federated Machine Learning via Blockchain</a>  
 C. Korkmaz, H. E. Kocas, A. Uysal, **A. Masry**, O. Ozkasap and B. Akgun  
 Published at **BCCA 2020**
 
