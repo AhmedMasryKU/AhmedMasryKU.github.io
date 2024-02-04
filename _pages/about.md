@@ -64,7 +64,7 @@ Publications
 ======
 
 1. <a href="https://arxiv.org/abs/2401.15050" style="text-decoration: none; color: #99FF9FF;">LongFin: A Multimodal Document Understanding Model for Long Financial Domain Documents</a>  
-**Ahmed Masry** and Amir Hajian.
+**Ahmed Masry** and Amir Hajian.  
 Published at **AIFinSI @ AAAI 2024**
 
 3. <a href="https://arxiv.org/abs/2305.14761" style="text-decoration: none; color: #99FF9FF;">UniChart: A Universal Vision-language Pretrained Model for Chart Comprehension and Reasoning</a>  
