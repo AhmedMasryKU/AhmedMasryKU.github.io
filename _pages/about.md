@@ -122,9 +122,9 @@ Ranked 1st in the sumo robots competition, and in the top 10 out of 84 participa
 
 Recent News
 ======
-* Paper accepted at **AIFinSI@AAAI 2024**
+* Paper accepted at **AIFinSI@AAAI 2024**  
 January 2024
-* Promoted to **Senior Data Scientist** at at Arteria AI 
+* Promoted to **Senior Data Scientist** at at Arteria AI  
 January 2024
 * Paper accepted at **EMNLP 2023**  
 October 2023
