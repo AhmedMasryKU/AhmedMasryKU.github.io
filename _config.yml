@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ahmed Masry"
 title_separator          : "-"
 name                     : &name "Ahmed Masry"
-description              : &description "Incoming PhD Student at York University"
+description              : &description "PhD Student at York University"
 url                      : https://ahmedmasryku.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AhmedMasryKU.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ahmed Masry"
   avatar           : "personal_photo.jpg"
-  bio              : "Incoming PhD Student at York University"
+  bio              : "PhD Student at York University"
   location         : "Toronto, Canada"
   employer         :
   pubmed           :
