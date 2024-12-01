@@ -105,14 +105,17 @@ Published at **EuroVis 2022**
 
 Workshop Papers
 ======
-
-1. <a href="https://arxiv.org/abs/2401.15050" style="text-decoration: none; color: #99FF9FF;">LongFin: A Multimodal Document Understanding Model for Long Financial Domain Documents</a>  
+1. <a href=" https://www.servicenow.com/research/publication/juan-a.-rodriguez-bigd-neurips-workshops2024.html" style="text-decoration: none; color: #99FF9FF;">BigDocs: A Permissively-Licensed Dataset for Training Vision-Language Models on Document and Code Tasks.</a>  
+Juan A. Rodriguez, Xiangru Jian, Siba Smarak Panigrahi, Tianyu Zhang, Aarash Feizi, Abhay Puri, Akshay Kalkunte, Francois Savard, Amirhossein Abaskohi, **Ahmed Masry**, Perampalli Shravan Nayak, Mahsa Massoud, Rabiul Awal, Pierre-André Noël, Mats L. Richter, Saverio Vadacchino, Shubham Agarwal, Sanket Biswas, Ying Zhang, Sathwik Tejaswi Madhusudhan, João Monteiro, Krishnamurthy (Dj) Dvijotham, Torsten Scholak, Nicolas Chapados, Sean Hughes, Tamer Özsu, Aishwarya Agrawal, Marco Pedersoli, Christopher Pal, Perouz Taslakian, David Vazquez, Issam H. Laradji, Spandana Gella, Sai Rajeswar Mudumba.  
+Presented at **RBFM @ NeurIPS 2024**
+ 
+2. <a href="https://arxiv.org/abs/2401.15050" style="text-decoration: none; color: #99FF9FF;">LongFin: A Multimodal Document Understanding Model for Long Financial Domain Documents</a>  
 **Ahmed Masry** and Amir Hajian.  
-Published at **AIFinSI @ AAAI 2024**
+Presented at **AIFinSI @ AAAI 2024**
 
-2. <a href="https://www.yorku.ca/enamulh/papers/cqaw.pdf" style="text-decoration: none; color: #99FF9FF;">Integrating Image Data Extraction and Table Parsing Methods for Chart Question Answering</a>  
+3. <a href="https://www.yorku.ca/enamulh/papers/cqaw.pdf" style="text-decoration: none; color: #99FF9FF;">Integrating Image Data Extraction and Table Parsing Methods for Chart Question Answering</a>  
 **Ahmed Masry**, Enamul Hoque Prince  
-Published at **ChartQA @ CVPR 2021** **[Best Paper Award]**
+Presented at **ChartQA @ CVPR 2021** **[Best Paper Award]**
 
 <br />
 
