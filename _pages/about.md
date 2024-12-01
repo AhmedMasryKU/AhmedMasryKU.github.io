@@ -69,7 +69,7 @@ Work Experience
 Conference Publications
 ======
 1. <a href="https://arxiv.org/abs/2407.04172v1" style="text-decoration: none; color: #99FF9FF;"> ChartGemma: Visual Instruction-tuning for Chart Reasoning in the Wild</a>  
-**Ahmed Masry\***, Megh Thakkar\*, Aayush Bajaj, Aaryaman Kartha, Enamul Hoque, Shafiq Joty
+**Ahmed Masry\***, Megh Thakkar\*, Aayush Bajaj, Aaryaman Kartha, Enamul Hoque, Shafiq Joty  
 Published at **COLING 2025**
 
 2. <a href="https://arxiv.org/abs/2403.09028" style="text-decoration: none; color: #99FF9FF;">ChartInstruct: Instruction Tuning for Chart Comprehension and Reasoning</a>  
