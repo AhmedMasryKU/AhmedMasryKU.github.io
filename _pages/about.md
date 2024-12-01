@@ -157,11 +157,11 @@ Recent News
 ======
 * Paper accepted at **COLING 2025**  
 November 2024
-* Started as a Visiting Researcher at **ServiceNow Research**
+* Started as a Visiting Researcher at **ServiceNow Research**  
 September 2024
-* Received **Google's PaliGemma Academic Program Award**.
+* Received **Google's PaliGemma Academic Program Award**  
 September 2024
-* Started my PhD at **York University**
+* Started my PhD at **York University**  
 September 2024
 * Paper accepted at **ACL 2024**  
 May 2024
