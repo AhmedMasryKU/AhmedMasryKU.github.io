@@ -8,26 +8,27 @@ redirect_from:
   - /about.html
 ---
 
-
-I am a PhD student at <a href="https://www.yorku.ca/" style="text-decoration: none; color: #99FF9FF;">York University</a>. I completed my M.Sc. (Thesis-based) in Computer Science from <a href="https://www.yorku.ca/" style="text-decoration: none; color: #99FF9FF;">York University</a> where I was working as a research assistant under the supervision of <a href="http://www.yorku.ca/enamulh/index.html" style="text-decoration: none; color: #99FF9FF;">Prof. Enamul Hoque</a>. in collaboration with <a href="https://raihanjoty.github.io/" style="text-decoration: none; color: #99FF9FF;">Prof. Shafiq Joty</a>, who is currently a research director at <a href="https://www.salesforceairesearch.com/" style="text-decoration: none; color: #99FF9FF;">Salesforce AI Research</a>. My research focused on multimodal charts understanding tasks, such as answering questions about charts, summarizing charts, and extracting data from charts.
-
-Our research work has been accepted in several prestigious conferences such as **ACL 2022**, **CVPR 2021**, **EuroVis 2022**, **EMNLP 2023**, **AAAI 2024**, and **ACL 2024**. Moreover, our work has gained considerable attention; our <a href="https://github.com/vis-nlp/ChartQA" style="text-decoration: none; color: #99FF9FF;">ChartQA benchmark</a> has been featured as a key multimodal evaluation benchmark by **OpenAI's GPT-4** official blog post and **Google's Gemini** paper in evaluating their models visual reasoning capabilities. My [google scholar](https://scholar.google.com/citations?user=XqPX5XcAAAAJ&hl=en) has over **435 citations with an h-index of 6**.  Our chart understanding models have been downloaded over **40,000** times from [Hugging Face](https://huggingface.co/ahmed-masry), with a monthly average of **5,000** downloads!
+I am a Ph.D. student in Computer Science at <a href="https://www.yorku.ca/" style="text-decoration: none; color: #99FF9FF;">York University</a> supervised by <a href="http://www.yorku.ca/enamulh/index.html" style="text-decoration: none; color: #99FF9FF;">Prof. Enamul Hoque</a>. My research focuses on developing multimodal vision-language models and benchmarks for chart, table, and document comprehension. I earned my Master of Science in Computer Science from <a href="https://www.yorku.ca/" style="text-decoration: none; color: #99FF9FF;">York University</a> in 2022 and a Bachelor of Science in Computer Engineering from Koc University in 2020, supported by the fully-funded Al Ghurair Foundation (AGFE) STEM scholarship.
+My research, published in top-tier conferences such as **ACL 2022**, **EuroVis 2022**, **EMNLP 2023**, **ACL 2024**, and **COLING 2025**, as well as workshops at **AAAI 2024** and **CVPR 2021** (where I received the **Best Paper Award**), focuses on advancing chart understanding benchmarks (e.g., ChartQA, Chart2Text) and models (e.g., UniChart, ChartInstruct, ChartGemma). These contributions have been widely adopted, accumulating over **70,000 downloads** on open-source platforms like <a hred="https://huggingface.co/ahmed-masry" style="text-decoration: none; color: #99FF9FF;">Hugging Face</a>. Notably, our <a href="https://github.com/vis-nlp/ChartQA" style="text-decoration: none; color: #99FF9FF;">ChartQA benchmark</a> has been featured as a key multimodal evaluation benchmark by **OpenAI’s GPT-4** official blog post and **Google’s Gemini** paper in evaluating their models visual reasoning capabilities. As of December 1st, 2024, my publications have received **700 citations**, and I have an **h-index of 7** on [Google Scholar](https://scholar.google.com/citations?user=XqPX5XcAAAAJ&hl=en). My research is also supported by funding awards such as the **Google PaliGemma Academic Award**.
+Professionally, I have worked as a Senior Data Scientist at Arteria AI, leading multimodal document understanding projects for clients in the finance and legal industries in Canada between 2022 and 2024. Currently, I am a visiting researcher at **ServiceNow Research**, where I focus on designing novel vision-language large model (VLLM) architectures for multimodal document understanding and training cutting-edge VLLMs (e.g., LLama 3.2, Phi3.5, Idefics-3) on large compute clusters with multi-node H100 GPUs.
 
 <br />
 
 Research Interests
 ======
-* Natural Language Processing
-* Large Language Models
-* Vision - Language
 * Multimodal Large Language Modeling
 * Multimodal Chart Understnding
 * Multimodal Document Understanding
+* Natural Language Processing
+* Large Language Models
+* Vision - Language
 
 <br />
 
 Education
 ======
+* <a href="https://www.yorku.ca/" style="text-decoration: none; color: #99FF9FF;">York University</a>  
+**PhD in Computer Science**, Sep 2024 - Present
 
 * <a href="https://www.yorku.ca/" style="text-decoration: none; color: #99FF9FF;">York University</a>  
 **M.Sc. in Computer Science**, Sep 2020 - June 2022  
@@ -40,8 +41,11 @@ GPA: 3.9/4.0
 
 Work Experience
 ======
+* <a href="https://www.servicenow.com/research/people.html" style="text-decoration: none; color: #99FF9FF;">ServiceNow Research</a>  
+**Visiting Researcher**, September 2024 - Present
+  
 * <a href="https://www.arteria.ai/" style="text-decoration: none; color: #99FF9FF;">Arteria AI</a>  
-**Senior Data Scientist**, January 2024 - Present
+**Senior Data Scientist**, January 2024 - September 2024
   
 * <a href="https://www.arteria.ai/" style="text-decoration: none; color: #99FF9FF;">Arteria AI</a>  
 **Data Scientist**, May 2022 - December 2023
@@ -60,10 +64,13 @@ Work Experience
 
 <br />
 
-Publications
+Conference Publications
 ======
+1. <a href="https://arxiv.org/abs/2407.04172v1" style="text-decoration: none; color: #99FF9FF;"> ChartGemma: Visual Instruction-tuning for Chart Reasoning in the Wild</a>  
+**Ahmed Masry\***, Megh Thakkar\*, Aayush Bajaj, Aaryaman Kartha, Enamul Hoque, Shafiq Joty
+Published at **COLING 2025**
 
-1. <a href="https://arxiv.org/abs/2403.09028" style="text-decoration: none; color: #99FF9FF;">ChartInstruct: Instruction Tuning for Chart Comprehension and Reasoning</a>  
+2. <a href="https://arxiv.org/abs/2403.09028" style="text-decoration: none; color: #99FF9FF;">ChartInstruct: Instruction Tuning for Chart Comprehension and Reasoning</a>  
 **Ahmed Masry\***, Mehrad Shahmohammadi\*, Md Rizwan Parvez, Enamul Hoque, Shafiq Joty [\*Equal Contribution]  
 Published at **ACL 2024**
 
@@ -79,13 +86,18 @@ Published at **ACL 2022**
 **Ahmed Masry**, Do Long, Jia Qing Tan, Shafiq Joty, and Enamul Hoque.  
 Published at **ACL 2022**
 
-6. <a href="https://arxiv.org/abs/2205.03966" style="text-decoration: none; color: #99FF9FF;">Chart Question Answering: State of the Art and Future Directions</a>   
-Enamul Hoque, Parsa Kavehzadeh, **Ahmed Masry**  
-Published at **EuroVis 2022**
-
-8. <a href="https://ieeexplore.ieee.org/document/9274451" style="text-decoration: none; color: #99FF9FF;">Chain FL: Decentralized Federated Machine Learning via Blockchain</a>  
+6. <a href="https://ieeexplore.ieee.org/document/9274451" style="text-decoration: none; color: #99FF9FF;">Chain FL: Decentralized Federated Machine Learning via Blockchain</a>  
 C. Korkmaz, H. E. Kocas, A. Uysal, **A. Masry**, O. Ozkasap and B. Akgun  
 Published at **BCCA 2020**
+
+<br />
+
+Journal Publications
+======
+
+1. <a href="https://arxiv.org/abs/2205.03966" style="text-decoration: none; color: #99FF9FF;">Chart Question Answering: State of the Art and Future Directions</a>   
+Enamul Hoque, Parsa Kavehzadeh, **Ahmed Masry**  
+Published at **EuroVis 2022**
 
 <br />
 
@@ -104,12 +116,8 @@ Published at **ChartQA @ CVPR 2021** **[Best Paper Award]**
 
 Preprints
 ======
-
 1. <a href="https://arxiv.org/abs/2312.10610" style="text-decoration: none; color: #99FF9FF;">Do LLMs Work on Charts? Designing Few-Shot Prompts for Chart Question Answering and Summarization</a>  
 Xuan Long Do, Mohammad Hassanpour, **Ahmed Masry**, Parsa Kavehzadeh, Enamul Hoque, Shafiq Joty
-
-2. <a href="https://arxiv.org/abs/2407.04172v1" style="text-decoration: none; color: #99FF9FF;"> ChartGemma: Visual Instruction-tuning for Chart Reasoning in the Wild</a>  
-**Ahmed Masry\***, Megh Thakkar\*, Aayush Bajaj, Aaryaman Kartha, Enamul Hoque, Shafiq Joty
 
 <br />
 
@@ -134,6 +142,7 @@ Ranked 1st in the sumo robots competition, and in the top 10 out of 84 participa
 
 Academic Services
 ======
+* **NAACL 2025 Reviewer**
 * **ACL 2024 Reviewer**
 * **EMNLP 2024 Reviewer**
   
@@ -141,6 +150,14 @@ Academic Services
 
 Recent News
 ======
+* Paper accepted at **COLING 2025**  
+November 2024
+* Started as a Visiting Researcher at **ServiceNow Research**
+September 2024
+* Received **Google's PaliGemma Academic Program Award**.
+September 2024
+* Started my PhD at **York University**
+September 2024
 * Paper accepted at **ACL 2024**  
 May 2024
 * Paper accepted at **AIFinSI@AAAI 2024**  
