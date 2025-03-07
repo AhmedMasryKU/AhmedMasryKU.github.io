@@ -77,7 +77,7 @@ Published at **ICLR 2025**
 Published at **COLING 2025**
 
 3. <a href="https://arxiv.org/abs/2406.00257" style="text-decoration: none; color: #99FF9FF;">Are Large Vision Language Models up to the Challenge of Chart Comprehension and Reasoning? An Extensive Investigation into the Capabilities and Limitations of LVLMs</a>  
-Mohammed Saidul Islam, Raian Rahman, **Ahmed Masry**, Md Tahmid Rahman Laskar, Mir Tafseer Nayeem, Enamul Hoque
+Mohammed Saidul Islam, Raian Rahman, **Ahmed Masry**, Md Tahmid Rahman Laskar, Mir Tafseer Nayeem, Enamul Hoque  
 Published at **EMNLP 2024**
 
 4. <a href="https://arxiv.org/abs/2403.09028" style="text-decoration: none; color: #99FF9FF;">ChartInstruct: Instruction Tuning for Chart Comprehension and Reasoning</a>  
