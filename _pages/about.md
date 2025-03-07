@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Ph.D. student in Computer Science at <a href="https://www.yorku.ca/" style="text-decoration: none; color: #99FF9FF;">York University</a> supervised by <a href="http://www.yorku.ca/enamulh/index.html" style="text-decoration: none; color: #99FF9FF;">Prof. Enamul Hoque</a>. My research focuses on developing multimodal vision-language models and benchmarks for chart, table, and document comprehension. I earned my Master of Science in Computer Science from <a href="https://www.yorku.ca/" style="text-decoration: none; color: #99FF9FF;">York University</a> in 2022 and a Bachelor of Science in Computer Engineering from Koc University in 2020, supported by the fully-funded Al Ghurair Foundation (AGFE) STEM scholarship.
 
-My research, published in top-tier conferences such as **ACL 2022**, **EuroVis 2022**, **EMNLP 2023**, **ACL 2024**, and **COLING 2025**, as well as workshops at **AAAI 2024** and **CVPR 2021** (where I received the **Best Paper Award**), focuses on advancing chart understanding benchmarks (e.g., ChartQA, Chart2Text) and models (e.g., UniChart, ChartInstruct, ChartGemma). These contributions have been widely adopted, accumulating over **70,000 downloads** on open-source platforms like <a hred="https://huggingface.co/ahmed-masry" style="text-decoration: none; color: #99FF9FF;">Hugging Face</a>. Notably, our <a href="https://github.com/vis-nlp/ChartQA" style="text-decoration: none; color: #99FF9FF;">ChartQA benchmark</a> has been featured as a key multimodal evaluation benchmark by **OpenAI’s GPT-4** official blog post and **Google’s Gemini** paper in evaluating their models visual reasoning capabilities. As of December 1st, 2024, my publications have received **700 citations**, and I have an **h-index of 7** on [Google Scholar](https://scholar.google.com/citations?user=XqPX5XcAAAAJ&hl=en). My research is also supported by funding awards such as the **Google PaliGemma Academic Award**.
+My research, published in top-tier conferences such as **ACL 2022**, **EuroVis 2022**, **EMNLP 2023**, **ACL 2024**, **EMNLP 2024**, **COLING 2025**, and **ICLR 2025**, as well as workshops at **Neurips 2024**, **ICLR 2025**, **AAAI 2024** and **CVPR 2021** (where I received the **Best Paper Award**), focuses on advancing chart understanding benchmarks (e.g., ChartQA, Chart2Text) and models (e.g., UniChart, ChartInstruct, ChartGemma). These contributions have been widely adopted, accumulating over **100,000 downloads** on open-source platforms like <a hred="https://huggingface.co/ahmed-masry" style="text-decoration: none; color: #99FF9FF;">Hugging Face</a>. Notably, our <a href="https://github.com/vis-nlp/ChartQA" style="text-decoration: none; color: #99FF9FF;">ChartQA benchmark</a> has been featured as a key multimodal evaluation benchmark by **OpenAI’s GPT-4** official blog post and **Google’s Gemini** paper in evaluating their models visual reasoning capabilities. As of March 7th, 2025, my publications have received **946 citations**, and I have an **h-index of 9** on [Google Scholar](https://scholar.google.com/citations?user=XqPX5XcAAAAJ&hl=en). My research is also supported by funding awards such as the **Google PaliGemma Academic Award**.
 
 Professionally, I have worked as a Senior Data Scientist at Arteria AI, leading multimodal document understanding projects for clients in the finance and legal industries in Canada between 2022 and 2024. Currently, I am a visiting researcher at **ServiceNow Research**, where I focus on designing novel vision-language large model (VLLM) architectures for multimodal document understanding and training cutting-edge VLLMs (e.g., LLama 3.2, Phi3.5, Idefics-3) on large compute clusters with multi-node H100 GPUs.
 
@@ -68,27 +68,35 @@ Work Experience
 
 Conference Publications
 ======
-1. <a href="https://arxiv.org/abs/2407.04172v1" style="text-decoration: none; color: #99FF9FF;"> ChartGemma: Visual Instruction-tuning for Chart Reasoning in the Wild</a>  
+1. <a href=" https://www.servicenow.com/research/publication/juan-a.-rodriguez-bigd-neurips-workshops2024.html" style="text-decoration: none; color: #99FF9FF;">BigDocs: A Permissively-Licensed Dataset for Training Vision-Language Models on Document and Code Tasks.</a>  
+Juan A. Rodriguez, Xiangru Jian, Siba Smarak Panigrahi, Tianyu Zhang, Aarash Feizi, Abhay Puri, Akshay Kalkunte, Francois Savard, Amirhossein Abaskohi, **Ahmed Masry**, Perampalli Shravan Nayak, Mahsa Massoud, Rabiul Awal, Pierre-André Noël, Mats L. Richter, Saverio Vadacchino, Shubham Agarwal, Sanket Biswas, Ying Zhang, Sathwik Tejaswi Madhusudhan, João Monteiro, Krishnamurthy (Dj) Dvijotham, Torsten Scholak, Nicolas Chapados, Sean Hughes, Tamer Özsu, Aishwarya Agrawal, Marco Pedersoli, Christopher Pal, Perouz Taslakian, David Vazquez, Issam H. Laradji, Spandana Gella, Sai Rajeswar Mudumba.
+Published at **ICLR 2025**
+
+2. <a href="https://arxiv.org/abs/2407.04172v1" style="text-decoration: none; color: #99FF9FF;"> ChartGemma: Visual Instruction-tuning for Chart Reasoning in the Wild</a>  
 **Ahmed Masry\***, Megh Thakkar\*, Aayush Bajaj, Aaryaman Kartha, Enamul Hoque, Shafiq Joty  
 Published at **COLING 2025**
 
-2. <a href="https://arxiv.org/abs/2403.09028" style="text-decoration: none; color: #99FF9FF;">ChartInstruct: Instruction Tuning for Chart Comprehension and Reasoning</a>  
+3. <a href="https://arxiv.org/abs/2406.00257" style="text-decoration: none; color: #99FF9FF;">Are Large Vision Language Models up to the Challenge of Chart Comprehension and Reasoning? An Extensive Investigation into the Capabilities and Limitations of LVLMs</a>  
+Mohammed Saidul Islam, Raian Rahman, **Ahmed Masry**, Md Tahmid Rahman Laskar, Mir Tafseer Nayeem, Enamul Hoque
+Published at **EMNLP 2024**
+
+4. <a href="https://arxiv.org/abs/2403.09028" style="text-decoration: none; color: #99FF9FF;">ChartInstruct: Instruction Tuning for Chart Comprehension and Reasoning</a>  
 **Ahmed Masry\***, Mehrad Shahmohammadi\*, Md Rizwan Parvez, Enamul Hoque, Shafiq Joty [\*Equal Contribution]  
 Published at **ACL 2024**
 
-3. <a href="https://arxiv.org/abs/2305.14761" style="text-decoration: none; color: #99FF9FF;">UniChart: A Universal Vision-language Pretrained Model for Chart Comprehension and Reasoning</a>  
+5. <a href="https://arxiv.org/abs/2305.14761" style="text-decoration: none; color: #99FF9FF;">UniChart: A Universal Vision-language Pretrained Model for Chart Comprehension and Reasoning</a>  
 **Ahmed Masry\***, Parsa Kavehzadeh\*, Xuan Long Do, Shafiq Joty, and Enamul Hoque [\*Equal Contribution]  
 Published at **EMNLP 2023**
 
-4. <a href="https://aclanthology.org/2022.acl-long.277/" style="text-decoration: none; color: #99FF9FF;">Chart-to-Text: A Large-Scale Benchmark for Chart Summarization</a>  
+6. <a href="https://aclanthology.org/2022.acl-long.277/" style="text-decoration: none; color: #99FF9FF;">Chart-to-Text: A Large-Scale Benchmark for Chart Summarization</a>  
 Shankar Kantharaj\*, Rixie Tiffany Leong\*, Xiang Lin\*, **Ahmed Masry\***, Megh Thakkar\*, Enamul Hoque, Shafiq Joty [\*Equal Contribution]  
 Published at **ACL 2022**
 
-5. <a href="https://aclanthology.org/2022.findings-acl.177/" style="text-decoration: none; color: #99FF9FF;">ChartQA: A Benchmark for Question Answering about Charts with Visual and Logical Reasoning</a>  
+7. <a href="https://aclanthology.org/2022.findings-acl.177/" style="text-decoration: none; color: #99FF9FF;">ChartQA: A Benchmark for Question Answering about Charts with Visual and Logical Reasoning</a>  
 **Ahmed Masry**, Do Long, Jia Qing Tan, Shafiq Joty, and Enamul Hoque.  
 Published at **ACL 2022**
 
-6. <a href="https://ieeexplore.ieee.org/document/9274451" style="text-decoration: none; color: #99FF9FF;">Chain FL: Decentralized Federated Machine Learning via Blockchain</a>  
+8. <a href="https://ieeexplore.ieee.org/document/9274451" style="text-decoration: none; color: #99FF9FF;">Chain FL: Decentralized Federated Machine Learning via Blockchain</a>  
 C. Korkmaz, H. E. Kocas, A. Uysal, **A. Masry**, O. Ozkasap and B. Akgun  
 Published at **BCCA 2020**
 
@@ -105,15 +113,19 @@ Published at **EuroVis 2022**
 
 Workshop Papers
 ======
-1. <a href=" https://www.servicenow.com/research/publication/juan-a.-rodriguez-bigd-neurips-workshops2024.html" style="text-decoration: none; color: #99FF9FF;">BigDocs: A Permissively-Licensed Dataset for Training Vision-Language Models on Document and Code Tasks.</a>  
+1. <a href="https://arxiv.org/abs/2502.01341" style="text-decoration: none; color: #99FF9FF;">AlignVLM: Bridging Vision and Language Latent Spaces for Multimodal Understanding</a>  
+**Ahmed Masry**, Juan A. Rodriguez, Tianyu Zhang, Suyuchen Wang, Chao Wang, Aarash Feizi, Akshay Kalkunte Suresh, Abhay Puri, Xiangru Jian, Pierre-André Noël, Sathwik Tejaswi Madhusudhan, Marco Pedersoli, Bang Liu, Nicolas Chapados, Yoshua Bengio, Enamul Hoque, Christopher Pal, Issam H. Laradji, David Vazquez, Perouz Taslakian, Spandana Gella, Sai Rajeswar.
+Presented at **Re-Align @ ICLR 2025**
+
+2. <a href=" https://www.servicenow.com/research/publication/juan-a.-rodriguez-bigd-neurips-workshops2024.html" style="text-decoration: none; color: #99FF9FF;">BigDocs: A Permissively-Licensed Dataset for Training Vision-Language Models on Document and Code Tasks.</a>  
 Juan A. Rodriguez, Xiangru Jian, Siba Smarak Panigrahi, Tianyu Zhang, Aarash Feizi, Abhay Puri, Akshay Kalkunte, Francois Savard, Amirhossein Abaskohi, **Ahmed Masry**, Perampalli Shravan Nayak, Mahsa Massoud, Rabiul Awal, Pierre-André Noël, Mats L. Richter, Saverio Vadacchino, Shubham Agarwal, Sanket Biswas, Ying Zhang, Sathwik Tejaswi Madhusudhan, João Monteiro, Krishnamurthy (Dj) Dvijotham, Torsten Scholak, Nicolas Chapados, Sean Hughes, Tamer Özsu, Aishwarya Agrawal, Marco Pedersoli, Christopher Pal, Perouz Taslakian, David Vazquez, Issam H. Laradji, Spandana Gella, Sai Rajeswar Mudumba.  
 Presented at **RBFM @ NeurIPS 2024**
  
-2. <a href="https://arxiv.org/abs/2401.15050" style="text-decoration: none; color: #99FF9FF;">LongFin: A Multimodal Document Understanding Model for Long Financial Domain Documents</a>  
+3. <a href="https://arxiv.org/abs/2401.15050" style="text-decoration: none; color: #99FF9FF;">LongFin: A Multimodal Document Understanding Model for Long Financial Domain Documents</a>  
 **Ahmed Masry** and Amir Hajian.  
 Presented at **AIFinSI @ AAAI 2024**
 
-3. <a href="https://www.yorku.ca/enamulh/papers/cqaw.pdf" style="text-decoration: none; color: #99FF9FF;">Integrating Image Data Extraction and Table Parsing Methods for Chart Question Answering</a>  
+4. <a href="https://www.yorku.ca/enamulh/papers/cqaw.pdf" style="text-decoration: none; color: #99FF9FF;">Integrating Image Data Extraction and Table Parsing Methods for Chart Question Answering</a>  
 **Ahmed Masry**, Enamul Hoque Prince  
 Presented at **ChartQA @ CVPR 2021** **[Best Paper Award]**
 
@@ -128,6 +140,9 @@ Xuan Long Do, Mohammad Hassanpour, **Ahmed Masry**, Parsa Kavehzadeh, Enamul Hoq
 
 Achievements & ExtraCurricular
 ======
+* **Google PaliGemma Academic Award**  
+5K USD in GCP Credits to support my multimodal research. 
+
 * **Al Ghurair Foundation for Education STEM Scholarship Program (AGFE)**  
 A merit-based award for highly achieving Arab students to pursue a fully funded STEM degree.
 
@@ -155,6 +170,8 @@ Academic Services
 
 Recent News
 ======
+* Paper accepted at **ICLR 2025**  
+January 2025
 * Paper accepted at **COLING 2025**  
 November 2024
 * Started as a Visiting Researcher at **ServiceNow Research**  
