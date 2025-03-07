@@ -114,7 +114,7 @@ Published at **EuroVis 2022**
 Workshop Papers
 ======
 1. <a href="https://arxiv.org/abs/2502.01341" style="text-decoration: none; color: #99FF9FF;">AlignVLM: Bridging Vision and Language Latent Spaces for Multimodal Understanding</a>  
-**Ahmed Masry**, Juan A. Rodriguez, Tianyu Zhang, Suyuchen Wang, Chao Wang, Aarash Feizi, Akshay Kalkunte Suresh, Abhay Puri, Xiangru Jian, Pierre-André Noël, Sathwik Tejaswi Madhusudhan, Marco Pedersoli, Bang Liu, Nicolas Chapados, Yoshua Bengio, Enamul Hoque, Christopher Pal, Issam H. Laradji, David Vazquez, Perouz Taslakian, Spandana Gella, Sai Rajeswar.
+**Ahmed Masry**, Juan A. Rodriguez, Tianyu Zhang, Suyuchen Wang, Chao Wang, Aarash Feizi, Akshay Kalkunte Suresh, Abhay Puri, Xiangru Jian, Pierre-André Noël, Sathwik Tejaswi Madhusudhan, Marco Pedersoli, Bang Liu, Nicolas Chapados, Yoshua Bengio, Enamul Hoque, Christopher Pal, Issam H. Laradji, David Vazquez, Perouz Taslakian, Spandana Gella, Sai Rajeswar.  
 Presented at **Re-Align @ ICLR 2025**
 
 2. <a href=" https://www.servicenow.com/research/publication/juan-a.-rodriguez-bigd-neurips-workshops2024.html" style="text-decoration: none; color: #99FF9FF;">BigDocs: A Permissively-Licensed Dataset for Training Vision-Language Models on Document and Code Tasks.</a>  
