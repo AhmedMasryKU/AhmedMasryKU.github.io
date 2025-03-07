@@ -157,8 +157,6 @@ Achieved Best Paper Award.
 
 <br />
 
-<br />
-
 Extracurricular Activities
 ======
 * **Arabic NLP Winter School**  
