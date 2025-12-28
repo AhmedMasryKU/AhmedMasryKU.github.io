@@ -29,10 +29,12 @@
 
       <div class="publication__text">
         <h2 class="publication__title" itemprop="headline">
-          {% if post.link %}
+          {% if post.paperurl %}
+            <a href="{{ post.paperurl }}">{{ title }}</a>
+          {% elsif post.link %}
             <a href="{{ post.link }}">{{ title }}</a>
           {% else %}
-            {{ title }}
+            <a href="{{ base_path }}{{ post.url }}">{{ title }}</a>
           {% endif %}
         </h2>
         
