@@ -11,7 +11,7 @@ bibtex: 'https://example.com/bibtex/chartgemma.bib'
 slides: 'https://example.com/slides/chartgemma.pdf'
 code: 'https://github.com/example/chartgemma'
 header:
-  teaser: chartgemma.png
+  teaser: chartgemma.jpg
 citation: 'Masry, A., Thakkar, M., Bajaj, A., Kartha, A., Hoque, E., & Joty, S. (2025). ChartGemma: Visual Instruction-tuning for Chart Reasoning in the Wild. COLING 2025.'
 ---
 
