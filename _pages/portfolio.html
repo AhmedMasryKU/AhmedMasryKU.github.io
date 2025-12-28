@@ -23,13 +23,17 @@ author_profile: true
 
 <h4> <a name="preprints"></a>  Selected Preprints (not peer reviewed)</h4>
 
-{%assign  years = site.data.preprints | group_by :"year" | sort: "title" | reverse %}
-{% for year in years %}
- <h5> {{year.name}}</h5>
-{% for post in year.items %}
-     {% include paper.html paper=post %}
- {% endfor %}
-{% endfor %}
+{% if site.data.preprints %}
+  {%assign  years = site.data.preprints | group_by :"year" | sort: "title" | reverse %}
+  {% for year in years %}
+   <h5> {{year.name}}</h5>
+  {% for post in year.items %}
+      {% include paper.html paper=post %}
+   {% endfor %}
+  {% endfor %}
+{% else %}
+  <p>No preprints available.</p>
+{% endif %}
 
 <hr>
 
@@ -37,24 +41,31 @@ author_profile: true
 
 All papers have been subject to peer review unless indicated otherwise. * indicates equal contributions. 
 
-
- {%assign  years = site.data.papers | group_by :"year" | sort: "title" | reverse %}
- {% for year in years %}
-  <h5> {{year.name}}</h5>
- {% for post in year.items %}
+{% if site.data.papers %}
+  {%assign  years = site.data.papers | group_by :"year" | sort: "title" | reverse %}
+  {% for year in years %}
+   <h5> {{year.name}}</h5>
+  {% for post in year.items %}
       {% include paper.html paper=post %}
+   {% endfor %}
   {% endfor %}
-{% endfor %}
+{% else %}
+  <p>No papers available.</p>
+{% endif %}
 
 <h4> <a name="theses"></a> Theses </h4>
 
- {%assign  years = site.data.theses | group_by :"year" | sort: "title" | reverse %}
- {% for year in years %}
-  <h5> {{year.name}}</h5>
- {% for post in year.items %}
+{% if site.data.theses %}
+  {%assign  years = site.data.theses | group_by :"year" | sort: "title" | reverse %}
+  {% for year in years %}
+   <h5> {{year.name}}</h5>
+  {% for post in year.items %}
       {% include paper.html paper=post %}
+   {% endfor %}
   {% endfor %}
-{% endfor %}
+{% else %}
+  <p>No theses available.</p>
+{% endif %}
 
 <h4> <a name="talk"></a> Talks </h4>
 
