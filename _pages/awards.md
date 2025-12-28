@@ -6,10 +6,10 @@ author_profile: true
 ---
 
 
-* **NSERC CGS-D** 
+* **NSERC CGS-D**  
 A prestigious national award to support outstanding PhD students in Canadian universities ($120K CAD).
 
-* **Ontario Graduate Scholarship (OGS)** 
+* **Ontario Graduate Scholarship (OGS)**  
 A prestigious provincial award to support outstanding PhD students ($45K CAD) [Declined in favor of NSERC CGS-D]
 
 * **Mitacs Accelerate Award**  
