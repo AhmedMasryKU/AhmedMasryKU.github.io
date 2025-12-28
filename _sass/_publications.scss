@@ -87,19 +87,19 @@
 .publication__authors {
   margin: 0.5em 0;
   font-size: $type-size-5;
-  color: $muted-text-color;
+  color: mix(#fff, $gray, 25%);
   line-height: 1.5;
 }
 
 .publication__year {
-  color: $muted-text-color;
+  color: mix(#fff, $gray, 25%);
   font-weight: normal;
 }
 
 .publication__venue {
   margin: 0.5em 0;
   font-size: $type-size-6;
-  color: $muted-text-color;
+  color: mix(#fff, $gray, 25%);
   font-style: italic;
 }
 
