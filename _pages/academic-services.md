@@ -5,10 +5,8 @@ permalink: /academic-services/
 author_profile: true
 ---
 
-Academic Services
-======
-* **ACL 2025 Reviewer**
-* **NAACL 2025 Reviewer**
-* **ACL 2024 Reviewer**
-* **EMNLP 2024 Reviewer**
+# Reviewer
+**ACL ARR:** Feb 24, May 24, Oct 24, Feb 25, May 25, Jul 25, Oct 25
+**NeurIPS:** May 25
+**ICLR:** Oct 25
 
