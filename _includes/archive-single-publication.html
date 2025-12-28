@@ -40,9 +40,19 @@
         
         <p class="publication__authors">
           {% if post.authors %}
-            {{ post.authors }}
+            {% assign authors_text = post.authors %}
+            {% comment %} Handle markdown bold syntax first {% endcomment %}
+            {% assign authors_text = authors_text | replace: '**Ahmed Masry**', '<strong>Ahmed Masry</strong>' %}
+            {% assign authors_text = authors_text | replace: '**Ahmed Masry\***', '<strong>Ahmed Masry*</strong>' %}
+            {% assign authors_text = authors_text | replace: '**A. Masry**', '<strong>A. Masry</strong>' %}
+            {% comment %} If not already bolded, bold the name {% endcomment %}
+            {% unless authors_text contains '<strong>' %}
+              {% assign authors_text = authors_text | replace: 'Ahmed Masry', '<strong>Ahmed Masry</strong>' %}
+              {% assign authors_text = authors_text | replace: 'A. Masry', '<strong>A. Masry</strong>' %}
+            {% endunless %}
+            {{ authors_text }}
           {% else %}
-            {{ site.author.name }}
+            <strong>{{ site.author.name }}</strong>
           {% endif %}
           {% if post.date %}
             <span class="publication__year">({{ post.date | default: "1900-01-01" | date: "%Y" }})</span>
