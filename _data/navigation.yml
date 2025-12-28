@@ -13,7 +13,10 @@ main:
     url: /academic-services/
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/
+
+  - title: "Extracurricular Activities"
+    url: /extracurricular-activities/
     
   - title: "Portfolio"
     url: /portfolio/
