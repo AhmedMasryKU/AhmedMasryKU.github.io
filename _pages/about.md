@@ -140,20 +140,7 @@ Xuan Long Do, Mohammad Hassanpour, **Ahmed Masry**, Parsa Kavehzadeh, Enamul Hoq
 
 Academic Awards
 ======
-* **Mitacs Accelerate Award**  
-15K CAD to support my multimodal research at ServiceNow Research.
-
-* **Google PaliGemma Academic Award**  
-5K USD in GCP Credits to support my multimodal research. 
-
-* **Al Ghurair Foundation for Education STEM Scholarship Program (AGFE)**  
-A merit-based full-ride scholarship for highly achieving Arab students to pursue a STEM degree.
-
-* **Vehbi Koc Scholar And Dean’s Honor Roll**  
-Merit-based Awards for Academic Excellence
-
-* **CVPR 2021 Chart Question Answering Workshop**  
-Achieved Best Paper Award.
+See my [Awards page](/awards/) for a complete list of academic awards and recognitions.
 
 <br />
 
@@ -175,11 +162,8 @@ Attended 2018 summer robotics school and Ranked 1st in the sumo robots competiti
 
 Academic Services
 ======
-* **ACL 2025 Reviewer**
-* **NAACL 2025 Reviewer**
-* **ACL 2024 Reviewer**
-* **EMNLP 2024 Reviewer**
-  
+See my [Academic Services page](/academic-services/) for a complete list of reviewing and service activities.
+
 <br />
 
 Recent News
