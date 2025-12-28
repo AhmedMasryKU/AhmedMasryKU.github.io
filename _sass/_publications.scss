@@ -15,26 +15,12 @@
 .publication__content {
   display: flex;
   align-items: flex-start;
-  
-  // Fallback for browsers that don't support gap
   margin-left: -0.75em;
   margin-right: -0.75em;
   
   > * {
     margin-left: 0.75em;
     margin-right: 0.75em;
-  }
-  
-  // Modern browsers with gap support
-  @supports (gap: 1em) {
-    gap: 1.5em;
-    margin-left: 0;
-    margin-right: 0;
-    
-    > * {
-      margin-left: 0;
-      margin-right: 0;
-    }
   }
 
   @include breakpoint($small) {
@@ -121,26 +107,12 @@
   margin-top: 0.75em;
   display: flex;
   flex-wrap: wrap;
-  
-  // Fallback for browsers that don't support gap
   margin-left: -0.25em;
   margin-right: -0.25em;
   
   > * {
     margin-left: 0.25em;
     margin-right: 0.25em;
-  }
-  
-  // Modern browsers with gap support
-  @supports (gap: 1em) {
-    gap: 0.5em;
-    margin-left: 0;
-    margin-right: 0;
-    
-    > * {
-      margin-left: 0;
-      margin-right: 0;
-    }
   }
 }
 
