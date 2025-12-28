@@ -1,0 +1,83 @@
+{% include base_path %}
+
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<div class="publication__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <div class="publication__content">
+      {% if teaser %}
+        <div class="publication__teaser">
+          <img src=
+            {% if teaser contains "://" %}
+              "{{ teaser }}"
+            {% else %}
+              "{{ teaser | prepend: "/images/publications/" | prepend: base_path }}"
+            {% endif %}
+            alt="{{ title }}">
+        </div>
+      {% endif %}
+
+      <div class="publication__text">
+        <h2 class="publication__title" itemprop="headline">
+          {% if post.link %}
+            <a href="{{ post.link }}">{{ title }}</a>
+          {% else %}
+            {{ title }}
+          {% endif %}
+        </h2>
+        
+        <p class="publication__authors">
+          {% if post.authors %}
+            {{ post.authors }}
+          {% else %}
+            {{ site.author.name }}
+          {% endif %}
+          {% if post.date %}
+            <span class="publication__year">({{ post.date | default: "1900-01-01" | date: "%Y" }})</span>
+          {% endif %}
+        </p>
+
+        {% if post.venue %}
+          <p class="publication__venue"><i>{{ post.venue }}</i></p>
+        {% endif %}
+
+        <div class="publication__links">
+          {% if post.paperurl %}
+            <a href="{{ post.paperurl }}" class="btn btn--success btn--small" target="_blank" rel="noopener noreferrer">
+              <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF
+            </a>
+          {% endif %}
+          
+          {% if post.bibtex %}
+            <a href="{{ post.bibtex }}" class="btn btn--danger btn--small" target="_blank" rel="noopener noreferrer">
+              <i class="fa fa-quote-left" aria-hidden="true"></i> BibTex
+            </a>
+          {% endif %}
+          
+          {% if post.slides %}
+            <a href="{{ post.slides }}" class="btn btn--info btn--small" target="_blank" rel="noopener noreferrer">
+              <i class="fa fa-file-powerpoint-o" aria-hidden="true"></i> Slides
+            </a>
+          {% endif %}
+          
+          {% if post.code %}
+            <a href="{{ post.code }}" class="btn btn--primary btn--small" target="_blank" rel="noopener noreferrer">
+              <i class="fa fa-code" aria-hidden="true"></i> Code
+            </a>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  </article>
+</div>
+
