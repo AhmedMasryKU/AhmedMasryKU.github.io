@@ -761,175 +761,175 @@
 /*
    Work Experience
    ========================================================================== */
-.work-experience-table {
-  width: 100%;
-  border-collapse: separate;
-  border-spacing: 0;
-  margin-top: 1.5em;
-  border: none;
-}
-
-.work-item-row {
-  background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%);
-  transition: all 0.3s ease;
-
-  td {
+   .work-experience-table {
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin-top: 1.5em;
     border: none;
-    vertical-align: top;
+    table-layout: fixed;
   }
-
-  &:hover {
-    background: linear-gradient(135deg, #ffffff 0%, mix(#fff, $primary-color, 98%) 100%);
-
-    .work-logo img {
-      transform: scale(1.05);
+  
+  .work-item-row {
+    background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%);
+    transition: all 0.3s ease;
+  
+    td {
+      border: none;
+      vertical-align: middle;
+      padding: 0.75em 1em;
+    }
+  
+    &:hover {
+      background: linear-gradient(135deg, #ffffff 0%, mix(#fff, $primary-color, 98%) 100%);
+  
+      .work-logo img {
+        transform: scale(1.05);
+      }
+    }
+  
+    @include breakpoint($small) {
+      display: block;
+      
+      td {
+        display: block;
+        width: 100% !important;
+        padding: 0.5em 1em !important;
+      }
     }
   }
-
-  @include breakpoint($small) {
-    display: block;
+  
+  .work-item-separator {
+    height: 0.75em;
     
     td {
-      display: block;
-      width: 100% !important;
-      padding: 0.5em 1em !important;
+      border: none;
+      padding: 0;
+      height: 0.75em;
     }
   }
-}
-
-.work-item-separator {
-  td {
-    border: none;
-    padding: 0;
-    height: 0.75em;
+  
+  .work-logo-cell {
+    width: 80px;
+    padding: 0.75em 1em !important;
+    vertical-align: middle;
   }
-}
-
-.work-logo-cell {
-  padding: 0.75em 1em;
-  vertical-align: top;
-  width: auto;
-  white-space: nowrap;
-}
-
-.work-company-cell {
-  padding: 0.75em 0.75em 0 0.75em;
-  vertical-align: top;
-  width: auto;
-}
-
-.work-period-cell {
-  padding: 0.75em 1em 0 1em;
-  vertical-align: top;
-  text-align: right;
-  width: auto;
-  white-space: nowrap;
-}
-
-.work-title-cell {
-  padding: 0.5em 0.75em 0.75em 0.75em;
-  vertical-align: top;
-  width: auto;
-}
-
-.work-location-cell {
-  padding: 0.5em 0.75em 0.75em 0.75em;
-  vertical-align: top;
-  text-align: right;
-  width: auto;
-  white-space: nowrap;
-  font-size: $type-size-7;
-  color: mix(#fff, $gray, 30%);
-  font-style: italic;
-}
-
-.work-logo {
-  width: 60px;
-  height: 60px;
-  border-radius: 10px;
-  background: #ffffff;
-  border: 2px solid $border-color;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: 0.4em;
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
-  transition: all 0.3s ease;
-
-  &:hover {
-    border-color: $primary-color;
-    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.12);
+  
+  .work-company-cell {
+    padding: 0.75em 1em !important;
+    vertical-align: middle;
+    width: auto;
   }
-
-  a {
+  
+  .work-period-cell {
+    padding: 0.75em 1em !important;
+    vertical-align: middle;
+    text-align: right;
+    width: 250px;
+    white-space: nowrap;
+  }
+  
+  .work-title-cell {
+    padding: 0.5em 1em !important;
+    vertical-align: middle;
+    width: auto;
+  }
+  
+  .work-location-cell {
+    padding: 0.5em 1em !important;
+    vertical-align: middle;
+    text-align: right;
+    width: 250px;
+    white-space: nowrap;
+    font-size: $type-size-7;
+    color: mix(#fff, $gray, 30%);
+    font-style: italic;
+  }
+  
+  .work-logo {
+    width: 60px;
+    height: 60px;
+    border-radius: 10px;
+    background: #ffffff;
+    border: 2px solid $border-color;
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 100%;
-    height: 100%;
-    text-decoration: none;
-  }
-
-  img {
-    max-width: 100%;
-    max-height: 100%;
-    object-fit: contain;
-    transition: transform 0.3s ease;
-  }
-
-  .work-logo-fallback {
-    font-size: 1.2em;
-    font-weight: 700;
-    color: $primary-color;
-    text-transform: uppercase;
-    letter-spacing: 0.1em;
-  }
-
-  @include breakpoint($small) {
-    width: 50px;
-    height: 50px;
-  }
-}
-
-.work-company {
-  margin: 0 !important;
-  padding: 0 !important;
-  font-size: $type-size-4;
-  font-weight: 700;
-  line-height: 1.2;
-  display: block;
-
-  a {
-    color: $primary-color;
-    text-decoration: none;
-    transition: color 0.2s ease;
-    display: inline-block;
-
+    padding: 0.4em;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+    transition: all 0.3s ease;
+  
     &:hover {
-      color: mix($primary-color, #000, 70%);
-      text-decoration: underline;
+      border-color: $primary-color;
+      box-shadow: 0 3px 10px rgba(0, 0, 0, 0.12);
+    }
+  
+    a {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 100%;
+      height: 100%;
+      text-decoration: none;
+    }
+  
+    img {
+      max-width: 100%;
+      max-height: 100%;
+      object-fit: contain;
+      transition: transform 0.3s ease;
+    }
+  
+    .work-logo-fallback {
+      font-size: 1.2em;
+      font-weight: 700;
+      color: $primary-color;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+    }
+  
+    @include breakpoint($small) {
+      width: 50px;
+      height: 50px;
     }
   }
-}
-
-.work-title {
-  margin: 0;
-  font-size: $type-size-6;
-  font-weight: 500;
-  color: $text-color;
-  line-height: 1.4;
-}
-
-.work-period {
-  font-size: $type-size-7;
-  color: mix(#fff, $gray, 25%);
-  font-weight: 600;
-  white-space: nowrap;
-  padding: 0.25em 0.75em;
-  background: linear-gradient(135deg, mix(#fff, $primary-color, 96%) 0%, mix(#fff, $primary-color, 98%) 100%);
-  border-radius: $border-radius;
-  border: 1px solid mix($primary-color, #fff, 25%);
-  display: inline-block;
-  vertical-align: middle;
-  flex-shrink: 0;
-}
+  
+  .work-company {
+    margin: 0;
+    padding: 0;
+    font-size: $type-size-4;
+    font-weight: 700;
+    line-height: 1.2;
+  
+    a {
+      color: $primary-color;
+      text-decoration: none;
+      transition: color 0.2s ease;
+  
+      &:hover {
+        color: mix($primary-color, #000, 70%);
+        text-decoration: underline;
+      }
+    }
+  }
+  
+  .work-title {
+    margin: 0;
+    font-size: $type-size-6;
+    font-weight: 500;
+    color: $text-color;
+    line-height: 1.4;
+  }
+  
+  .work-period {
+    font-size: $type-size-7;
+    color: mix(#fff, $gray, 25%);
+    font-weight: 600;
+    white-space: nowrap;
+    padding: 0.25em 0.75em;
+    background: linear-gradient(135deg, mix(#fff, $primary-color, 96%) 0%, mix(#fff, $primary-color, 98%) 100%);
+    border-radius: $border-radius;
+    border: 1px solid mix($primary-color, #fff, 25%);
+    display: inline-block;
+    vertical-align: middle;
+  }
