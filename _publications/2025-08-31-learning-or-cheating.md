@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2025-08-31-learning-or-cheating
 category: conference
 excerpt: 'Learning or Cheating? Assessing Data Contamination in Large Vision-Language Models.'
-date: 2025-08-31
+date: 2025-12-02
 venue: 'IEEE MLSP 2025'
 authors: 'Ahmed Masry, Mahir Ahmed, Ridwan Mahbub'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/11204323'

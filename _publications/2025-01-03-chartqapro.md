@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2025-01-03-chartqapro
 category: conference
 excerpt: 'ChartQAPro: A more diverse and challenging benchmark for chart question answering.'
-date: 2025-01-03
+date: 2025-12-07
 venue: 'ACL 2025 Findings'
 authors: 'Ahmed Masry, Mohammed Saidul Islam, Mahir Ahmed, Aayush Bajaj, Firoz Kabir, Aaryaman Kartha, Md Tahmid Rahman Laskar, Mizanur Rahman, Shadikur Rahman, Mehrad Shahmohammadi, Megh Thakkar, Md Rizwan Parvez, Enamul Hoque, Shafiq Joty'
 paperurl: 'https://aclanthology.org/2025.findings-acl.978/'
