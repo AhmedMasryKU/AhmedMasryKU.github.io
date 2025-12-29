@@ -44,8 +44,8 @@ Work Experience
 
 <table class="work-experience-table">
   <tbody>
-    <tr class="work-item">
-      <td class="work-logo-cell">
+    <tr class="work-item-row">
+      <td class="work-logo-cell" rowspan="2">
         <div class="work-logo">
           <a href="https://www.servicenow.com/research/people.html" target="_blank" rel="noopener noreferrer">
             <img src="/images/companies/servicenow.png" alt="ServiceNow Research" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
@@ -58,15 +58,19 @@ Work Experience
           <a href="https://www.servicenow.com/research/people.html" target="_blank" rel="noopener noreferrer">ServiceNow Research</a>
         </h3>
       </td>
-      <td class="work-period-cell">
-        <span class="work-period">September 2024 - Present</span>
-      </td>
       <td class="work-title-cell">
         <span class="work-title">Visiting Researcher</span>
       </td>
     </tr>
-    <tr class="work-item">
-      <td class="work-logo-cell">
+    <tr class="work-item-row">
+      <td class="work-period-cell">
+        <span class="work-period">September 2024 - Present</span>
+      </td>
+      <td class="work-title-cell-empty">
+      </td>
+    </tr>
+    <tr class="work-item-row">
+      <td class="work-logo-cell" rowspan="2">
         <div class="work-logo">
           <a href="https://www.arteria.ai/" target="_blank" rel="noopener noreferrer">
             <img src="/images/companies/arteria.png" alt="Arteria AI" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
@@ -79,11 +83,15 @@ Work Experience
           <a href="https://www.arteria.ai/" target="_blank" rel="noopener noreferrer">Arteria AI</a>
         </h3>
       </td>
+      <td class="work-title-cell">
+        <span class="work-title">Senior Data Scientist</span>
+      </td>
+    </tr>
+    <tr class="work-item-row">
       <td class="work-period-cell">
         <span class="work-period">May 2022 - September 2024</span>
       </td>
-      <td class="work-title-cell">
-        <span class="work-title">Senior Data Scientist</span>
+      <td class="work-title-cell-empty">
       </td>
     </tr>
   </tbody>
