@@ -775,7 +775,7 @@
 
   td {
     border: none;
-    vertical-align: middle;
+    vertical-align: top;
   }
 
   &:hover {
@@ -807,34 +807,34 @@
 
 .work-logo-cell {
   padding: 0.75em 1em;
-  vertical-align: middle;
+  vertical-align: top;
   width: auto;
   white-space: nowrap;
 }
 
 .work-company-cell {
-  padding: 0.75em 0.75em;
-  vertical-align: middle;
+  padding: 0.75em 0.75em 0 0.75em;
+  vertical-align: top;
   width: auto;
 }
 
 .work-period-cell {
-  padding: 0.75em 1em;
-  vertical-align: middle;
+  padding: 0.75em 1em 0 1em;
+  vertical-align: top;
   text-align: right;
   width: auto;
   white-space: nowrap;
 }
 
 .work-title-cell {
-  padding: 0.5em 0.75em;
-  vertical-align: middle;
+  padding: 0.5em 0.75em 0.75em 0.75em;
+  vertical-align: top;
   width: auto;
 }
 
 .work-location-cell {
-  padding: 0.5em 0.75em;
-  vertical-align: middle;
+  padding: 0.5em 0.75em 0.75em 0.75em;
+  vertical-align: top;
   text-align: right;
   width: auto;
   white-space: nowrap;
@@ -892,16 +892,18 @@
 }
 
 .work-company {
-  margin: 0;
-  padding: 0;
+  margin: 0 !important;
+  padding: 0 !important;
   font-size: $type-size-4;
   font-weight: 700;
   line-height: 1.2;
+  display: block;
 
   a {
     color: $primary-color;
     text-decoration: none;
     transition: color 0.2s ease;
+    display: inline-block;
 
     &:hover {
       color: mix($primary-color, #000, 70%);
