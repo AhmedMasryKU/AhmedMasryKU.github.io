@@ -2,6 +2,7 @@
 title: "ChartGemma: Visual Instruction-tuning for Chart Reasoning in the Wild"
 collection: publications
 permalink: /publication/2025-01-01-chartgemma
+category: conference
 excerpt: 'ChartGemma is a visual instruction-tuned model for chart reasoning.'
 date: 2025-01-01
 venue: 'COLING 2025'
