@@ -873,14 +873,14 @@
   
   .work-title {
     margin: 0;
-    font-size: $type-size-6;
+    font-size: $type-size-5;
     font-weight: 500;
     color: $text-color;
     line-height: 1.4;
   }
   
   .work-period {
-    font-size: $type-size-7;
+    font-size: $type-size-5;
     color: mix(#fff, $gray, 25%);
     font-weight: 600;
     white-space: nowrap;
@@ -893,7 +893,7 @@
   }
   
   .work-location {
-    font-size: $type-size-7;
+    font-size: $type-size-5;
     color: mix(#fff, $gray, 30%);
     font-style: italic;
   }
