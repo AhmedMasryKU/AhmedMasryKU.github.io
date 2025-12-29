@@ -10,65 +10,16 @@ redirect_from:
 
 I am a Ph.D. student in Computer Science at <a href="https://www.yorku.ca/" style="text-decoration: none; color: #99FF9FF;">York University</a> supervised by <a href="http://www.yorku.ca/enamulh/index.html" style="text-decoration: none; color: #99FF9FF;">Prof. Enamul Hoque</a>. My research focuses on developing multimodal vision-language models and benchmarks for chart, table, and document comprehension. I earned my Master of Science in Computer Science from <a href="https://www.yorku.ca/" style="text-decoration: none; color: #99FF9FF;">York University</a> in 2022 and a Bachelor of Science in Computer Engineering from Koc University in 2020, supported by the fully-funded Al Ghurair Foundation (AGFE) STEM scholarship.
 
-<div class="research-highlights">
-  <div class="animated-cards-grid">
-    <div class="animated-card card-publications" data-animation-delay="0">
-      <div class="card-number">9</div>
-      <div class="card-title">Top-Tier Conferences</div>
-      <div class="card-subtitle">ACL • EuroVis • EMNLP • COLING • ICLR • COLM • NeurIPS</div>
-      <div class="card-details">Published across 7 premier venues</div>
-    </div>
-
-    <div class="animated-card card-workshop" data-animation-delay="0.1">
-      <div class="card-badge">🏆</div>
-      <div class="card-title">Workshop Excellence</div>
-      <div class="card-subtitle">CVPR 21 <span class="award-glow">Best Paper Award</span></div>
-      <div class="card-details">AAAI (24) • ICLR (25)</div>
-    </div>
-
-    <div class="animated-card card-impact" data-animation-delay="0.2">
-      <div class="card-number">2000+</div>
-      <div class="card-title">Research Impact</div>
-      <div class="card-subtitle">Citations • h-index <strong>13</strong></div>
-      <div class="card-details"><a href="https://scholar.google.com/citations?user=XqPX5XcAAAAJ&hl=en" target="_blank">Google Scholar</a></div>
-    </div>
-
-    <div class="animated-card card-funding" data-animation-delay="0.3">
-      <div class="card-number">$125K</div>
-      <div class="card-title">Awards & Funding</div>
-      <div class="card-subtitle">NSERC CGS-D • Google PaliGemma</div>
-      <div class="card-details">$120K CAD + $5K USD</div>
-    </div>
-
-    <div class="animated-card card-benchmark" data-animation-delay="0.4">
-      <div class="card-number">1100+</div>
-      <div class="card-title">Benchmark Creator</div>
-      <div class="card-subtitle"><a href="https://github.com/vis-nlp/ChartQA" target="_blank">ChartQA</a> cited by <strong>GPT-4</strong> & <strong>Gemini</strong></div>
-      <div class="card-details">Industry-standard evaluation</div>
-    </div>
-
-    <div class="animated-card card-models" data-animation-delay="0.5">
-      <div class="card-number">300K+</div>
-      <div class="card-title">Model Downloads</div>
-      <div class="card-subtitle">Multimodal chart & document models</div>
-      <div class="card-details"><a href="https://huggingface.co/ahmed-masry" target="_blank">HuggingFace</a></div>
-    </div>
-
-    <div class="animated-card card-research" data-animation-delay="0.6">
-      <div class="card-icon">🔬</div>
-      <div class="card-title">Research Focus</div>
-      <div class="card-subtitle">Vision-Language • Document Understanding</div>
-      <div class="card-details">Large Language Models</div>
-    </div>
-
-    <div class="animated-card card-media" data-animation-delay="0.7">
-      <div class="card-icon">📰</div>
-      <div class="card-title">Media Featured</div>
-      <div class="card-subtitle"><strong>ChartGemma</strong> • <strong>ChartInstruct</strong></div>
-      <div class="card-details">MarketTechPost • LG AI Research</div>
-    </div>
-  </div>
-</div>
+Research Highlights
+======
+• **Papers:** ACL (22, 24, 25), EuroVis (22), EMNLP (23, 24), COLING (25), ICLR (25), COLM (25), NeurIPS (25)
+• **Workshop Papers:** CVPR 21 [Best Paper Award], AAAI (24), and ICLR (25).
+• **Research Impact:** 2000+ citations, h-index of 13 on [Google Scholar](https://scholar.google.com/citations?user=XqPX5XcAAAAJ&hl=en).
+• **Awards:** NSERC CGS-D ($120K CAD) & Google PaliGemma Academic Grant ($5K USD).
+• **Benchmark Contribution:** Creator of [ChartQA Benchmark](https://github.com/vis-nlp/ChartQA), cited by **GPT-4** & **Gemini**; 1100+ citations.
+• **Modeling Contributions:** Multimodal chart and document models with 300K+ downloads on [HuggingFace](https://huggingface.co/ahmed-masry)
+• **Research Interests:** Vision-Language Models, Document & Chart Comprehension, Large Language Models.
+• **Media Coverage:** ChartGemma featured in **MarketTechPost** and ChartInstruct in **LG AI Research Blogs**
 
 <br />
 
