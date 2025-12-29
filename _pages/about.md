@@ -38,7 +38,6 @@ Full ride scholarship from the Al Ghurair Foundation for Education (AGFE)
 
 <br />
 
-
 Work Experience
 ======
 
