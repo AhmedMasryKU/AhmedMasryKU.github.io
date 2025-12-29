@@ -906,29 +906,29 @@
   }
   
   // Mobile responsive
-  @include breakpoint($small) {
-    .work-experience-table,
-    .work-experience-table tbody,
-    .work-experience-table tr,
-    .work-experience-table td {
-      display: block;
-      width: 100%;
-    }
+  // @include breakpoint(700px) {
+  //   .work-experience-table,
+  //   .work-experience-table tbody,
+  //   .work-experience-table tr,
+  //   .work-experience-table td {
+  //     display: block;
+  //     width: 100%;
+  //   }
   
-    .work-logo-cell,
-    .work-company-cell,
-    .work-period-cell,
-    .work-title-cell,
-    .work-location-cell {
-      width: 100% !important;
-      text-align: left !important;
-      padding: 0.5em 1em !important;
-    }
+  //   .work-logo-cell,
+  //   .work-company-cell,
+  //   .work-period-cell,
+  //   .work-title-cell,
+  //   .work-location-cell {
+  //     width: 100% !important;
+  //     text-align: left !important;
+  //     padding: 0.5em 1em !important;
+  //   }
   
-    .work-logo {
-      margin: 0 auto;
-    }
-  }
+  //   .work-logo {
+  //     margin: 0 auto;
+  //   }
+  // }
 
 
   /* Make the parent a query container */
