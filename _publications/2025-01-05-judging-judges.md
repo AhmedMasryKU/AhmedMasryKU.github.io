@@ -7,7 +7,7 @@ excerpt: 'Judging the Judges: Can Large Vision-Language Models Fairly Evaluate C
 date: 2025-01-05
 venue: 'ACL Industry Track 2025'
 authors: 'Md Tahmid Rahman Laskar, Mohammed Saidul Islam, Ridwan Mahbub, Ahmed Masry, Mizanur Rahman, Amran Bhuiyan, Mir Tafseer Nayeem, Shafiq Joty, Enamul Hoque, Jimmy Huang'
-paperurl: 'https://arxiv.org/abs/2501.00000'
+paperurl: 'https://aclanthology.org/2025.acl-industry.83/'
 header:
   teaser: judging_the_judges-fig.png
 ---
