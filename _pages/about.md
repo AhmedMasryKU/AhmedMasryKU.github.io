@@ -10,9 +10,71 @@ redirect_from:
 
 I am a Ph.D. student in Computer Science at <a href="https://www.yorku.ca/" style="text-decoration: none; color: #99FF9FF;">York University</a> supervised by <a href="http://www.yorku.ca/enamulh/index.html" style="text-decoration: none; color: #99FF9FF;">Prof. Enamul Hoque</a>. My research focuses on developing multimodal vision-language models and benchmarks for chart, table, and document comprehension. I earned my Master of Science in Computer Science from <a href="https://www.yorku.ca/" style="text-decoration: none; color: #99FF9FF;">York University</a> in 2022 and a Bachelor of Science in Computer Engineering from Koc University in 2020, supported by the fully-funded Al Ghurair Foundation (AGFE) STEM scholarship.
 
-My research, published in top-tier conferences such as **ACL 2022**, **EuroVis 2022**, **EMNLP 2023**, **ACL 2024**, **EMNLP 2024**, **COLING 2025**, and **ICLR 2025**, as well as workshops at **Neurips 2024**, **ICLR 2025**, **AAAI 2024** and **CVPR 2021** (where I received the **Best Paper Award**), focuses on advancing chart understanding benchmarks (e.g., ChartQA, Chart2Text) and models (e.g., UniChart, ChartInstruct, ChartGemma). These contributions have been widely adopted, accumulating over **100,000 downloads** on open-source platforms like <a hred="https://huggingface.co/ahmed-masry" style="text-decoration: none; color: #99FF9FF;">Hugging Face</a>. Notably, our <a href="https://github.com/vis-nlp/ChartQA" style="text-decoration: none; color: #99FF9FF;">ChartQA benchmark</a> has been featured as a key multimodal evaluation benchmark by **OpenAI’s GPT-4** official blog post and **Google’s Gemini** paper in evaluating their models visual reasoning capabilities. As of March 7th, 2025, my publications have received **946 citations**, and I have an **h-index of 9** on [Google Scholar](https://scholar.google.com/citations?user=XqPX5XcAAAAJ&hl=en). My research is also supported by funding awards such as the **Google PaliGemma Academic Award**.
+<div class="highlights-grid">
+  <div class="highlight-card highlight-card--primary">
+    <div class="highlight-icon">📄</div>
+    <div class="highlight-content">
+      <h3 class="highlight-title">Conference Publications</h3>
+      <p class="highlight-text">ACL (22, 24, 25), EuroVis (22), EMNLP (23, 24), COLING (25), ICLR (25), COLM (25), NeurIPS (25)</p>
+    </div>
+  </div>
 
-Professionally, I have worked as a Senior Data Scientist at Arteria AI, leading multimodal document understanding projects for clients in the finance and legal industries in Canada between 2022 and 2024. Currently, I am a visiting researcher at **ServiceNow Research**, where I focus on designing novel vision-language large model (VLMs) architectures for multimodal document understanding and training cutting-edge VLLMs (e.g., LLama 3.2, Phi3.5, Idefics-3) on large compute clusters with multi-node H100 GPUs.
+  <div class="highlight-card highlight-card--award">
+    <div class="highlight-icon">🏆</div>
+    <div class="highlight-content">
+      <h3 class="highlight-title">Workshop Papers</h3>
+      <p class="highlight-text">CVPR 21 <span class="badge badge--award">Best Paper Award</span>, AAAI (24), and ICLR (25)</p>
+    </div>
+  </div>
+
+  <div class="highlight-card highlight-card--impact">
+    <div class="highlight-icon">📊</div>
+    <div class="highlight-content">
+      <h3 class="highlight-title">Research Impact</h3>
+      <p class="highlight-text"><strong>2000+ citations</strong>, h-index of <strong>13</strong> on <a href="https://scholar.google.com/citations?user=XqPX5XcAAAAJ&hl=en" target="_blank">Google Scholar</a></p>
+    </div>
+  </div>
+
+  <div class="highlight-card highlight-card--funding">
+    <div class="highlight-icon">💰</div>
+    <div class="highlight-content">
+      <h3 class="highlight-title">Awards & Funding</h3>
+      <p class="highlight-text">NSERC CGS-D (<strong>$120K CAD</strong>) & Google PaliGemma Academic Grant (<strong>$5K USD</strong>)</p>
+    </div>
+  </div>
+
+  <div class="highlight-card highlight-card--benchmark">
+    <div class="highlight-icon">🎯</div>
+    <div class="highlight-content">
+      <h3 class="highlight-title">Benchmark Contribution</h3>
+      <p class="highlight-text">Creator of <a href="https://github.com/vis-nlp/ChartQA" target="_blank">ChartQA Benchmark</a>, cited by <strong>GPT-4</strong> & <strong>Gemini</strong>; <strong>1100+ citations</strong></p>
+    </div>
+  </div>
+
+  <div class="highlight-card highlight-card--models">
+    <div class="highlight-icon">🤖</div>
+    <div class="highlight-content">
+      <h3 class="highlight-title">Modeling Contributions</h3>
+      <p class="highlight-text">Multimodal chart and document models with <strong>300K+ downloads</strong> on <a href="https://huggingface.co/ahmed-masry" target="_blank">HuggingFace</a></p>
+    </div>
+  </div>
+
+  <div class="highlight-card highlight-card--research">
+    <div class="highlight-icon">🔬</div>
+    <div class="highlight-content">
+      <h3 class="highlight-title">Research Interests</h3>
+      <p class="highlight-text">Vision-Language Models, Document & Chart Comprehension, Large Language Models</p>
+    </div>
+  </div>
+
+  <div class="highlight-card highlight-card--media">
+    <div class="highlight-icon">📰</div>
+    <div class="highlight-content">
+      <h3 class="highlight-title">Media Coverage</h3>
+      <p class="highlight-text">ChartGemma featured in <strong>MarketTechPost</strong> and ChartInstruct in <strong>LG AI Research Blogs</strong></p>
+    </div>
+  </div>
+</div>
 
 <br />
 
