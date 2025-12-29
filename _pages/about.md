@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Computer Science at <a href="https://www.yorku.ca/" style="text-decoration: none; color: #99FF9FF;">York University</a> supervised by <a href="http://www.yorku.ca/enamulh/index.html" style="text-decoration: none; color: #99FF9FF;">Prof. Enamul Hoque</a>. My research focuses on developing multimodal vision-language models and benchmarks for chart, table, and document comprehension. I earned my Master of Science in Computer Science from <a href="https://www.yorku.ca/" style="text-decoration: none; color: #99FF9FF;">York University</a> in 2022 and a Bachelor of Science in Computer Engineering from Koc University in 2020, supported by the fully-funded Al Ghurair Foundation (AGFE) STEM scholarship.
+I am a Ph.D. student in Computer Science at the <a href="https://intelligentvislab.github.io/" style="text-decoration: none; color: #99FF9FF;">Intelligent Visualization Lab</a> at <a href="https://www.yorku.ca/" style="text-decoration: none; color: #99FF9FF;">York University</a> supervised by <a href="http://www.yorku.ca/enamulh/index.html" style="text-decoration: none; color: #99FF9FF;">Prof. Enamul Hoque</a>. 
+I received an MSc in CS from <a href="https://www.yorku.ca/" style="text-decoration: none; color: #99FF9FF;">York University</a> in 2022 and a BSc in Computer Engineering from Koc University in 2020, funded by the Al Ghurair Foundation (AGFE) STEM scholarship.
 
 Research Highlights
 ======
@@ -55,7 +56,7 @@ Work Experience
       </td>
       <td class="work-company-cell">
         <h3 class="work-company">
-          <a href="https://mila.quebec/" target="_blank" rel="noopener noreferrer">Mila - Quebec Artificial Intelligence Institute</a>
+          <a href="https://mila.quebec/" target="_blank" rel="noopener noreferrer">Mila - Quebec AI Institute</a>
         </h3>
       </td>
       <td class="work-period-cell">
