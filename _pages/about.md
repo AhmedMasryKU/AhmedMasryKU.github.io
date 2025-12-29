@@ -12,14 +12,13 @@ I am a Ph.D. student in Computer Science at <a href="https://www.yorku.ca/" styl
 
 Research Highlights
 ======
-• **Publications:** **ACL** (22, 24, 25), **EuroVis** (22), **EMNLP** (23, 24), **COLING** (25), **ICLR** (25), **COLM** (25)
-• **Workshop Papers:** **CVPR 21 [Best Paper Award]**, **AAAI** (24), and **ICLR** (25).
-• **Research Impact:** 1333+ citations, h-index of 10 on [Google Scholar](https://scholar.google.com/citations?user=XqPX5XcAAAAJ&hl=en).
-• **Benchmark Contribution:** Created **ChartQA** benchmark, cited by GPT-4 & Gemini, with 700+ citations.
-• **Modeling Contributions:** Multimodal chart and document models with **200K+ downloads** on [HuggingFace](https://huggingface.co/ahmed-masry)
-• **Research Awards:** **NSERC CGS-D ($120K CAD)** & Google PaliGemma Academic Grant ($5K USD).
-• **Research Interests:** Multimodality, Vision-Language Models, and Document & Chart Comprehension.
-• **Media Coverage:** [ChartGemma](https://www.marktechpost.com/2024/07/16/chartgemma-a-multimodal-model-instruction-tuned-on-data-generated-directly-from-a-diverse-range-of-real-world-chart-images/) featured in MarketTechPost and [ChartInstruct](https://www.lgresearch.ai/blog/view?seq=476) in LG AI Research Blogs.
+* **Publications:** **ACL** (22, 24, 25), **EuroVis** (22), **EMNLP** (23, 24, 25), **COLING** (25), **ICLR** (25), **COLM** (25), **NeurIPS** (25)  
+* **Workshop Papers:** **CVPR 21 [Best Paper Award]**, **AAAI** (24), and **ICLR** (25).  
+* **Research Impact:** 2000+ citations, h-index of 13 on [Google Scholar](https://scholar.google.com/citations?user=XqPX5XcAAAAJ&hl=en).  
+* **Benchmark Contribution:** Created **ChartQA** benchmark, cited by GPT-4 & Gemini, with 700+ citations.  
+* **Modeling Contributions:** Multimodal chart and document models with **200K+ downloads** on [HuggingFace](https://huggingface.co/ahmed-masry)  
+* **Research Awards:** **NSERC CGS-D ($120K CAD)** & Google PaliGemma Academic Grant ($5K USD).  
+* **Media Coverage:** [ChartGemma](https://www.marktechpost.com/2024/07/16/chartgemma-a-multimodal-model-instruction-tuned-on-data-generated-directly-from-a-diverse-range-of-real-world-chart-images/) featured in MarketTechPost and [ChartInstruct](https://www.lgresearch.ai/blog/view?seq=476) in LG AI Research Blogs.  
 
 <br />
 
@@ -52,11 +51,13 @@ Work Experience
       </a>
     </div>
     <div class="work-content">
-      <h3 class="work-company">
-        <a href="https://www.servicenow.com/research/people.html" target="_blank" rel="noopener noreferrer">ServiceNow Research</a>
-      </h3>
+      <div class="work-header">
+        <h3 class="work-company">
+          <a href="https://www.servicenow.com/research/people.html" target="_blank" rel="noopener noreferrer">ServiceNow Research</a>
+        </h3>
+        <span class="work-period">September 2024 - Present</span>
+      </div>
       <p class="work-title">Visiting Researcher</p>
-      <p class="work-period">September 2024 - Present</p>
     </div>
   </div>
 
@@ -68,12 +69,13 @@ Work Experience
       </a>
     </div>
     <div class="work-content">
-      <h3 class="work-company">
-        <a href="https://www.arteria.ai/" target="_blank" rel="noopener noreferrer">Arteria AI</a>
-      </h3>
-      <p class="work-title">Senior Data Scientist <span class="work-promotion">(Promoted from Data Scientist)</span></p>
-      <p class="work-period">May 2022 - September 2024</p>
-      <p class="work-details">Data Scientist (May 2022 - December 2023) → Senior Data Scientist (January 2024 - September 2024)</p>
+      <div class="work-header">
+        <h3 class="work-company">
+          <a href="https://www.arteria.ai/" target="_blank" rel="noopener noreferrer">Arteria AI</a>
+        </h3>
+        <span class="work-period">May 2022 - September 2024</span>
+      </div>
+      <p class="work-title">Senior Data Scientist</p>
     </div>
   </div>
 </div>

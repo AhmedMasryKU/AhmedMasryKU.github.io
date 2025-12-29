@@ -762,95 +762,59 @@
    Work Experience
    ========================================================================== */
 .work-experience {
-  margin-top: 2em;
+  margin-top: 1.5em;
   display: flex;
   flex-direction: column;
-  gap: 1.5em;
+  gap: 1em;
 }
 
 .work-item {
   display: flex;
-  align-items: flex-start;
-  gap: 1.5em;
-  padding: 2em;
+  align-items: center;
+  gap: 1.25em;
+  padding: 1.25em 1.5em;
   background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%);
-  border: 2px solid $border-color;
-  border-left: 5px solid $primary-color;
+  border: 1px solid $border-color;
+  border-left: 4px solid $primary-color;
   border-radius: $border-radius;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
-  transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-  position: relative;
-  overflow: hidden;
-
-  &::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 5px;
-    height: 100%;
-    background: linear-gradient(180deg, $primary-color 0%, mix($primary-color, #000, 70%) 100%);
-    transition: width 0.3s ease;
-  }
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+  transition: all 0.3s ease;
 
   &:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
-    border-left-color: mix($primary-color, #000, 60%);
+    transform: translateX(5px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+    border-left-color: mix($primary-color, #000, 70%);
     background: linear-gradient(135deg, #ffffff 0%, mix(#fff, $primary-color, 98%) 100%);
 
-    &::before {
-      width: 8px;
-    }
-
     .work-logo img {
-      transform: scale(1.1) rotate(5deg);
+      transform: scale(1.05);
     }
   }
 
   @include breakpoint($small) {
     flex-direction: column;
-    align-items: center;
-    text-align: center;
-    padding: 1.5em;
+    align-items: flex-start;
+    padding: 1em;
   }
 }
 
 .work-logo {
   flex-shrink: 0;
-  width: 80px;
-  height: 80px;
-  border-radius: 12px;
-  background: linear-gradient(135deg, #ffffff 0%, #f0f0f0 100%);
+  width: 60px;
+  height: 60px;
+  border-radius: 10px;
+  background: #ffffff;
   border: 2px solid $border-color;
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 0.5em;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  padding: 0.4em;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
   transition: all 0.3s ease;
-  position: relative;
-  overflow: hidden;
-
-  &::after {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background: linear-gradient(135deg, rgba(255, 255, 255, 0.3) 0%, transparent 100%);
-    opacity: 0;
-    transition: opacity 0.3s ease;
-  }
 
   &:hover {
     border-color: $primary-color;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
-
-    &::after {
-      opacity: 1;
-    }
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.12);
   }
 
   a {
@@ -866,11 +830,11 @@
     max-width: 100%;
     max-height: 100%;
     object-fit: contain;
-    transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    transition: transform 0.3s ease;
   }
 
   .work-logo-fallback {
-    font-size: 1.5em;
+    font-size: 1.2em;
     font-weight: 700;
     color: $primary-color;
     text-transform: uppercase;
@@ -878,21 +842,39 @@
   }
 
   @include breakpoint($small) {
-    width: 70px;
-    height: 70px;
+    width: 50px;
+    height: 50px;
   }
 }
 
 .work-content {
   flex: 1;
   min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25em;
+}
+
+.work-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 1em;
+  margin-bottom: 0.25em;
+
+  @include breakpoint($small) {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.5em;
+  }
 }
 
 .work-company {
-  margin: 0 0 0.5em 0;
-  font-size: $type-size-3;
+  margin: 0;
+  font-size: $type-size-4;
   font-weight: 700;
-  line-height: 1.3;
+  line-height: 1.2;
 
   a {
     color: $primary-color;
@@ -907,39 +889,20 @@
 }
 
 .work-title {
-  margin: 0.5em 0;
-  font-size: $type-size-5;
-  font-weight: 600;
+  margin: 0;
+  font-size: $type-size-6;
+  font-weight: 500;
   color: $text-color;
-  line-height: 1.5;
-}
-
-.work-promotion {
-  font-size: 0.85em;
-  color: mix(#fff, $gray, 30%);
-  font-weight: normal;
-  font-style: italic;
-  margin-left: 0.5em;
+  line-height: 1.4;
 }
 
 .work-period {
-  margin: 0.5em 0;
-  font-size: $type-size-6;
+  font-size: $type-size-7;
   color: mix(#fff, $gray, 25%);
   font-weight: 600;
-  display: inline-block;
-  padding: 0.3em 0.8em;
-  background: linear-gradient(135deg, mix(#fff, $primary-color, 95%) 0%, mix(#fff, $primary-color, 98%) 100%);
+  white-space: nowrap;
+  padding: 0.25em 0.75em;
+  background: linear-gradient(135deg, mix(#fff, $primary-color, 96%) 0%, mix(#fff, $primary-color, 98%) 100%);
   border-radius: $border-radius;
-  border: 1px solid mix($primary-color, #fff, 30%);
-}
-
-.work-details {
-  margin: 0.75em 0 0 0;
-  font-size: $type-size-7;
-  color: mix(#fff, $gray, 35%);
-  font-style: italic;
-  line-height: 1.6;
-  padding-left: 1em;
-  border-left: 2px solid mix($primary-color, #fff, 40%);
+  border: 1px solid mix($primary-color, #fff, 25%);
 }
