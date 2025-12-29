@@ -16,17 +16,6 @@ Professionally, I have worked as a Senior Data Scientist at Arteria AI, leading 
 
 <br />
 
-Research Interests
-======
-* Multimodal Large Language Modeling
-* Multimodal Chart Understnding
-* Multimodal Document Understanding
-* Natural Language Processing
-* Large Language Models
-* Vision - Language
-
-<br />
-
 Education
 ======
 * <a href="https://www.yorku.ca/" style="text-decoration: none; color: #99FF9FF;">York University</a>  
@@ -68,52 +57,167 @@ Work Experience
 
 Recent News
 ======
-* Paper accepted at **ICLR 2025**  
-January 2025
-* Attended NLP Winter School at **MBZUAI (Abu Dhabi, UAE)**  
-January 2025
-* Attended Multimodal Winter School at **SDAIA (Riyadh, Saudi Arabia)**  
-December 2024
-* Paper accepted at **COLING 2025**  
-November 2024
-* Started as a Visiting Researcher at **ServiceNow Research**  
-September 2024
-* Received **Google's PaliGemma Academic Program Award**  
-September 2024
-* Started my PhD at **York University**  
-September 2024
-* Paper accepted at **ACL 2024**  
-May 2024
-* Paper accepted at **AIFinSI@AAAI 2024**  
-January 2024
-* Promoted to **Senior Data Scientist** at at Arteria AI  
-January 2024
-* Paper accepted at **EMNLP 2023**  
-October 2023
-* Presented ChartQA Poster at **TMLS 2023**  
-June 2023
-* Defended my M.Sc. Thesis at **York University**  
-June 2022
-* Presented ChartQA Poster at **CVR/VISTA 2022**  
-June 2022
-* Paper accepted at **EuroVis 2022**  
-May 2022
-* Started working at ArteriaAI as an NLP Data Scientist.  
-May 2022
-* Paper accepted at **ACL 2022**  
-March 2022
-* Paper accepted at **ACL 2022**  
-March 2022
-* Won Best Paper Paper award at **ChartQA@CVPR 2021**  
-June 2021
-* Paper accepted at **ChartQA@CVPR 2021**  
-June 2021
-* Joined as a Graduate Teaching Student at **York University**  
-January 2021
-* Joined as a Graduate Research Assistant at **York University**  
-September 2020
-* Started Fully Funded M.Sc. in Computer Science at **York University**  
-September 2020
-* Started as a Data Scientist Intern at Shallow AI  
-July 2020
+
+<div class="news-container">
+  <div class="news-item">
+    <div class="news-date">January 2025</div>
+    <div class="news-content">
+      <div class="news-title">Paper accepted at <strong>ICLR 2025</strong></div>
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">January 2025</div>
+    <div class="news-content">
+      <div class="news-title">Attended NLP Winter School at <strong>MBZUAI (Abu Dhabi, UAE)</strong></div>
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">December 2024</div>
+    <div class="news-content">
+      <div class="news-title">Attended Multimodal Winter School at <strong>SDAIA (Riyadh, Saudi Arabia)</strong></div>
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">November 2024</div>
+    <div class="news-content">
+      <div class="news-title">Paper accepted at <strong>COLING 2025</strong></div>
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">September 2024</div>
+    <div class="news-content">
+      <div class="news-title">Started as a Visiting Researcher at <strong>ServiceNow Research</strong></div>
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">September 2024</div>
+    <div class="news-content">
+      <div class="news-title">Received <strong>Google's PaliGemma Academic Program Award</strong></div>
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">September 2024</div>
+    <div class="news-content">
+      <div class="news-title">Started my PhD at <strong>York University</strong></div>
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">May 2024</div>
+    <div class="news-content">
+      <div class="news-title">Paper accepted at <strong>ACL 2024</strong></div>
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">January 2024</div>
+    <div class="news-content">
+      <div class="news-title">Paper accepted at <strong>AIFinSI@AAAI 2024</strong></div>
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">January 2024</div>
+    <div class="news-content">
+      <div class="news-title">Promoted to <strong>Senior Data Scientist</strong> at Arteria AI</div>
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">October 2023</div>
+    <div class="news-content">
+      <div class="news-title">Paper accepted at <strong>EMNLP 2023</strong></div>
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">June 2023</div>
+    <div class="news-content">
+      <div class="news-title">Presented ChartQA Poster at <strong>TMLS 2023</strong></div>
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">June 2022</div>
+    <div class="news-content">
+      <div class="news-title">Defended my M.Sc. Thesis at <strong>York University</strong></div>
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">June 2022</div>
+    <div class="news-content">
+      <div class="news-title">Presented ChartQA Poster at <strong>CVR/VISTA 2022</strong></div>
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">May 2022</div>
+    <div class="news-content">
+      <div class="news-title">Paper accepted at <strong>EuroVis 2022</strong></div>
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">May 2022</div>
+    <div class="news-content">
+      <div class="news-title">Started working at <strong>ArteriaAI</strong> as an NLP Data Scientist</div>
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">March 2022</div>
+    <div class="news-content">
+      <div class="news-title">Paper accepted at <strong>ACL 2022</strong></div>
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">June 2021</div>
+    <div class="news-content">
+      <div class="news-title">Won <strong>Best Paper Award</strong> at <strong>ChartQA@CVPR 2021</strong></div>
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">June 2021</div>
+    <div class="news-content">
+      <div class="news-title">Paper accepted at <strong>ChartQA@CVPR 2021</strong></div>
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">January 2021</div>
+    <div class="news-content">
+      <div class="news-title">Joined as a Graduate Teaching Assistant at <strong>York University</strong></div>
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">September 2020</div>
+    <div class="news-content">
+      <div class="news-title">Joined as a Graduate Research Assistant at <strong>York University</strong></div>
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">September 2020</div>
+    <div class="news-content">
+      <div class="news-title">Started Fully Funded M.Sc. in Computer Science at <strong>York University</strong></div>
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">July 2020</div>
+    <div class="news-content">
+      <div class="news-title">Started as a Data Scientist Intern at <strong>Shallow AI</strong></div>
+    </div>
+  </div>
+</div>
 
