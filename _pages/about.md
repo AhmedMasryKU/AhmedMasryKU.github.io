@@ -58,12 +58,12 @@ Work Experience
         </h3>
       </td>
       <td class="work-period-cell">
-        <span class="work-period">September 2025 - December 2025</span>
+        <span class="work-period">Sept 2025 - Dec 2025</span>
       </td>
     </tr>
     <tr>
       <td class="work-title-cell">
-        <span class="work-title">Visiting Researcher</span>
+        <span class="work-title">Visiting Researcher, Advisor: <a href="https://mila.quebec/en/directory/aaron-courville" target="_blank" rel="noopener noreferrer">Aaron Courville</a></span>
       </td>
       <td class="work-location-cell">
         <span class="work-location">Montreal, Quebec</span>
@@ -90,12 +90,12 @@ Work Experience
         </h3>
       </td>
       <td class="work-period-cell">
-        <span class="work-period">September 2024 - Present</span>
+        <span class="work-period">Sept 2024 - July 2025</span>
       </td>
     </tr>
     <tr>
       <td class="work-title-cell">
-        <span class="work-title">Visiting Researcher</span>
+        <span class="work-title">Visiting Researcher, Advisor: <a href="https://sairajeswar.com/" target="_blank" rel="noopener noreferrer">Sai Rajeswar</a></span>
       </td>
       <td class="work-location-cell">
         <span class="work-location">Montreal, Quebec</span>
@@ -122,12 +122,12 @@ Work Experience
         </h3>
       </td>
       <td class="work-period-cell">
-        <span class="work-period">May 2022 - September 2024</span>
+        <span class="work-period">May 2022 - Sept 2024</span>
       </td>
     </tr>
     <tr>
       <td class="work-title-cell">
-        <span class="work-title">Senior Data Scientist</span>
+        <span class="work-title">Senior Data Scientist (Promoted in January 2024)</span>
       </td>
       <td class="work-location-cell">
         <span class="work-location">Toronto, Ontario</span>
