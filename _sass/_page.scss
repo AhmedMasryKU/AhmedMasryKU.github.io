@@ -906,7 +906,7 @@
   }
   
   // Mobile responsive
-  @include breakpoint(180px) {
+  @include breakpoint(1000px) {
     .work-experience-table,
     .work-experience-table tbody,
     .work-experience-table tr,
