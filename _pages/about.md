@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a Ph.D. student in Computer Science at the <a href="https://intelligentvislab.github.io/" style="text-decoration: none; color: #99FF9FF;">Intelligent Visualization Lab</a> at <a href="https://www.yorku.ca/" style="text-decoration: none; color: #99FF9FF;">York University</a> supervised by <a href="http://www.yorku.ca/enamulh/index.html" style="text-decoration: none; color: #99FF9FF;">Prof. Enamul Hoque</a> and funded by the prestigious <a href="https://nserc-crsng.canada.ca/en/funding-opportunity/canada-graduate-research-scholarship-doctoral-program" style="text-decoration: none; color: #99FF9FF;">NSERC CGS-D Doctoral Award</a>. 
-I received an MSc in CS from <a href="https://www.yorku.ca/" style="text-decoration: none; color: #99FF9FF;">York University</a> in 2022 and a BSc in Computer Engineering from Koc University in 2020, funded by <a href="https://www.alghurairfoundation.org/" style="text-decoration: none; color: #99FF9FF;">AGFE STEM scholarship</a>...
+I received an MSc in CS from <a href="https://www.yorku.ca/" style="text-decoration: none; color: #99FF9FF;">York University</a> in 2022 and a BSc in Computer Engineering from Koc University in 2020, funded by <a href="https://www.alghurairfoundation.org/" style="text-decoration: none; color: #99FF9FF;">AGFE STEM scholarship</a>.
 
 Research Highlights
 ======
@@ -63,7 +63,7 @@ Work Experience
     </tr>
     <tr>
       <td class="work-title-cell">
-        <span class="work-title">Visiting Researcher, Advisor: <a href="https://mila.quebec/en/directory/aaron-courville" target="_blank" rel="noopener noreferrer">Aaron Courville</a></span>
+        <span class="work-title">Visiting Researcher</span>
       </td>
       <td class="work-location-cell">
         <span class="work-location">Montreal, Quebec</span>
@@ -95,7 +95,7 @@ Work Experience
     </tr>
     <tr>
       <td class="work-title-cell">
-        <span class="work-title">Visiting Researcher, Advisor: <a href="https://sairajeswar.com/" target="_blank" rel="noopener noreferrer">Sai Rajeswar</a></span>
+        <span class="work-title">Visiting Researcher</span>
       </td>
       <td class="work-location-cell">
         <span class="work-location">Montreal, Quebec</span>
@@ -127,7 +127,7 @@ Work Experience
     </tr>
     <tr>
       <td class="work-title-cell">
-        <span class="work-title">Senior Data Scientist (Promoted in January 2024)</span>
+        <span class="work-title">Senior Data Scientist</span>
       </td>
       <td class="work-location-cell">
         <span class="work-location">Toronto, Ontario</span>
