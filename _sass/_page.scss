@@ -404,62 +404,75 @@
    News Section
    ========================================================================== */
 
-.news-container {
+.news-table {
+  width: 100%;
   margin-top: 1.5em;
-}
-
-.news-item {
-  display: flex;
-  align-items: flex-start;
-  margin-bottom: 1.5em;
-  padding: 1em;
-  padding-left: 1.5em;
-  border-left: 3px solid $primary-color;
-  background-color: mix(#fff, $primary-color, 98%);
+  border-collapse: separate;
+  border-spacing: 0;
+  border: 1px solid mix($primary-color, #fff, 30%);
   border-radius: $border-radius;
-  transition: all 0.2s ease;
+  overflow: hidden;
+  background-color: #fff;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
 
-  &:hover {
-    background-color: mix(#fff, $primary-color, 96%);
-    border-left-color: mix($primary-color, #000, 80%);
-    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
-    transform: translateX(3px);
-  }
+  tbody {
+    tr {
+      transition: all 0.2s ease;
+      border-bottom: 1px solid mix($primary-color, #fff, 20%);
 
-  &:last-child {
-    margin-bottom: 0;
+      &:last-child {
+        border-bottom: none;
+      }
+
+      &:hover {
+        background-color: mix(#fff, $primary-color, 97%);
+      }
+
+      &:nth-child(even) {
+        background-color: mix(#fff, $primary-color, 99%);
+
+        &:hover {
+          background-color: mix(#fff, $primary-color, 96%);
+        }
+      }
+    }
   }
 }
 
-.news-date {
-  flex-shrink: 0;
-  width: 140px;
+.news-content-cell {
+  padding: 1em 1.5em;
   font-size: $type-size-6;
-  font-weight: 600;
-  color: $primary-color;
-  margin-right: 1.5em;
-  padding-top: 0.2em;
-
-  @include breakpoint($small) {
-    width: 100px;
-    font-size: $type-size-7;
-    margin-right: 1em;
-  }
-}
-
-.news-content {
-  flex: 1;
-  min-width: 0;
-}
-
-.news-title {
-  font-size: $type-size-6;
-  line-height: 1.5;
+  line-height: 1.6;
   color: mix(#fff, $gray, 15%);
-  margin: 0;
+  vertical-align: middle;
+  width: auto;
 
   strong {
     color: $primary-color;
     font-weight: 700;
+  }
+
+  @include breakpoint($small) {
+    padding: 0.75em 1em;
+    font-size: $type-size-7;
+  }
+}
+
+.news-date-cell {
+  padding: 1em 1.5em;
+  font-size: $type-size-6;
+  font-weight: 600;
+  color: $primary-color;
+  text-align: right;
+  vertical-align: middle;
+  white-space: nowrap;
+  min-width: 140px;
+  background-color: mix(#fff, $primary-color, 98%);
+  border-left: 1px solid mix($primary-color, #fff, 20%);
+
+  @include breakpoint($small) {
+    padding: 0.75em 1em;
+    font-size: $type-size-7;
+    min-width: 100px;
   }
 }
