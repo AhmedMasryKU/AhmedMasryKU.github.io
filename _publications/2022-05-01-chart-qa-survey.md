@@ -9,7 +9,7 @@ venue: 'EuroVis 2022'
 authors: 'Enamul Hoque, Parsa Kavehzadeh, Ahmed Masry'
 paperurl: 'https://arxiv.org/abs/2205.03966'
 header:
-  teaser: chart-qa-survey.jpg
+  teaser: chartqa_survey-fig.jpg
 ---
 
 Chart Question Answering: State of the art and future directions.
