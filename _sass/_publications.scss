@@ -112,9 +112,25 @@
 
 .publication__venue {
   margin: 0.5em 0;
-  font-size: $type-size-7;
-  color: mix(#fff, $gray, 25%);
-  font-style: italic;
+  font-size: $type-size-6;
+  color: $primary-color;
+  font-weight: 700;
+  font-style: normal;
+  background-color: mix(#fff, $primary-color, 96%);
+  padding: 0.4em 0.8em;
+  border-radius: $border-radius;
+  display: inline-block;
+}
+
+.publication__award {
+  color: #d32f2f;
+  font-weight: 700;
+  font-size: $type-size-6;
+  background-color: mix(#fff, #d32f2f, 95%);
+  padding: 0.3em 0.6em;
+  border-radius: $border-radius;
+  display: inline-block;
+  margin-left: 0.5em;
 }
 
 .publication__links {
@@ -198,15 +214,16 @@
 .publication-section-header {
   margin-top: 2.5em;
   margin-bottom: 1.5em;
-  padding: 1em 0;
-  padding-left: 1em;
-  border-left: 5px solid $primary-color;
-  background-color: mix(#fff, $primary-color, 95%);
-  font-size: $type-size-1;
+  padding: 1.25em 0;
+  padding-left: 1.25em;
+  border-left: 6px solid $primary-color;
+  background: linear-gradient(90deg, mix(#fff, $primary-color, 95%) 0%, mix(#fff, $primary-color, 98%) 100%);
+  font-size: 2.5em;
   color: $primary-color;
-  font-weight: 700;
+  font-weight: 800;
   text-transform: uppercase;
-  letter-spacing: 0.05em;
+  letter-spacing: 0.1em;
+  line-height: 1.2;
   
   &:first-of-type {
     margin-top: 0;
@@ -216,12 +233,12 @@
 .publication-year-header {
   margin-top: 1.5em;
   margin-bottom: 1em;
-  padding: 0.5em 0;
+  padding: 0.4em 0;
   padding-left: 0.75em;
-  border-left: 3px solid mix($primary-color, #fff, 60%);
-  font-size: $type-size-5;
-  color: mix(#fff, $gray, 15%);
-  font-weight: 500;
+  border-left: 2px solid mix($primary-color, #fff, 50%);
+  font-size: $type-size-6;
+  color: mix(#fff, $gray, 20%);
+  font-weight: 400;
   font-style: italic;
   
   &:first-of-type {

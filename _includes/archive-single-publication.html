@@ -60,7 +60,22 @@
         </p>
 
         {% if post.venue %}
-          <p class="publication__venue"><i>{{ post.venue }}</i></p>
+          <p class="publication__venue">
+            <strong>{{ post.venue }}</strong>
+            {% assign has_award = false %}
+            {% if post.excerpt contains "Best Paper Award" or post.excerpt contains "best paper award" or post.excerpt contains "Best Paper" %}
+              {% assign has_award = true %}
+            {% endif %}
+            {% if post.content contains "Best Paper Award" or post.content contains "best paper award" or post.content contains "Best Paper" %}
+              {% assign has_award = true %}
+            {% endif %}
+            {% if post.award %}
+              {% assign has_award = true %}
+            {% endif %}
+            {% if has_award %}
+              <span class="publication__award">🏆 Best Paper Award</span>
+            {% endif %}
+          </p>
         {% endif %}
 
         <div class="publication__links">

@@ -6,7 +6,7 @@ category: preprint
 excerpt: 'LLM-based data science agents: A survey of capabilities, challenges, and future directions.'
 date: 2025-10-02
 venue: 'arXiv Preprint'
-authors: 'M Rahman, A Bhuiyan, Mohammed Saidul Islam, Md Tahmid Rahman Laskar, R Mahbub, Ahmed Masry'
+authors: 'Mizanur Rahman, Amran Bhuiyan, Mohammed Saidul Islam, Md Tahmid Rahman Laskar, Ridwan Mahbub, Ahmed Masry, Shafiq Joty, Enamul Hoque'
 paperurl: 'https://arxiv.org/abs/2510.04023'
 header:
   teaser: mizanur_survey-fig.png

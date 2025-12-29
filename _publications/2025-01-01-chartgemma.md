@@ -5,7 +5,7 @@ permalink: /publication/2025-01-01-chartgemma
 category: conference
 excerpt: 'ChartGemma is a visual instruction-tuned model for chart reasoning.'
 date: 2025-01-01
-venue: 'COLING 2025'
+venue: 'COLING 2025 Industry Track'
 authors: 'Ahmed Masry*, Megh Thakkar*, Aayush Bajaj, Aaryaman Kartha, Enamul Hoque, Shafiq Joty'
 paperurl: 'https://arxiv.org/abs/2407.04172v1'
 bibtex: 'https://example.com/bibtex/chartgemma.bib'
