@@ -139,7 +139,7 @@ Education
       </td>
       <td class="work-company-cell">
         <h3 class="work-company">
-          <a href="https://www.yorku.ca/" target="_blank">York University</a>
+          <a href="https://www.yorku.ca/" target="_blank">York University, Ontario</a>
         </h3>
       </td>
       <td class="work-period-cell">
@@ -172,7 +172,7 @@ Education
       </td>
       <td class="work-company-cell">
         <h3 class="work-company">
-          <a href="https://www.yorku.ca/" target="_blank">York University</a>
+          <a href="https://www.yorku.ca/" target="_blank">York University, Ontario</a>
         </h3>
       </td>
       <td class="work-period-cell">
