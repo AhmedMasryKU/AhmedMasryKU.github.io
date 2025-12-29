@@ -772,11 +772,10 @@
 .work-item-row {
   background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%);
   transition: all 0.3s ease;
-  vertical-align: middle;
 
   td {
     border: none;
-    padding: 0.5em 0.75em;
+    vertical-align: middle;
   }
 
   &:hover {
@@ -814,13 +813,13 @@
 }
 
 .work-company-cell {
-  padding: 0.5em 0.75em;
+  padding: 0.75em 0.75em;
   vertical-align: middle;
   width: auto;
 }
 
 .work-period-cell {
-  padding: 0.5em 1em;
+  padding: 0.75em 1em;
   vertical-align: middle;
   text-align: right;
   width: auto;
