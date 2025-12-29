@@ -58,16 +58,20 @@ Work Experience
           <a href="https://www.servicenow.com/research/people.html" target="_blank" rel="noopener noreferrer">ServiceNow Research</a>
         </h3>
       </td>
-      <td class="work-title-cell">
-        <span class="work-title">Visiting Researcher</span>
-      </td>
-    </tr>
-    <tr class="work-item-row">
       <td class="work-period-cell">
         <span class="work-period">September 2024 - Present</span>
       </td>
-      <td class="work-title-cell-empty">
+    </tr>
+    <tr class="work-item-row">
+      <td class="work-title-cell">
+        <span class="work-title">Visiting Researcher</span>
       </td>
+      <td class="work-location-cell">
+        <span class="work-location">Montreal, Quebec</span>
+      </td>
+    </tr>
+    <tr class="work-item-separator">
+      <td colspan="3"></td>
     </tr>
     <tr class="work-item-row">
       <td class="work-logo-cell" rowspan="2">
@@ -83,15 +87,16 @@ Work Experience
           <a href="https://www.arteria.ai/" target="_blank" rel="noopener noreferrer">Arteria AI</a>
         </h3>
       </td>
-      <td class="work-title-cell">
-        <span class="work-title">Senior Data Scientist</span>
-      </td>
-    </tr>
-    <tr class="work-item-row">
       <td class="work-period-cell">
         <span class="work-period">May 2022 - September 2024</span>
       </td>
-      <td class="work-title-cell-empty">
+    </tr>
+    <tr class="work-item-row">
+      <td class="work-title-cell">
+        <span class="work-title">Senior Data Scientist</span>
+      </td>
+      <td class="work-location-cell">
+        <span class="work-location">Toronto, Ontario</span>
       </td>
     </tr>
   </tbody>

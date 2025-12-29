@@ -774,48 +774,16 @@
   transition: all 0.3s ease;
   vertical-align: middle;
 
-  &:first-child {
-    border-top: 1px solid rgba($border-color, 0.3);
-    border-left: 4px solid $primary-color;
-    border-radius: $border-radius $border-radius 0 0;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
-  }
-
-  &:last-child {
-    border-bottom: 1px solid rgba($border-color, 0.3);
-    border-right: 1px solid rgba($border-color, 0.3);
-    border-radius: 0 0 $border-radius $border-radius;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
-  }
-
-  &:not(:first-child):not(:last-child) {
-    border-left: 4px solid transparent;
-  }
-
   td {
-    border-top: 1px solid rgba($border-color, 0.2);
-    border-bottom: 1px solid rgba($border-color, 0.2);
-    border-right: 1px solid rgba($border-color, 0.2);
-  }
-
-  &:first-child td {
-    border-top: 1px solid rgba($border-color, 0.3);
-  }
-
-  &:last-child td {
-    border-bottom: 1px solid rgba($border-color, 0.3);
+    border: none;
+    padding: 1.25em 0.75em;
   }
 
   &:hover {
     background: linear-gradient(135deg, #ffffff 0%, mix(#fff, $primary-color, 98%) 100%);
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
 
     .work-logo img {
       transform: scale(1.05);
-    }
-
-    td {
-      border-color: rgba($primary-color, 0.3);
     }
   }
 
@@ -826,9 +794,16 @@
       display: block;
       width: 100% !important;
       padding: 0.5em 1em !important;
-      border: none !important;
     }
   }
+}
+
+.work-item-separator {
+  td {
+        border-top: 1px solid rgba($border-color, 0.4);
+        padding: 0;
+        height: 1em;
+      }
 }
 
 .work-logo-cell {
@@ -836,7 +811,6 @@
   vertical-align: middle;
   width: auto;
   white-space: nowrap;
-  border-left: none !important;
 }
 
 .work-company-cell {
@@ -846,13 +820,6 @@
 }
 
 .work-period-cell {
-  padding: 0.75em 0.75em 1.25em 0.75em;
-  vertical-align: middle;
-  width: auto;
-  white-space: nowrap;
-}
-
-.work-title-cell {
   padding: 1.25em 1.5em;
   vertical-align: middle;
   text-align: right;
@@ -860,11 +827,21 @@
   white-space: nowrap;
 }
 
-.work-title-cell-empty {
-  padding: 0.75em 1.5em 1.25em 1.5em;
+.work-title-cell {
+  padding: 1.25em 0.75em;
   vertical-align: middle;
   width: auto;
-  border-right: none !important;
+}
+
+.work-location-cell {
+  padding: 1.25em 1.5em;
+  vertical-align: middle;
+  text-align: right;
+  width: auto;
+  white-space: nowrap;
+  font-size: $type-size-7;
+  color: mix(#fff, $gray, 30%);
+  font-style: italic;
 }
 
 .work-logo {
