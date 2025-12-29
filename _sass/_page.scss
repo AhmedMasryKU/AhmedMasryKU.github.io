@@ -1031,12 +1031,26 @@
   }
 }
 
-/* Research Impact Card */
-.research-impact-card {
+/* Combined Research Impact & Open Source Card */
+.combined-impact-card {
+  grid-column: 1 / -1;
+
+  @include breakpoint($small) {
+    grid-column: 1;
+  }
+
   .dashboard-card-content {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(4, 1fr);
     gap: 0.35em;
+
+    @include breakpoint($medium) {
+      grid-template-columns: repeat(2, 1fr);
+    }
+
+    @include breakpoint($small) {
+      grid-template-columns: 1fr;
+    }
   }
 }
 

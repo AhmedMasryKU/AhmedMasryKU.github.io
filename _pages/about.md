@@ -15,16 +15,16 @@ Research Highlights
 ======
 
 <div class="research-dashboard">
-  <!-- Research Impact Card -->
-  <div class="dashboard-card research-impact-card">
+  <!-- Combined Research Impact & Open Source Card -->
+  <div class="dashboard-card combined-impact-card">
     <div class="dashboard-card-header">
       <div class="dashboard-icon research-impact-icon">📈</div>
-      <h3 class="dashboard-card-title">Research Impact</h3>
+      <h3 class="dashboard-card-title">Research Impact & Open Source</h3>
     </div>
     <div class="dashboard-card-content">
       <div class="metric-card">
         <div class="metric-value">2000+</div>
-        <div class="metric-label">Total Citations</div>
+        <div class="metric-label">Citations</div>
         <div class="metric-icon">👥</div>
       </div>
       <div class="metric-card">
@@ -32,47 +32,21 @@ Research Highlights
         <div class="metric-label">h-index</div>
         <div class="metric-icon">📊</div>
       </div>
-    </div>
-    <div class="dashboard-card-footer">
-      <a href="https://scholar.google.com/citations?user=XqPX5XcAAAAJ&hl=en" target="_blank" rel="noopener noreferrer" class="dashboard-link">View on Google Scholar →</a>
-    </div>
-  </div>
-
-  <!-- Open Source Contributions Card -->
-  <div class="dashboard-card open-source-card">
-    <div class="dashboard-card-header">
-      <div class="dashboard-icon open-source-icon">🌿</div>
-      <h3 class="dashboard-card-title">Open Source Contributions</h3>
-    </div>
-    <div class="dashboard-card-subtitle">Benchmarks & Models</div>
-    <div class="dashboard-card-content">
-      <div class="contribution-card">
-        <div class="contribution-header">
-          <h4 class="contribution-title">Models</h4>
-          <div class="contribution-icon">📦</div>
-        </div>
-        <div class="contribution-description">Multimodal chart & document models</div>
-        <div class="contribution-metric">
-          <span class="metric-number">200K+</span>
-          <span class="metric-unit">Downloads</span>
-          <span class="download-icon">⬇️</span>
-        </div>
+      <div class="metric-card">
+        <div class="metric-value">200K+</div>
+        <div class="metric-label">Models</div>
+        <div class="metric-icon">📦</div>
       </div>
-      <div class="contribution-card">
-        <div class="contribution-header">
-          <h4 class="contribution-title">ChartQA</h4>
-          <div class="contribution-icon">🎯</div>
-        </div>
-        <div class="contribution-description">Cited by GPT-4 & Gemini</div>
-        <div class="contribution-metric">
-          <span class="metric-number">50K+</span>
-          <span class="metric-unit">Downloads</span>
-          <span class="download-icon">⬇️</span>
-        </div>
+      <div class="metric-card">
+        <div class="metric-value">50K+</div>
+        <div class="metric-label">Benchmarks</div>
+        <div class="metric-icon">🎯</div>
       </div>
     </div>
     <div class="dashboard-card-footer">
-      <a href="https://huggingface.co/ahmed-masry" target="_blank" rel="noopener noreferrer" class="dashboard-link">View on HuggingFace →</a>
+      <a href="https://scholar.google.com/citations?user=XqPX5XcAAAAJ&hl=en" target="_blank" rel="noopener noreferrer" class="dashboard-link">Google Scholar →</a>
+      <span style="margin: 0 0.5em;">•</span>
+      <a href="https://huggingface.co/ahmed-masry" target="_blank" rel="noopener noreferrer" class="dashboard-link">HuggingFace →</a>
     </div>
   </div>
 
@@ -91,24 +65,6 @@ Research Highlights
         <span class="publication-badge badge-coling">COLING '25</span>
         <span class="publication-badge badge-colm">COLM '25</span>
         <span class="publication-badge badge-eurovis">EuroVis '22</span>
-      </div>
-    </div>
-  </div>
-
-  <!-- Media Coverage Card -->
-  <div class="dashboard-card media-card">
-    <div class="dashboard-card-header">
-      <div class="dashboard-icon media-icon">📰</div>
-      <h3 class="dashboard-card-title">Media Coverage</h3>
-    </div>
-    <div class="dashboard-card-content">
-      <div class="media-item">
-        <h4 class="media-title">ChartGemma</h4>
-        <p class="media-description">Featured in MarketTechPost</p>
-      </div>
-      <div class="media-item">
-        <h4 class="media-title">ChartInstruct</h4>
-        <p class="media-description">Featured in LG AI Research Blogs</p>
       </div>
     </div>
   </div>
