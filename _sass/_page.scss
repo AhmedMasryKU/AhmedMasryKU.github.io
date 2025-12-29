@@ -1103,12 +1103,10 @@
 
 .metric-icon {
   position: absolute;
-  top: 50%;
-  right: 0.5em;
-  transform: translateY(-50%);
-  font-size: 1.25em;
-  opacity: 0.25;
-  z-index: 1;
+  top: 0.35em;
+  right: 0.35em;
+  font-size: 0.85em;
+  opacity: 0.3;
 }
 
 /* Open Source Contributions Card */

@@ -44,13 +44,13 @@ I work on advancing *vision-language models (VLMs)* for understanding visually r
     </div>
     <div class="dashboard-card-footer">
       <a href="https://scholar.google.com/citations?user=XqPX5XcAAAAJ&hl=en" target="_blank" rel="noopener noreferrer" class="dashboard-link">
-        <img src="/images/logos/google-scholar.png" alt="Google Scholar" class="footer-logo" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline';">
-        <span style="display: none;">Google Scholar</span> →
+        <img src="/images/logos/google-scholar.png" alt="Google Scholar" class="footer-logo" onerror="this.style.display='none';">
+        <span>Google Scholar</span> →
       </a>
       <span style="margin: 0 0.5em;">•</span>
       <a href="https://huggingface.co/ahmed-masry" target="_blank" rel="noopener noreferrer" class="dashboard-link">
-        <img src="/images/logos/huggingface.png" alt="HuggingFace" class="footer-logo" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline';">
-        <span style="display: none;">HuggingFace</span> →
+        <img src="/images/logos/huggingface.png" alt="HuggingFace" class="footer-logo" onerror="this.style.display='none';">
+        <span>HuggingFace</span> →
       </a>
     </div>
   </div>
