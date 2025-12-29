@@ -5,8 +5,6 @@ permalink: /extracurricular-activities/
 author_profile: true
 ---
 
-Extracurricular Activities
-======
 * **Arabic NLP Winter School**  
 Attended 2025 winter school at MBZUAI campus in Abu Dhabi, UAE (January 2025)
 

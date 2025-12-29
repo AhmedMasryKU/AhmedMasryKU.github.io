@@ -66,13 +66,6 @@ Work Experience
 
 <br />
 
-Extracurricular Activities
-======
-See my [Extracurricular Activities page](/extracurricular-activities/) for a complete list of activities and achievements.
-
-<br />
-
-
 Recent News
 ======
 * Paper accepted at **ICLR 2025**  
