@@ -63,7 +63,7 @@ Work Experience
     </tr>
     <tr>
       <td class="work-title-cell">
-        <span class="work-title">Visiting Researcher</span>
+        <span class="work-title">Visiting Researcher, Host: <a href="https://mila.quebec/en/directory/aaron-courville" target="_blank" rel="noopener noreferrer">Aaron Courville</a></span>
       </td>
       <td class="work-location-cell">
         <span class="work-location">Montreal, Quebec</span>
@@ -95,7 +95,7 @@ Work Experience
     </tr>
     <tr>
       <td class="work-title-cell">
-        <span class="work-title">Visiting Researcher</span>
+        <span class="work-title">Visiting Researcher, Host: <a href="https://sairajeswar.com/" target="_blank" rel="noopener noreferrer">Sai Rajeswar</a></span>
       </td>
       <td class="work-location-cell">
         <span class="work-location">Montreal, Quebec</span>
@@ -127,7 +127,7 @@ Work Experience
     </tr>
     <tr>
       <td class="work-title-cell">
-        <span class="work-title">Senior Data Scientist</span>
+        <span class="work-title">Senior Data Scientist (Promoted in Jan 2024)</span>
       </td>
       <td class="work-location-cell">
         <span class="work-location">Toronto, Ontario</span>
