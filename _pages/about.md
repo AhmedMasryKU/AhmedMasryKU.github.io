@@ -54,7 +54,7 @@ Work Experience
       </td>
       <td class="work-company-cell">
         <h3 class="work-company">
-          <a href="https://mila.quebec/" target="_blank">Mila - Quebec Artificial Intelligence Institute</a>
+          <a href="https://mila.quebec/" target="_blank">Mila - Quebec AI Institute</a>
         </h3>
       </td>
       <td class="work-period-cell">
