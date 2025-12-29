@@ -10,68 +10,52 @@ redirect_from:
 
 I am a Ph.D. student in Computer Science at <a href="https://www.yorku.ca/" style="text-decoration: none; color: #99FF9FF;">York University</a> supervised by <a href="http://www.yorku.ca/enamulh/index.html" style="text-decoration: none; color: #99FF9FF;">Prof. Enamul Hoque</a>. My research focuses on developing multimodal vision-language models and benchmarks for chart, table, and document comprehension. I earned my Master of Science in Computer Science from <a href="https://www.yorku.ca/" style="text-decoration: none; color: #99FF9FF;">York University</a> in 2022 and a Bachelor of Science in Computer Engineering from Koc University in 2020, supported by the fully-funded Al Ghurair Foundation (AGFE) STEM scholarship.
 
-<div class="highlights-grid">
-  <div class="highlight-card highlight-card--primary">
-    <div class="highlight-icon">📄</div>
-    <div class="highlight-content">
-      <h3 class="highlight-title">Conference Publications</h3>
-      <p class="highlight-text">ACL (22, 24, 25), EuroVis (22), EMNLP (23, 24), COLING (25), ICLR (25), COLM (25), NeurIPS (25)</p>
-    </div>
-  </div>
+<div class="research-highlights">
+  <div class="highlights-columns">
+    <div class="highlight-column">
+      <div class="highlight-item">
+        <h4 class="highlight-label">Conference Publications</h4>
+        <p class="highlight-value">ACL (22, 24, 25), EuroVis (22), EMNLP (23, 24), COLING (25), ICLR (25), COLM (25), NeurIPS (25)</p>
+      </div>
 
-  <div class="highlight-card highlight-card--award">
-    <div class="highlight-icon">🏆</div>
-    <div class="highlight-content">
-      <h3 class="highlight-title">Workshop Papers</h3>
-      <p class="highlight-text">CVPR 21 <span class="badge badge--award">Best Paper Award</span>, AAAI (24), and ICLR (25)</p>
-    </div>
-  </div>
+      <div class="highlight-item">
+        <h4 class="highlight-label">Workshop Papers</h4>
+        <p class="highlight-value">CVPR 21 <span class="award-badge">Best Paper Award</span>, AAAI (24), and ICLR (25)</p>
+      </div>
 
-  <div class="highlight-card highlight-card--impact">
-    <div class="highlight-icon">📊</div>
-    <div class="highlight-content">
-      <h3 class="highlight-title">Research Impact</h3>
-      <p class="highlight-text"><strong>2000+ citations</strong>, h-index of <strong>13</strong> on <a href="https://scholar.google.com/citations?user=XqPX5XcAAAAJ&hl=en" target="_blank">Google Scholar</a></p>
+      <div class="highlight-item">
+        <h4 class="highlight-label">Research Impact</h4>
+        <p class="highlight-value"><strong>2000+ citations</strong>, h-index of <strong>13</strong> on <a href="https://scholar.google.com/citations?user=XqPX5XcAAAAJ&hl=en" target="_blank">Google Scholar</a></p>
+      </div>
     </div>
-  </div>
 
-  <div class="highlight-card highlight-card--funding">
-    <div class="highlight-icon">💰</div>
-    <div class="highlight-content">
-      <h3 class="highlight-title">Awards & Funding</h3>
-      <p class="highlight-text">NSERC CGS-D (<strong>$120K CAD</strong>) & Google PaliGemma Academic Grant (<strong>$5K USD</strong>)</p>
+    <div class="highlight-column">
+      <div class="highlight-item">
+        <h4 class="highlight-label">Awards & Funding</h4>
+        <p class="highlight-value">NSERC CGS-D (<strong>$120K CAD</strong>) & Google PaliGemma Academic Grant (<strong>$5K USD</strong>)</p>
+      </div>
+
+      <div class="highlight-item">
+        <h4 class="highlight-label">Benchmark Contribution</h4>
+        <p class="highlight-value">Creator of <a href="https://github.com/vis-nlp/ChartQA" target="_blank">ChartQA Benchmark</a>, cited by <strong>GPT-4</strong> & <strong>Gemini</strong>; <strong>1100+ citations</strong></p>
+      </div>
+
+      <div class="highlight-item">
+        <h4 class="highlight-label">Modeling Contributions</h4>
+        <p class="highlight-value">Multimodal chart and document models with <strong>300K+ downloads</strong> on <a href="https://huggingface.co/ahmed-masry" target="_blank">HuggingFace</a></p>
+      </div>
     </div>
-  </div>
 
-  <div class="highlight-card highlight-card--benchmark">
-    <div class="highlight-icon">🎯</div>
-    <div class="highlight-content">
-      <h3 class="highlight-title">Benchmark Contribution</h3>
-      <p class="highlight-text">Creator of <a href="https://github.com/vis-nlp/ChartQA" target="_blank">ChartQA Benchmark</a>, cited by <strong>GPT-4</strong> & <strong>Gemini</strong>; <strong>1100+ citations</strong></p>
-    </div>
-  </div>
+    <div class="highlight-column">
+      <div class="highlight-item">
+        <h4 class="highlight-label">Research Interests</h4>
+        <p class="highlight-value">Vision-Language Models, Document & Chart Comprehension, Large Language Models</p>
+      </div>
 
-  <div class="highlight-card highlight-card--models">
-    <div class="highlight-icon">🤖</div>
-    <div class="highlight-content">
-      <h3 class="highlight-title">Modeling Contributions</h3>
-      <p class="highlight-text">Multimodal chart and document models with <strong>300K+ downloads</strong> on <a href="https://huggingface.co/ahmed-masry" target="_blank">HuggingFace</a></p>
-    </div>
-  </div>
-
-  <div class="highlight-card highlight-card--research">
-    <div class="highlight-icon">🔬</div>
-    <div class="highlight-content">
-      <h3 class="highlight-title">Research Interests</h3>
-      <p class="highlight-text">Vision-Language Models, Document & Chart Comprehension, Large Language Models</p>
-    </div>
-  </div>
-
-  <div class="highlight-card highlight-card--media">
-    <div class="highlight-icon">📰</div>
-    <div class="highlight-content">
-      <h3 class="highlight-title">Media Coverage</h3>
-      <p class="highlight-text">ChartGemma featured in <strong>MarketTechPost</strong> and ChartInstruct in <strong>LG AI Research Blogs</strong></p>
+      <div class="highlight-item">
+        <h4 class="highlight-label">Media Coverage</h4>
+        <p class="highlight-value">ChartGemma featured in <strong>MarketTechPost</strong> and ChartInstruct in <strong>LG AI Research Blogs</strong></p>
+      </div>
     </div>
   </div>
 </div>
