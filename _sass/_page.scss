@@ -929,3 +929,325 @@
   //     margin: 0 auto;
   //   }
   // }
+
+/*
+   Research Dashboard
+   ========================================================================== */
+.research-dashboard {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5em;
+  margin-top: 2em;
+  margin-bottom: 2em;
+
+  @include breakpoint($small) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.dashboard-card {
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 1.5em;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  transition: all 0.3s ease;
+  border: 1px solid rgba(0, 0, 0, 0.05);
+
+  &:hover {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
+    transform: translateY(-2px);
+  }
+}
+
+.dashboard-card-header {
+  display: flex;
+  align-items: center;
+  gap: 0.75em;
+  margin-bottom: 1em;
+}
+
+.dashboard-icon {
+  font-size: 1.5em;
+  width: 2.5em;
+  height: 2.5em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 8px;
+  flex-shrink: 0;
+}
+
+.research-impact-icon {
+  background: linear-gradient(135deg, #7c3aed 0%, #a855f7 100%);
+}
+
+.open-source-icon {
+  background: linear-gradient(135deg, #059669 0%, #10b981 100%);
+}
+
+.publications-icon {
+  background: linear-gradient(135deg, #7c3aed 0%, #a855f7 100%);
+}
+
+.media-icon {
+  background: linear-gradient(135deg, #dc2626 0%, #ef4444 100%);
+}
+
+.dashboard-card-title {
+  margin: 0;
+  font-size: $type-size-4;
+  font-weight: 700;
+  color: $text-color;
+}
+
+.dashboard-card-subtitle {
+  font-size: $type-size-6;
+  color: mix(#fff, $gray, 30%);
+  margin-bottom: 1em;
+  font-style: italic;
+}
+
+.dashboard-card-content {
+  margin-bottom: 1em;
+}
+
+.dashboard-card-footer {
+  margin-top: 1em;
+  padding-top: 1em;
+  border-top: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.dashboard-link {
+  color: $primary-color;
+  text-decoration: none;
+  font-size: $type-size-6;
+  font-weight: 600;
+  transition: color 0.2s ease;
+
+  &:hover {
+    color: mix($primary-color, #000, 70%);
+    text-decoration: underline;
+  }
+}
+
+/* Research Impact Card */
+.research-impact-card {
+  .dashboard-card-content {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1em;
+  }
+}
+
+.metric-card {
+  background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
+  border-radius: 8px;
+  padding: 1.25em;
+  position: relative;
+  border: 1px solid rgba(0, 0, 0, 0.05);
+  transition: all 0.3s ease;
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+}
+
+.metric-value {
+  font-size: 2em;
+  font-weight: 800;
+  color: $text-color;
+  line-height: 1.2;
+  margin-bottom: 0.25em;
+}
+
+.metric-label {
+  font-size: $type-size-7;
+  color: mix(#fff, $gray, 30%);
+  font-weight: 500;
+}
+
+.metric-icon {
+  position: absolute;
+  top: 1em;
+  right: 1em;
+  font-size: 1.5em;
+  opacity: 0.3;
+}
+
+/* Open Source Contributions Card */
+.open-source-card {
+  .dashboard-card-content {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+  }
+}
+
+.contribution-card {
+  background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
+  border-radius: 8px;
+  padding: 1.25em;
+  border: 1px solid rgba(0, 0, 0, 0.05);
+  transition: all 0.3s ease;
+  position: relative;
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+}
+
+.contribution-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.5em;
+}
+
+.contribution-title {
+  margin: 0;
+  font-size: $type-size-5;
+  font-weight: 700;
+  color: $text-color;
+}
+
+.contribution-icon {
+  font-size: 1.5em;
+  opacity: 0.3;
+}
+
+.contribution-description {
+  font-size: $type-size-7;
+  color: mix(#fff, $gray, 30%);
+  margin-bottom: 0.75em;
+}
+
+.contribution-metric {
+  display: flex;
+  align-items: baseline;
+  gap: 0.5em;
+}
+
+.metric-number {
+  font-size: 1.75em;
+  font-weight: 800;
+  color: #059669;
+  line-height: 1;
+}
+
+.metric-unit {
+  font-size: $type-size-7;
+  color: mix(#fff, $gray, 30%);
+  font-weight: 500;
+}
+
+.download-icon {
+  font-size: 1em;
+  color: #059669;
+  margin-left: auto;
+}
+
+/* Key Publications Card */
+.publications-card {
+  grid-column: 1 / -1;
+
+  @include breakpoint($small) {
+    grid-column: 1;
+  }
+}
+
+.publication-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75em;
+}
+
+.publication-badge {
+  display: inline-block;
+  padding: 0.5em 1em;
+  border-radius: 6px;
+  font-size: $type-size-6;
+  font-weight: 600;
+  color: #ffffff;
+  transition: all 0.3s ease;
+  cursor: default;
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+}
+
+.badge-neurips {
+  background: linear-gradient(135deg, #7c3aed 0%, #a855f7 100%);
+}
+
+.badge-iclr {
+  background: linear-gradient(135deg, #7c3aed 0%, #a855f7 100%);
+}
+
+.badge-acl {
+  background: linear-gradient(135deg, #2563eb 0%, #3b82f6 100%);
+}
+
+.badge-emnlp {
+  background: linear-gradient(135deg, #2563eb 0%, #3b82f6 100%);
+}
+
+.badge-coling {
+  background: linear-gradient(135deg, #2563eb 0%, #3b82f6 100%);
+}
+
+.badge-colm {
+  background: linear-gradient(135deg, #0891b2 0%, #06b6d4 100%);
+}
+
+.badge-eurovis {
+  background: linear-gradient(135deg, #059669 0%, #10b981 100%);
+}
+
+/* Media Coverage Card */
+.media-card {
+  grid-column: 1 / -1;
+
+  @include breakpoint($small) {
+    grid-column: 1;
+  }
+
+  .dashboard-card-content {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1em;
+
+    @include breakpoint($small) {
+      grid-template-columns: 1fr;
+    }
+  }
+}
+
+.media-item {
+  background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
+  border-radius: 8px;
+  padding: 1.25em;
+  border: 1px solid rgba(0, 0, 0, 0.05);
+  transition: all 0.3s ease;
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+}
+
+.media-title {
+  margin: 0 0 0.5em 0;
+  font-size: $type-size-5;
+  font-weight: 700;
+  color: $text-color;
+}
+
+.media-description {
+  margin: 0;
+  font-size: $type-size-7;
+  color: mix(#fff, $gray, 30%);
+}

@@ -13,11 +13,106 @@ I received an MSc in CS from <a href="https://www.yorku.ca/" style="text-decorat
 
 Research Highlights
 ======
-* **Publications:** **ACL** (22, 24, 25), **EuroVis** (22), **EMNLP** (23, 24, 25), **COLING** (25), **ICLR** (25), **COLM** (25), **NeurIPS** (25)  
-* **Research Impact:** 2000+ citations, h-index of 13 on [Google Scholar](https://scholar.google.com/citations?user=XqPX5XcAAAAJ&hl=en).  
-* **Benchmark Contribution:** Created **ChartQA** benchmark, cited by GPT-4 & Gemini, with 700+ citations.  
-* **Modeling Contributions:** Multimodal chart and document models with **200K+ downloads** on [HuggingFace](https://huggingface.co/ahmed-masry)  
-* **Media Coverage:** [ChartGemma](https://www.marktechpost.com/2024/07/16/chartgemma-a-multimodal-model-instruction-tuned-on-data-generated-directly-from-a-diverse-range-of-real-world-chart-images/) featured in MarketTechPost and [ChartInstruct](https://www.lgresearch.ai/blog/view?seq=476) in LG AI Research Blogs.  
+
+<div class="research-dashboard">
+  <!-- Research Impact Card -->
+  <div class="dashboard-card research-impact-card">
+    <div class="dashboard-card-header">
+      <div class="dashboard-icon research-impact-icon">📈</div>
+      <h3 class="dashboard-card-title">Research Impact</h3>
+    </div>
+    <div class="dashboard-card-content">
+      <div class="metric-card">
+        <div class="metric-value">2000+</div>
+        <div class="metric-label">Total Citations</div>
+        <div class="metric-icon">👥</div>
+      </div>
+      <div class="metric-card">
+        <div class="metric-value">13</div>
+        <div class="metric-label">h-index</div>
+        <div class="metric-icon">📊</div>
+      </div>
+    </div>
+    <div class="dashboard-card-footer">
+      <a href="https://scholar.google.com/citations?user=XqPX5XcAAAAJ&hl=en" target="_blank" rel="noopener noreferrer" class="dashboard-link">View on Google Scholar →</a>
+    </div>
+  </div>
+
+  <!-- Open Source Contributions Card -->
+  <div class="dashboard-card open-source-card">
+    <div class="dashboard-card-header">
+      <div class="dashboard-icon open-source-icon">🌿</div>
+      <h3 class="dashboard-card-title">Open Source Contributions</h3>
+    </div>
+    <div class="dashboard-card-subtitle">Benchmarks & Models</div>
+    <div class="dashboard-card-content">
+      <div class="contribution-card">
+        <div class="contribution-header">
+          <h4 class="contribution-title">Models</h4>
+          <div class="contribution-icon">📦</div>
+        </div>
+        <div class="contribution-description">Multimodal chart & document models</div>
+        <div class="contribution-metric">
+          <span class="metric-number">200K+</span>
+          <span class="metric-unit">Downloads</span>
+          <span class="download-icon">⬇️</span>
+        </div>
+      </div>
+      <div class="contribution-card">
+        <div class="contribution-header">
+          <h4 class="contribution-title">ChartQA</h4>
+          <div class="contribution-icon">🎯</div>
+        </div>
+        <div class="contribution-description">Cited by GPT-4 & Gemini</div>
+        <div class="contribution-metric">
+          <span class="metric-number">50K+</span>
+          <span class="metric-unit">Downloads</span>
+          <span class="download-icon">⬇️</span>
+        </div>
+      </div>
+    </div>
+    <div class="dashboard-card-footer">
+      <a href="https://huggingface.co/ahmed-masry" target="_blank" rel="noopener noreferrer" class="dashboard-link">View on HuggingFace →</a>
+    </div>
+  </div>
+
+  <!-- Key Publications Card -->
+  <div class="dashboard-card publications-card">
+    <div class="dashboard-card-header">
+      <div class="dashboard-icon publications-icon">📚</div>
+      <h3 class="dashboard-card-title">Key Publications</h3>
+    </div>
+    <div class="dashboard-card-content">
+      <div class="publication-badges">
+        <span class="publication-badge badge-neurips">NeurIPS '25</span>
+        <span class="publication-badge badge-iclr">ICLR '25</span>
+        <span class="publication-badge badge-acl">ACL '25 '24 '22</span>
+        <span class="publication-badge badge-emnlp">EMNLP '25 '24 '23</span>
+        <span class="publication-badge badge-coling">COLING '25</span>
+        <span class="publication-badge badge-colm">COLM '25</span>
+        <span class="publication-badge badge-eurovis">EuroVis '22</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Media Coverage Card -->
+  <div class="dashboard-card media-card">
+    <div class="dashboard-card-header">
+      <div class="dashboard-icon media-icon">📰</div>
+      <h3 class="dashboard-card-title">Media Coverage</h3>
+    </div>
+    <div class="dashboard-card-content">
+      <div class="media-item">
+        <h4 class="media-title">ChartGemma</h4>
+        <p class="media-description">Featured in MarketTechPost</p>
+      </div>
+      <div class="media-item">
+        <h4 class="media-title">ChartInstruct</h4>
+        <p class="media-description">Featured in LG AI Research Blogs</p>
+      </div>
+    </div>
+  </div>
+</div>  
 
 <br />
 
