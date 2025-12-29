@@ -11,51 +11,61 @@ redirect_from:
 I am a Ph.D. student in Computer Science at <a href="https://www.yorku.ca/" style="text-decoration: none; color: #99FF9FF;">York University</a> supervised by <a href="http://www.yorku.ca/enamulh/index.html" style="text-decoration: none; color: #99FF9FF;">Prof. Enamul Hoque</a>. My research focuses on developing multimodal vision-language models and benchmarks for chart, table, and document comprehension. I earned my Master of Science in Computer Science from <a href="https://www.yorku.ca/" style="text-decoration: none; color: #99FF9FF;">York University</a> in 2022 and a Bachelor of Science in Computer Engineering from Koc University in 2020, supported by the fully-funded Al Ghurair Foundation (AGFE) STEM scholarship.
 
 <div class="research-highlights">
-  <div class="highlights-columns">
-    <div class="highlight-column">
-      <div class="highlight-item">
-        <h4 class="highlight-label">Conference Publications</h4>
-        <p class="highlight-value">ACL (22, 24, 25), EuroVis (22), EMNLP (23, 24), COLING (25), ICLR (25), COLM (25), NeurIPS (25)</p>
-      </div>
-
-      <div class="highlight-item">
-        <h4 class="highlight-label">Workshop Papers</h4>
-        <p class="highlight-value">CVPR 21 <span class="award-badge">Best Paper Award</span>, AAAI (24), and ICLR (25)</p>
-      </div>
-
-      <div class="highlight-item">
-        <h4 class="highlight-label">Research Impact</h4>
-        <p class="highlight-value"><strong>2000+ citations</strong>, h-index of <strong>13</strong> on <a href="https://scholar.google.com/citations?user=XqPX5XcAAAAJ&hl=en" target="_blank">Google Scholar</a></p>
-      </div>
+  <div class="animated-cards-grid">
+    <div class="animated-card card-publications" data-animation-delay="0">
+      <div class="card-number">9</div>
+      <div class="card-title">Top-Tier Conferences</div>
+      <div class="card-subtitle">ACL • EuroVis • EMNLP • COLING • ICLR • COLM • NeurIPS</div>
+      <div class="card-details">Published across 7 premier venues</div>
     </div>
 
-    <div class="highlight-column">
-      <div class="highlight-item">
-        <h4 class="highlight-label">Awards & Funding</h4>
-        <p class="highlight-value">NSERC CGS-D (<strong>$120K CAD</strong>) & Google PaliGemma Academic Grant (<strong>$5K USD</strong>)</p>
-      </div>
-
-      <div class="highlight-item">
-        <h4 class="highlight-label">Benchmark Contribution</h4>
-        <p class="highlight-value">Creator of <a href="https://github.com/vis-nlp/ChartQA" target="_blank">ChartQA Benchmark</a>, cited by <strong>GPT-4</strong> & <strong>Gemini</strong>; <strong>1100+ citations</strong></p>
-      </div>
-
-      <div class="highlight-item">
-        <h4 class="highlight-label">Modeling Contributions</h4>
-        <p class="highlight-value">Multimodal chart and document models with <strong>300K+ downloads</strong> on <a href="https://huggingface.co/ahmed-masry" target="_blank">HuggingFace</a></p>
-      </div>
+    <div class="animated-card card-workshop" data-animation-delay="0.1">
+      <div class="card-badge">🏆</div>
+      <div class="card-title">Workshop Excellence</div>
+      <div class="card-subtitle">CVPR 21 <span class="award-glow">Best Paper Award</span></div>
+      <div class="card-details">AAAI (24) • ICLR (25)</div>
     </div>
 
-    <div class="highlight-column">
-      <div class="highlight-item">
-        <h4 class="highlight-label">Research Interests</h4>
-        <p class="highlight-value">Vision-Language Models, Document & Chart Comprehension, Large Language Models</p>
-      </div>
+    <div class="animated-card card-impact" data-animation-delay="0.2">
+      <div class="card-number">2000+</div>
+      <div class="card-title">Research Impact</div>
+      <div class="card-subtitle">Citations • h-index <strong>13</strong></div>
+      <div class="card-details"><a href="https://scholar.google.com/citations?user=XqPX5XcAAAAJ&hl=en" target="_blank">Google Scholar</a></div>
+    </div>
 
-      <div class="highlight-item">
-        <h4 class="highlight-label">Media Coverage</h4>
-        <p class="highlight-value">ChartGemma featured in <strong>MarketTechPost</strong> and ChartInstruct in <strong>LG AI Research Blogs</strong></p>
-      </div>
+    <div class="animated-card card-funding" data-animation-delay="0.3">
+      <div class="card-number">$125K</div>
+      <div class="card-title">Awards & Funding</div>
+      <div class="card-subtitle">NSERC CGS-D • Google PaliGemma</div>
+      <div class="card-details">$120K CAD + $5K USD</div>
+    </div>
+
+    <div class="animated-card card-benchmark" data-animation-delay="0.4">
+      <div class="card-number">1100+</div>
+      <div class="card-title">Benchmark Creator</div>
+      <div class="card-subtitle"><a href="https://github.com/vis-nlp/ChartQA" target="_blank">ChartQA</a> cited by <strong>GPT-4</strong> & <strong>Gemini</strong></div>
+      <div class="card-details">Industry-standard evaluation</div>
+    </div>
+
+    <div class="animated-card card-models" data-animation-delay="0.5">
+      <div class="card-number">300K+</div>
+      <div class="card-title">Model Downloads</div>
+      <div class="card-subtitle">Multimodal chart & document models</div>
+      <div class="card-details"><a href="https://huggingface.co/ahmed-masry" target="_blank">HuggingFace</a></div>
+    </div>
+
+    <div class="animated-card card-research" data-animation-delay="0.6">
+      <div class="card-icon">🔬</div>
+      <div class="card-title">Research Focus</div>
+      <div class="card-subtitle">Vision-Language • Document Understanding</div>
+      <div class="card-details">Large Language Models</div>
+    </div>
+
+    <div class="animated-card card-media" data-animation-delay="0.7">
+      <div class="card-icon">📰</div>
+      <div class="card-title">Media Featured</div>
+      <div class="card-subtitle"><strong>ChartGemma</strong> • <strong>ChartInstruct</strong></div>
+      <div class="card-details">MarketTechPost • LG AI Research</div>
     </div>
   </div>
 </div>
