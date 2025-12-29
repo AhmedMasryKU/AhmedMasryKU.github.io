@@ -769,14 +769,10 @@
     border: none;
   }
   
-  .work-experience-table tr {
-    border: none;
-  }
-  
   .work-experience-table td {
     padding: 0.75em 1em;
     vertical-align: middle;
-    border: none !important;
+    border: none;
   }
   
   .work-logo-cell {
@@ -809,9 +805,8 @@
   }
   
   .work-item-separator td {
-    padding: 0;
-    height: 1.5em;
-    border-bottom: 1px solid $border-color;
+    padding: 0.5em 0;
+    height: 0.5em;
   }
   
   .work-logo {
