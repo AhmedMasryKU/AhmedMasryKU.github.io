@@ -800,10 +800,10 @@
 
 .work-item-separator {
   td {
-        border-top: 1px solid rgba($border-color, 0.4);
-        padding: 0;
-        height: 1em;
-      }
+    border: none;
+    padding: 0;
+    height: 1em;
+  }
 }
 
 .work-logo-cell {

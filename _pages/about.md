@@ -47,6 +47,35 @@ Work Experience
     <tr class="work-item-row">
       <td class="work-logo-cell" rowspan="2">
         <div class="work-logo">
+          <a href="https://mila.quebec/" target="_blank" rel="noopener noreferrer">
+            <img src="/images/companies/mila.png" alt="Mila - Quebec Artificial Intelligence Institute" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+            <span class="work-logo-fallback" style="display: none;">MILA</span>
+          </a>
+        </div>
+      </td>
+      <td class="work-company-cell">
+        <h3 class="work-company">
+          <a href="https://mila.quebec/" target="_blank" rel="noopener noreferrer">Mila - Quebec Artificial Intelligence Institute</a>
+        </h3>
+      </td>
+      <td class="work-period-cell">
+        <span class="work-period">September 2025 - December 2025</span>
+      </td>
+    </tr>
+    <tr class="work-item-row">
+      <td class="work-title-cell">
+        <span class="work-title">Visiting Researcher</span>
+      </td>
+      <td class="work-location-cell">
+        <span class="work-location">Montreal, Quebec</span>
+      </td>
+    </tr>
+    <tr class="work-item-separator">
+      <td colspan="3"></td>
+    </tr>
+    <tr class="work-item-row">
+      <td class="work-logo-cell" rowspan="2">
+        <div class="work-logo">
           <a href="https://www.servicenow.com/research/people.html" target="_blank" rel="noopener noreferrer">
             <img src="/images/companies/servicenow.png" alt="ServiceNow Research" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
             <span class="work-logo-fallback" style="display: none;">SN</span>
