@@ -761,25 +761,22 @@
 /*
    Work Experience
    ========================================================================== */
-.work-experience {
+.work-experience-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
   margin-top: 1.5em;
-  display: flex;
-  flex-direction: column;
-  gap: 1em;
+  border: none;
 }
 
 .work-item {
-  display: flex;
-  align-items: center;
-  gap: 1.25em;
-  padding: 1.25em 1.5em;
   background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%);
   border: 1px solid $border-color;
   border-left: 4px solid $primary-color;
   border-radius: $border-radius;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
   transition: all 0.3s ease;
-  flex-wrap: wrap;
+  vertical-align: middle;
 
   &:hover {
     transform: translateX(5px);
@@ -792,15 +789,50 @@
     }
   }
 
+  &:not(:last-child) {
+    margin-bottom: 1em;
+  }
+
   @include breakpoint($small) {
-    flex-direction: column;
-    align-items: flex-start;
-    padding: 1em;
+    display: block;
+    
+    td {
+      display: block;
+      width: 100% !important;
+      padding: 0.5em 1em !important;
+    }
   }
 }
 
+.work-logo-cell {
+  padding: 1.25em 0.75em 1.25em 1.5em;
+  vertical-align: middle;
+  width: auto;
+  white-space: nowrap;
+}
+
+.work-company-cell {
+  padding: 1.25em 0.75em;
+  vertical-align: middle;
+  width: auto;
+}
+
+.work-period-cell {
+  padding: 1.25em 0.75em;
+  vertical-align: middle;
+  width: auto;
+  white-space: nowrap;
+}
+
+.work-title-cell {
+  padding: 1.25em 1.5em 1.25em 0.75em;
+  vertical-align: middle;
+  text-align: right;
+  width: auto;
+  white-space: nowrap;
+}
+
 .work-logo {
-  flex-shrink: 0;
   width: 60px;
   height: 60px;
   border-radius: 10px;
@@ -854,7 +886,6 @@
   font-size: $type-size-4;
   font-weight: 700;
   line-height: 1.2;
-  flex-shrink: 0;
 
   a {
     color: $primary-color;
@@ -874,13 +905,6 @@
   font-weight: 500;
   color: $text-color;
   line-height: 1.4;
-  flex-shrink: 0;
-  margin-left: auto;
-
-  @include breakpoint($small) {
-    margin-left: 0;
-    width: 100%;
-  }
 }
 
 .work-period {

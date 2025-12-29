@@ -42,35 +42,52 @@ Full ride scholarship from the Al Ghurair Foundation for Education (AGFE)
 Work Experience
 ======
 
-<div class="work-experience">
-  <div class="work-item">
-    <div class="work-logo">
-      <a href="https://www.servicenow.com/research/people.html" target="_blank" rel="noopener noreferrer">
-        <img src="/images/companies/servicenow.png" alt="ServiceNow Research" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
-        <span class="work-logo-fallback" style="display: none;">SN</span>
-      </a>
-    </div>
-    <h3 class="work-company">
-      <a href="https://www.servicenow.com/research/people.html" target="_blank" rel="noopener noreferrer">ServiceNow Research</a>
-    </h3>
-    <span class="work-period">September 2024 - Present</span>
-    <span class="work-title">Visiting Researcher</span>
-  </div>
-
-  <div class="work-item">
-    <div class="work-logo">
-      <a href="https://www.arteria.ai/" target="_blank" rel="noopener noreferrer">
-        <img src="/images/companies/arteria.png" alt="Arteria AI" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
-        <span class="work-logo-fallback" style="display: none;">AA</span>
-      </a>
-    </div>
-    <h3 class="work-company">
-      <a href="https://www.arteria.ai/" target="_blank" rel="noopener noreferrer">Arteria AI</a>
-    </h3>
-    <span class="work-period">May 2022 - September 2024</span>
-    <span class="work-title">Senior Data Scientist</span>
-  </div>
-</div>
+<table class="work-experience-table">
+  <tbody>
+    <tr class="work-item">
+      <td class="work-logo-cell">
+        <div class="work-logo">
+          <a href="https://www.servicenow.com/research/people.html" target="_blank" rel="noopener noreferrer">
+            <img src="/images/companies/servicenow.png" alt="ServiceNow Research" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+            <span class="work-logo-fallback" style="display: none;">SN</span>
+          </a>
+        </div>
+      </td>
+      <td class="work-company-cell">
+        <h3 class="work-company">
+          <a href="https://www.servicenow.com/research/people.html" target="_blank" rel="noopener noreferrer">ServiceNow Research</a>
+        </h3>
+      </td>
+      <td class="work-period-cell">
+        <span class="work-period">September 2024 - Present</span>
+      </td>
+      <td class="work-title-cell">
+        <span class="work-title">Visiting Researcher</span>
+      </td>
+    </tr>
+    <tr class="work-item">
+      <td class="work-logo-cell">
+        <div class="work-logo">
+          <a href="https://www.arteria.ai/" target="_blank" rel="noopener noreferrer">
+            <img src="/images/companies/arteria.png" alt="Arteria AI" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+            <span class="work-logo-fallback" style="display: none;">AA</span>
+          </a>
+        </div>
+      </td>
+      <td class="work-company-cell">
+        <h3 class="work-company">
+          <a href="https://www.arteria.ai/" target="_blank" rel="noopener noreferrer">Arteria AI</a>
+        </h3>
+      </td>
+      <td class="work-period-cell">
+        <span class="work-period">May 2022 - September 2024</span>
+      </td>
+      <td class="work-title-cell">
+        <span class="work-title">Senior Data Scientist</span>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <br />
 
