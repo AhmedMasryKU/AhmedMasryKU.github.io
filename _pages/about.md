@@ -42,26 +42,41 @@ Full ride scholarship from the Al Ghurair Foundation for Education (AGFE)
 
 Work Experience
 ======
-* <a href="https://www.servicenow.com/research/people.html" style="text-decoration: none; color: #99FF9FF;">ServiceNow Research</a>  
-**Visiting Researcher**, September 2024 - Present
-  
-* <a href="https://www.arteria.ai/" style="text-decoration: none; color: #99FF9FF;">Arteria AI</a>  
-**Senior Data Scientist**, January 2024 - September 2024
-  
-* <a href="https://www.arteria.ai/" style="text-decoration: none; color: #99FF9FF;">Arteria AI</a>  
-**Data Scientist**, May 2022 - December 2023
-  
-* <a href="https://www.yorku.ca/" style="text-decoration: none; color: #99FF9FF;">York University</a>  
-**Research Assistant**, Sep 2020 - June 2022
 
-* <a href="https://www.yorku.ca/" style="text-decoration: none; color: #99FF9FF;">York University</a>  
-**Teaching Assistant**, Jan 2021 - Apr 2022
+<div class="work-experience">
+  <div class="work-item">
+    <div class="work-logo">
+      <a href="https://www.servicenow.com/research/people.html" target="_blank" rel="noopener noreferrer">
+        <img src="/images/companies/servicenow.png" alt="ServiceNow Research" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+        <span class="work-logo-fallback" style="display: none;">SN</span>
+      </a>
+    </div>
+    <div class="work-content">
+      <h3 class="work-company">
+        <a href="https://www.servicenow.com/research/people.html" target="_blank" rel="noopener noreferrer">ServiceNow Research</a>
+      </h3>
+      <p class="work-title">Visiting Researcher</p>
+      <p class="work-period">September 2024 - Present</p>
+    </div>
+  </div>
 
-* ShallowAI  
-**Data Scientist Intern**, July 2020 - Sep 2020
-
-* <a href="https://www.ku.edu.tr/en/" style="text-decoration: none; color: #99FF9FF;">Koc University</a>     
-**Undergraduate Research Assistant**, June 2019 - Jan 2020
+  <div class="work-item">
+    <div class="work-logo">
+      <a href="https://www.arteria.ai/" target="_blank" rel="noopener noreferrer">
+        <img src="/images/companies/arteria.png" alt="Arteria AI" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+        <span class="work-logo-fallback" style="display: none;">AA</span>
+      </a>
+    </div>
+    <div class="work-content">
+      <h3 class="work-company">
+        <a href="https://www.arteria.ai/" target="_blank" rel="noopener noreferrer">Arteria AI</a>
+      </h3>
+      <p class="work-title">Senior Data Scientist <span class="work-promotion">(Promoted from Data Scientist)</span></p>
+      <p class="work-period">May 2022 - September 2024</p>
+      <p class="work-details">Data Scientist (May 2022 - December 2023) → Senior Data Scientist (January 2024 - September 2024)</p>
+    </div>
+  </div>
+</div>
 
 <br />
 
