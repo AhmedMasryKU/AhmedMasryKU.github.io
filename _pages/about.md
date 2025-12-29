@@ -132,7 +132,7 @@ Education
       <td class="work-logo-cell" rowspan="2">
         <div class="work-logo">
           <a href="https://www.yorku.ca/" target="_blank">
-            <img src="/images/universities/york.png" alt="York University" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+            <img src="/images/universities/york.jpg" alt="York University" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
             <span class="work-logo-fallback" style="display: none;">YU</span>
           </a>
         </div>
@@ -165,7 +165,7 @@ Education
       <td class="work-logo-cell" rowspan="2">
         <div class="work-logo">
           <a href="https://www.yorku.ca/" target="_blank">
-            <img src="/images/universities/york.png" alt="York University" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+            <img src="/images/universities/york.jpg" alt="York University" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
             <span class="work-logo-fallback" style="display: none;">YU</span>
           </a>
         </div>
