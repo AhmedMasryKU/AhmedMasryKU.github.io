@@ -769,10 +769,14 @@
     border: none;
   }
   
+  .work-experience-table tr {
+    border: none;
+  }
+  
   .work-experience-table td {
     padding: 0.75em 1em;
     vertical-align: middle;
-    border: none;
+    border: none !important;
   }
   
   .work-logo-cell {
