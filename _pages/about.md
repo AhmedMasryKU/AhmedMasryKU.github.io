@@ -12,28 +12,31 @@ I am a Ph.D. student in Computer Science at <a href="https://www.yorku.ca/" styl
 
 Research Highlights
 ======
-• **Papers:** ACL (22, 24, 25), EuroVis (22), EMNLP (23, 24), COLING (25), ICLR (25), COLM (25), NeurIPS (25)
-• **Workshop Papers:** CVPR 21 [Best Paper Award], AAAI (24), and ICLR (25).
-• **Research Impact:** 2000+ citations, h-index of 13 on [Google Scholar](https://scholar.google.com/citations?user=XqPX5XcAAAAJ&hl=en).
-• **Awards:** NSERC CGS-D ($120K CAD) & Google PaliGemma Academic Grant ($5K USD).
-• **Benchmark Contribution:** Creator of [ChartQA Benchmark](https://github.com/vis-nlp/ChartQA), cited by **GPT-4** & **Gemini**; 1100+ citations.
-• **Modeling Contributions:** Multimodal chart and document models with 300K+ downloads on [HuggingFace](https://huggingface.co/ahmed-masry)
-• **Research Interests:** Vision-Language Models, Document & Chart Comprehension, Large Language Models.
-• **Media Coverage:** ChartGemma featured in **MarketTechPost** and ChartInstruct in **LG AI Research Blogs**
+• **Publications:** **ACL** (22, 24, 25), **EuroVis** (22), **EMNLP** (23, 24), **COLING** (25), **ICLR** (25), **COLM** (25)
+• **Workshop Papers:** **CVPR 21 [Best Paper Award]**, **AAAI** (24), and **ICLR** (25).
+• **Research Impact:** 1333+ citations, h-index of 10 on [Google Scholar](https://scholar.google.com/citations?user=XqPX5XcAAAAJ&hl=en).
+• **Benchmark Contribution:** Created **ChartQA** benchmark, cited by GPT-4 & Gemini, with 700+ citations.
+• **Modeling Contributions:** Multimodal chart and document models with **200K+ downloads** on [HuggingFace](https://huggingface.co/ahmed-masry)
+• **Research Awards:** **NSERC CGS-D ($120K CAD)** & Google PaliGemma Academic Grant ($5K USD).
+• **Research Interests:** Multimodality, Vision-Language Models, and Document & Chart Comprehension.
+• **Media Coverage:** [ChartGemma](https://www.marktechpost.com/2024/07/16/chartgemma-a-multimodal-model-instruction-tuned-on-data-generated-directly-from-a-diverse-range-of-real-world-chart-images/) featured in MarketTechPost and [ChartInstruct](https://www.lgresearch.ai/blog/view?seq=476) in LG AI Research Blogs.
 
 <br />
 
 Education
 ======
-* <a href="https://www.yorku.ca/" style="text-decoration: none; color: #99FF9FF;">York University</a>  
-**PhD in Computer Science**, Sep 2024 - Present
+* <a href="https://www.yorku.ca/" style="text-decoration: none; color: #99FF9FF;">York University</a>, Ontario  
+**Ph.D. in Electrical Engineering & Computer Science**, September 2024 - Present  
+GPA: Exceptional, A+
 
-* <a href="https://www.yorku.ca/" style="text-decoration: none; color: #99FF9FF;">York University</a>  
-**M.Sc. in Computer Science**, Sep 2020 - June 2022  
-GPA: 9/9, Exceptional A+
-* <a href="https://www.ku.edu.tr/en/" style="text-decoration: none; color: #99FF9FF;">Koc University</a>  
-**B.Sc. in Computer Engineering**, Sep 2017 - June 2020  
-GPA: 3.9/4.0
+* <a href="https://www.yorku.ca/" style="text-decoration: none; color: #99FF9FF;">York University</a>, Ontario  
+**Master of Science in Computer Science**, September 2020 - June 2022  
+GPA: Exceptional, A+
+
+* <a href="https://www.ku.edu.tr/en/" style="text-decoration: none; color: #99FF9FF;">Koç University</a>, Turkey (Ranked 1st in Turkey)  
+**Bachelor of Science in Computer Engineering**, September 2017 - June 2020  
+GPA: 3.9/4.0  
+Full ride scholarship from the Al Ghurair Foundation for Education (AGFE)
 
 <br />
 
