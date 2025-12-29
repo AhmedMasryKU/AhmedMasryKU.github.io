@@ -9,7 +9,7 @@ venue: 'COLM 2025'
 authors: 'Ahmed Masry, Abhay Puri, M Hashemi, Juan A. Rodriguez, Megh Thakkar, K Mahajan'
 paperurl: 'https://arxiv.org/abs/2501.00000'
 header:
-  teaser: bigcharts-r1.jpg
+  teaser: bigcharts-fig.png
 ---
 
 BigCharts-R1: Enhanced Chart Reasoning with Visual Reinforcement Finetuning.

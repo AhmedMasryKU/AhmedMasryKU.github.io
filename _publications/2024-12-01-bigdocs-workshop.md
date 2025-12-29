@@ -9,7 +9,7 @@ venue: 'RBFM @ NeurIPS 2024'
 authors: 'Juan A. Rodriguez, Xiangru Jian, Siba Smarak Panigrahi, Tianyu Zhang, Aarash Feizi, Abhay Puri, Akshay Kalkunte, Francois Savard, Amirhossein Abaskohi, Ahmed Masry, Perampalli Shravan Nayak, Mahsa Massoud, Rabiul Awal, Pierre-André Noël, Mats L. Richter, Saverio Vadacchino, Shubham Agarwal, Sanket Biswas, Ying Zhang, Sathwik Tejaswi Madhusudhan, João Monteiro, Krishnamurthy (Dj) Dvijotham, Torsten Scholak, Nicolas Chapados, Sean Hughes, Tamer Özsu, Aishwarya Agrawal, Marco Pedersoli, Christopher Pal, Perouz Taslakian, David Vazquez, Issam H. Laradji, Spandana Gella, Sai Rajeswar Mudumba'
 paperurl: 'https://www.servicenow.com/research/publication/juan-a.-rodriguez-bigd-neurips-workshops2024.html'
 header:
-  teaser: bigdocs-workshop.jpg
+  teaser: bigdocs-fig.png
 ---
 
 BigDocs is a permissively-licensed dataset for training vision-language models on document and code tasks.

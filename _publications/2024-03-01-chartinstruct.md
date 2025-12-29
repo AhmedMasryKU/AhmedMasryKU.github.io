@@ -9,7 +9,7 @@ venue: 'ACL 2024'
 authors: 'Ahmed Masry*, Mehrad Shahmohammadi*, Md Rizwan Parvez, Enamul Hoque, Shafiq Joty'
 paperurl: 'https://arxiv.org/abs/2403.09028'
 header:
-  teaser: chartinstruct.jpg
+  teaser: chartinstruct-fig.png
 ---
 
 ChartInstruct: Instruction tuning for chart comprehension and reasoning.

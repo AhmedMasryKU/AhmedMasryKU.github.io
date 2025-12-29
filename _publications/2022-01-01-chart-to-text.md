@@ -9,7 +9,7 @@ venue: 'ACL 2022'
 authors: 'Shankar Kantharaj*, Rixie Tiffany Leong*, Xiang Lin*, Ahmed Masry*, Megh Thakkar*, Enamul Hoque, Shafiq Joty'
 paperurl: 'https://aclanthology.org/2022.acl-long.277/'
 header:
-  teaser: chart-to-text.jpg
+  teaser: chart_to_text-fig.png
 ---
 
 Chart-to-Text: A large-scale benchmark for chart summarization.

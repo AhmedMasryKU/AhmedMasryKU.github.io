@@ -9,7 +9,7 @@ venue: 'arXiv Preprint'
 authors: 'Xuan Long Do, Mohammad Hassanpour, Ahmed Masry, Parsa Kavehzadeh, Enamul Hoque, Shafiq Joty'
 paperurl: 'https://arxiv.org/abs/2312.10610'
 header:
-  teaser: llms-charts.jpg
+  teaser: prompt_chart-fig.png
 ---
 
 Do LLMs Work on Charts? Designing few-shot prompts for chart question answering and summarization.

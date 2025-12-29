@@ -9,7 +9,7 @@ venue: 'EMNLP 2024'
 authors: 'Mohammed Saidul Islam, Raian Rahman, Ahmed Masry, Md Tahmid Rahman Laskar, Mir Tafseer Nayeem, Enamul Hoque'
 paperurl: 'https://arxiv.org/abs/2406.00257'
 header:
-  teaser: lvlms-chart-comprehension.jpg
+  teaser: are_vision_language_models-fig.png
 ---
 
 An extensive investigation into the capabilities and limitations of Large Vision Language Models for chart comprehension and reasoning.
