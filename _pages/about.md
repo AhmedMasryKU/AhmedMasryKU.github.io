@@ -11,35 +11,35 @@ redirect_from:
 I am a Ph.D. student in Computer Science at the <a href="https://intelligentvislab.github.io/" style="text-decoration: none; color: #99FF9FF;">Intelligent Visualization Lab</a> at <a href="https://www.yorku.ca/" style="text-decoration: none; color: #99FF9FF;">York University</a> supervised by <a href="http://www.yorku.ca/enamulh/index.html" style="text-decoration: none; color: #99FF9FF;">Prof. Enamul Hoque</a> and funded by the prestigious <a href="https://nserc-crsng.canada.ca/en/funding-opportunity/canada-graduate-research-scholarship-doctoral-program" style="text-decoration: none; color: #99FF9FF;">NSERC CGS-D Doctoral Award</a>. 
 I received an MSc in CS from <a href="https://www.yorku.ca/" style="text-decoration: none; color: #99FF9FF;">York University</a> in 2022 and a BSc in Computer Engineering from Koc University in 2020, funded by <a href="https://www.alghurairfoundation.org/" style="text-decoration: none; color: #99FF9FF;">AGFE STEM scholarship</a>.
 
-I work on advancing vision–language models (VLMs) for understanding visually rich content that integrates visual, spatial, and textual information, such as PDFs, charts, tables, and forms. My work is motivated by the friction of everyday “paperwork” and the need to unlock, extract, and reason over information buried in documents. I aim to automate tasks such as data entry, information extraction, financial analysis, and legal review, reducing time, cost, and human error. More recently, I have begun exploring broader modalities with VLMs, including video understanding and interactive visual data analysis.
+I work on advancing *vision-language models (VLMs)* for understanding visually rich content that integrates visual, spatial, and textual information, such as PDFs, charts, tables, and forms. *My work is motivated by the friction of everyday “paperwork” and the need to unlock, extract, and reason over information buried in documents.* I aim to automate tasks such as data entry, information extraction, financial analysis, and legal review, reducing time, cost, and human error. More recently, I have begun exploring broader modalities with VLMs, including *video understanding and interactive visual data analysis*.
 
 <div class="research-dashboard">
   <!-- Combined Research Impact & Open Source Card -->
   <div class="dashboard-card combined-impact-card">
     <div class="dashboard-card-header">
       <div class="dashboard-icon research-impact-icon">📈</div>
-      <h3 class="dashboard-card-title">Research Impact & Open Source</h3>
+      <h3 class="dashboard-card-title">Research Impact & Open Source Contributions</h3>
     </div>
     <div class="dashboard-card-content">
       <div class="metric-card">
         <div class="metric-value">2000+</div>
         <div class="metric-label">Citations</div>
-        <div class="metric-icon">👥</div>
+        <div class="metric-icon">📈</div>
       </div>
       <div class="metric-card">
         <div class="metric-value">13</div>
         <div class="metric-label">h-index</div>
-        <div class="metric-icon">📊</div>
+        <div class="metric-icon">🎓</div>
       </div>
       <div class="metric-card">
-        <div class="metric-value">200K+</div>
-        <div class="metric-label">Models</div>
-        <div class="metric-icon">📦</div>
+        <div class="metric-value">700K+</div>
+        <div class="metric-label">Models Downloads</div>
+        <div class="metric-icon">🤖</div>
       </div>
       <div class="metric-card">
         <div class="metric-value">50K+</div>
-        <div class="metric-label">Benchmarks</div>
-        <div class="metric-icon">🎯</div>
+        <div class="metric-label">Benchmarks Downloads</div>
+        <div class="metric-icon">📊</div>
       </div>
     </div>
     <div class="dashboard-card-footer">
