@@ -50,15 +50,11 @@ Work Experience
         <span class="work-logo-fallback" style="display: none;">SN</span>
       </a>
     </div>
-    <div class="work-content">
-      <div class="work-header">
-        <h3 class="work-company">
-          <a href="https://www.servicenow.com/research/people.html" target="_blank" rel="noopener noreferrer">ServiceNow Research</a>
-        </h3>
-        <span class="work-period">September 2024 - Present</span>
-      </div>
-      <p class="work-title">Visiting Researcher</p>
-    </div>
+    <h3 class="work-company">
+      <a href="https://www.servicenow.com/research/people.html" target="_blank" rel="noopener noreferrer">ServiceNow Research</a>
+    </h3>
+    <span class="work-period">September 2024 - Present</span>
+    <span class="work-title">Visiting Researcher</span>
   </div>
 
   <div class="work-item">
@@ -68,15 +64,11 @@ Work Experience
         <span class="work-logo-fallback" style="display: none;">AA</span>
       </a>
     </div>
-    <div class="work-content">
-      <div class="work-header">
-        <h3 class="work-company">
-          <a href="https://www.arteria.ai/" target="_blank" rel="noopener noreferrer">Arteria AI</a>
-        </h3>
-        <span class="work-period">May 2022 - September 2024</span>
-      </div>
-      <p class="work-title">Senior Data Scientist</p>
-    </div>
+    <h3 class="work-company">
+      <a href="https://www.arteria.ai/" target="_blank" rel="noopener noreferrer">Arteria AI</a>
+    </h3>
+    <span class="work-period">May 2022 - September 2024</span>
+    <span class="work-title">Senior Data Scientist</span>
   </div>
 </div>
 

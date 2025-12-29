@@ -779,6 +779,7 @@
   border-radius: $border-radius;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
   transition: all 0.3s ease;
+  flex-wrap: wrap;
 
   &:hover {
     transform: translateX(5px);
@@ -847,34 +848,13 @@
   }
 }
 
-.work-content {
-  flex: 1;
-  min-width: 0;
-  display: flex;
-  flex-direction: column;
-  gap: 0.25em;
-}
-
-.work-header {
-  display: flex;
-  align-items: baseline;
-  justify-content: space-between;
-  flex-wrap: wrap;
-  gap: 1em;
-  margin-bottom: 0.25em;
-
-  @include breakpoint($small) {
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 0.5em;
-  }
-}
-
 .work-company {
   margin: 0;
+  padding: 0;
   font-size: $type-size-4;
   font-weight: 700;
   line-height: 1.2;
+  flex-shrink: 0;
 
   a {
     color: $primary-color;
@@ -894,6 +874,13 @@
   font-weight: 500;
   color: $text-color;
   line-height: 1.4;
+  flex-shrink: 0;
+  margin-left: auto;
+
+  @include breakpoint($small) {
+    margin-left: 0;
+    width: 100%;
+  }
 }
 
 .work-period {
@@ -905,4 +892,7 @@
   background: linear-gradient(135deg, mix(#fff, $primary-color, 96%) 0%, mix(#fff, $primary-color, 98%) 100%);
   border-radius: $border-radius;
   border: 1px solid mix($primary-color, #fff, 25%);
+  display: inline-block;
+  vertical-align: middle;
+  flex-shrink: 0;
 }
