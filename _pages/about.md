@@ -21,22 +21,6 @@ Research Highlights
 
 <br />
 
-Education
-======
-* <a href="https://www.yorku.ca/" style="text-decoration: none; color: #99FF9FF;">York University</a>, Ontario  
-**Ph.D. in Electrical Engineering & Computer Science**, September 2024 - Present  
-GPA: Exceptional, A+
-
-* <a href="https://www.yorku.ca/" style="text-decoration: none; color: #99FF9FF;">York University</a>, Ontario  
-**Master of Science in Computer Science**, September 2020 - June 2022  
-GPA: Exceptional, A+
-
-* <a href="https://www.ku.edu.tr/en/" style="text-decoration: none; color: #99FF9FF;">Koç University</a>, Turkey (Ranked 1st in Turkey)  
-**Bachelor of Science in Computer Engineering**, September 2017 - June 2020  
-GPA: 3.9/4.0  
-Full ride scholarship from the Al Ghurair Foundation for Education (AGFE)
-
-<br />
 
 Work Experience
 ======
@@ -131,6 +115,109 @@ Work Experience
       </td>
       <td class="work-location-cell">
         <span class="work-location">Toronto, Ontario</span>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br />
+
+Education
+======
+
+<table class="work-experience-table">
+  <tbody>
+    <!-- York University PhD -->
+    <tr>
+      <td class="work-logo-cell" rowspan="2">
+        <div class="work-logo">
+          <a href="https://www.yorku.ca/" target="_blank">
+            <img src="/images/universities/york.png" alt="York University" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+            <span class="work-logo-fallback" style="display: none;">YU</span>
+          </a>
+        </div>
+      </td>
+      <td class="work-company-cell">
+        <h3 class="work-company">
+          <a href="https://www.yorku.ca/" target="_blank">York University</a>
+        </h3>
+      </td>
+      <td class="work-period-cell">
+        <span class="work-period">Sept 2024 - Present</span>
+      </td>
+    </tr>
+    <tr>
+      <td class="work-title-cell">
+        <span class="work-title">Ph.D. in Electrical Engineering & Computer Science</span>
+      </td>
+      <td class="work-location-cell">
+        <span class="work-location">GPA: A+</span>
+      </td>
+    </tr>
+    
+    <!-- Separator -->
+    <tr class="work-item-separator">
+      <td colspan="3"></td>
+    </tr>
+    
+    <!-- York University Masters -->
+    <tr>
+      <td class="work-logo-cell" rowspan="2">
+        <div class="work-logo">
+          <a href="https://www.yorku.ca/" target="_blank">
+            <img src="/images/universities/york.png" alt="York University" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+            <span class="work-logo-fallback" style="display: none;">YU</span>
+          </a>
+        </div>
+      </td>
+      <td class="work-company-cell">
+        <h3 class="work-company">
+          <a href="https://www.yorku.ca/" target="_blank">York University</a>
+        </h3>
+      </td>
+      <td class="work-period-cell">
+        <span class="work-period">Sept 2020 - June 2022</span>
+      </td>
+    </tr>
+    <tr>
+      <td class="work-title-cell">
+        <span class="work-title">MSc in Computer Science</span>
+      </td>
+      <td class="work-location-cell">
+        <span class="work-location">GPA: A+</span>
+      </td>
+    </tr>
+    
+    <!-- Separator -->
+    <tr class="work-item-separator">
+      <td colspan="3"></td>
+    </tr>
+    
+    <!-- Koç University -->
+    <tr>
+      <td class="work-logo-cell" rowspan="2">
+        <div class="work-logo">
+          <a href="https://www.ku.edu.tr/en/" target="_blank">
+            <img src="/images/universities/koc.png" alt="Koç University" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+            <span class="work-logo-fallback" style="display: none;">KU</span>
+          </a>
+        </div>
+      </td>
+      <td class="work-company-cell">
+        <h3 class="work-company">
+          <a href="https://www.ku.edu.tr/en/" target="_blank">Koç University</a> <span style="font-size: 0.8em; font-weight: normal; color: #888;">(Ranked 1st in Turkey)</span>
+        </h3>
+      </td>
+      <td class="work-period-cell">
+        <span class="work-period">Sept 2017 - June 2020</span>
+      </td>
+    </tr>
+    <tr>
+      <td class="work-title-cell">
+        <span class="work-title">BSc in Computer Engineering</span>
+      </td>
+      <td class="work-location-cell">
+        <span class="work-location">GPA: 3.9/4.0 </span>
       </td>
     </tr>
   </tbody>
