@@ -9,7 +9,7 @@ venue: 'arXiv Preprint'
 authors: 'M Rahman, A Bhuiyan, Mohammed Saidul Islam, Md Tahmid Rahman Laskar, R Mahbub, Ahmed Masry'
 paperurl: 'https://arxiv.org/abs/2510.04023'
 header:
-  teaser: llm-data-science-agents.jpg
+  teaser: mizanur_survey-fig.png
 ---
 
 LLM-based data science agents: A survey of capabilities, challenges, and future directions.
