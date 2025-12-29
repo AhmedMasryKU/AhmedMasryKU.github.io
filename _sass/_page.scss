@@ -482,60 +482,62 @@
    ========================================================================== */
 
 .research-highlights {
-  margin: 2em 0;
+  margin: 2.5em 0;
 }
 
 .highlights-columns {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 2em;
+  gap: 1.75em;
   margin-top: 1.5em;
 
   @include breakpoint($medium) {
     grid-template-columns: repeat(2, 1fr);
+    gap: 1.5em;
   }
 
   @include breakpoint($small) {
     grid-template-columns: 1fr;
-    gap: 1.5em;
+    gap: 1.25em;
   }
 }
 
 .highlight-column {
   display: flex;
   flex-direction: column;
-  gap: 1.5em;
+  gap: 1.25em;
 }
 
 .highlight-item {
-  padding: 1.25em;
-  border-left: 3px solid $primary-color;
-  background-color: mix(#fff, $primary-color, 98%);
-  border-radius: 0 $border-radius $border-radius 0;
-  transition: all 0.2s ease;
+  padding: 1.5em 1.75em;
+  border: 1px solid mix($primary-color, #fff, 25%);
+  background-color: #fff;
+  border-radius: $border-radius;
+  transition: all 0.25s ease;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
 
   &:hover {
-    background-color: mix(#fff, $primary-color, 96%);
-    border-left-color: mix($primary-color, #000, 80%);
-    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+    border-color: $primary-color;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    transform: translateY(-2px);
   }
 }
 
 .highlight-label {
-  margin: 0 0 0.5em 0;
-  font-size: $type-size-6;
+  margin: 0 0 0.75em 0;
+  font-size: $type-size-5;
   font-weight: 700;
   color: $primary-color;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-  line-height: 1.3;
+  line-height: 1.4;
+  padding-bottom: 0.5em;
+  border-bottom: 2px solid mix($primary-color, #fff, 20%);
 }
 
 .highlight-value {
   margin: 0;
   font-size: $type-size-6;
-  line-height: 1.6;
-  color: mix(#fff, $gray, 15%);
+  line-height: 1.7;
+  color: mix(#fff, $gray, 10%);
 
   strong {
     color: $primary-color;
@@ -547,22 +549,24 @@
     text-decoration: none;
     font-weight: 600;
     border-bottom: 1px solid transparent;
-    transition: border-color 0.2s ease;
+    transition: all 0.2s ease;
 
     &:hover {
       border-bottom-color: $primary-color;
+      color: mix($primary-color, #000, 20%);
     }
   }
 }
 
 .award-badge {
   display: inline-block;
-  padding: 0.15em 0.5em;
-  margin-left: 0.4em;
-  font-size: 0.9em;
+  padding: 0.2em 0.6em;
+  margin-left: 0.5em;
+  font-size: 0.85em;
   font-weight: 700;
-  background-color: #ffd700;
+  background: linear-gradient(135deg, #ffd700 0%, #ffed4e 100%);
   color: #8b6914;
-  border-radius: 3px;
+  border-radius: 4px;
   vertical-align: middle;
+  box-shadow: 0 1px 3px rgba(255, 215, 0, 0.3);
 }
