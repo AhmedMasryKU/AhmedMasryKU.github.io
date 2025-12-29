@@ -1,0 +1,78 @@
+/* ==========================================================================
+   TEACHING
+   ========================================================================== */
+
+.teaching__item {
+  margin-bottom: 2.5em;
+  padding: 1.5em;
+  padding-left: 1.5em;
+  border-left: 4px solid $primary-color;
+  background-color: mix(#fff, $primary-color, 98%);
+  border-radius: $border-radius;
+  transition: all 0.2s ease;
+
+  &:hover {
+    background-color: mix(#fff, $primary-color, 96%);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+}
+
+.teaching__header {
+  margin-bottom: 1em;
+}
+
+.teaching__title {
+  margin: 0 0 0.5em 0;
+  font-size: $type-size-4;
+  font-weight: 700;
+  line-height: 1.3;
+
+  a {
+    color: $primary-color;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+.teaching__meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1em;
+  margin-bottom: 0.5em;
+  font-size: $type-size-6;
+}
+
+.teaching__venue {
+  color: $primary-color;
+  font-weight: 600;
+}
+
+.teaching__location {
+  color: mix(#fff, $gray, 25%);
+  font-style: italic;
+}
+
+.teaching__content {
+  font-size: $type-size-6;
+  line-height: 1.6;
+  color: mix(#fff, $gray, 15%);
+
+  strong {
+    color: mix(#fff, $gray, 5%);
+    font-weight: 600;
+  }
+
+  ul {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    padding-left: 1.5em;
+
+    li {
+      margin: 0.4em 0;
+    }
+  }
+}
+
