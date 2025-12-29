@@ -936,9 +936,9 @@
 .research-dashboard {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  gap: 1.5em;
-  margin-top: 2em;
-  margin-bottom: 2em;
+  gap: 0.75em;
+  margin-top: 1em;
+  margin-bottom: 1em;
 
   @include breakpoint($small) {
     grid-template-columns: 1fr;
@@ -947,33 +947,33 @@
 
 .dashboard-card {
   background: #ffffff;
-  border-radius: 12px;
-  padding: 1.5em;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  border-radius: 8px;
+  padding: 0.75em;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.06);
   transition: all 0.3s ease;
   border: 1px solid rgba(0, 0, 0, 0.05);
 
   &:hover {
-    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
-    transform: translateY(-2px);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transform: translateY(-1px);
   }
 }
 
 .dashboard-card-header {
   display: flex;
   align-items: center;
-  gap: 0.75em;
-  margin-bottom: 1em;
+  gap: 0.5em;
+  margin-bottom: 0.5em;
 }
 
 .dashboard-icon {
-  font-size: 1.5em;
-  width: 2.5em;
-  height: 2.5em;
+  font-size: 1em;
+  width: 1.75em;
+  height: 1.75em;
   display: flex;
   align-items: center;
   justify-content: center;
-  border-radius: 8px;
+  border-radius: 6px;
   flex-shrink: 0;
 }
 
@@ -995,32 +995,33 @@
 
 .dashboard-card-title {
   margin: 0;
-  font-size: $type-size-4;
+  font-size: $type-size-5;
   font-weight: 700;
   color: $text-color;
+  line-height: 1.2;
 }
 
 .dashboard-card-subtitle {
-  font-size: $type-size-6;
+  font-size: $type-size-7;
   color: mix(#fff, $gray, 30%);
-  margin-bottom: 1em;
+  margin-bottom: 0.5em;
   font-style: italic;
 }
 
 .dashboard-card-content {
-  margin-bottom: 1em;
+  margin-bottom: 0.5em;
 }
 
 .dashboard-card-footer {
-  margin-top: 1em;
-  padding-top: 1em;
+  margin-top: 0.5em;
+  padding-top: 0.5em;
   border-top: 1px solid rgba(0, 0, 0, 0.05);
 }
 
 .dashboard-link {
   color: $primary-color;
   text-decoration: none;
-  font-size: $type-size-6;
+  font-size: $type-size-7;
   font-weight: 600;
   transition: color 0.2s ease;
 
@@ -1035,30 +1036,30 @@
   .dashboard-card-content {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    gap: 1em;
+    gap: 0.5em;
   }
 }
 
 .metric-card {
   background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
-  border-radius: 8px;
-  padding: 1.25em;
+  border-radius: 6px;
+  padding: 0.75em;
   position: relative;
   border: 1px solid rgba(0, 0, 0, 0.05);
   transition: all 0.3s ease;
 
   &:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transform: translateY(-1px);
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
   }
 }
 
 .metric-value {
-  font-size: 2em;
+  font-size: 1.5em;
   font-weight: 800;
   color: $text-color;
   line-height: 1.2;
-  margin-bottom: 0.25em;
+  margin-bottom: 0.15em;
 }
 
 .metric-label {
@@ -1069,32 +1070,36 @@
 
 .metric-icon {
   position: absolute;
-  top: 1em;
-  right: 1em;
-  font-size: 1.5em;
+  top: 0.5em;
+  right: 0.5em;
+  font-size: 1em;
   opacity: 0.3;
 }
 
 /* Open Source Contributions Card */
 .open-source-card {
   .dashboard-card-content {
-    display: flex;
-    flex-direction: column;
-    gap: 1em;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.5em;
+
+    @include breakpoint($small) {
+      grid-template-columns: 1fr;
+    }
   }
 }
 
 .contribution-card {
   background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
-  border-radius: 8px;
-  padding: 1.25em;
+  border-radius: 6px;
+  padding: 0.75em;
   border: 1px solid rgba(0, 0, 0, 0.05);
   transition: all 0.3s ease;
   position: relative;
 
   &:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transform: translateY(-1px);
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
   }
 }
 
@@ -1102,35 +1107,35 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: 0.5em;
+  margin-bottom: 0.25em;
 }
 
 .contribution-title {
   margin: 0;
-  font-size: $type-size-5;
+  font-size: $type-size-6;
   font-weight: 700;
   color: $text-color;
 }
 
 .contribution-icon {
-  font-size: 1.5em;
+  font-size: 1em;
   opacity: 0.3;
 }
 
 .contribution-description {
   font-size: $type-size-7;
   color: mix(#fff, $gray, 30%);
-  margin-bottom: 0.75em;
+  margin-bottom: 0.5em;
 }
 
 .contribution-metric {
   display: flex;
   align-items: baseline;
-  gap: 0.5em;
+  gap: 0.35em;
 }
 
 .metric-number {
-  font-size: 1.75em;
+  font-size: 1.25em;
   font-weight: 800;
   color: #059669;
   line-height: 1;
@@ -1143,7 +1148,7 @@
 }
 
 .download-icon {
-  font-size: 1em;
+  font-size: 0.85em;
   color: #059669;
   margin-left: auto;
 }
@@ -1160,22 +1165,22 @@
 .publication-badges {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.75em;
+  gap: 0.5em;
 }
 
 .publication-badge {
   display: inline-block;
-  padding: 0.5em 1em;
-  border-radius: 6px;
-  font-size: $type-size-6;
+  padding: 0.35em 0.75em;
+  border-radius: 4px;
+  font-size: $type-size-7;
   font-weight: 600;
   color: #ffffff;
   transition: all 0.3s ease;
   cursor: default;
 
   &:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transform: translateY(-1px);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
   }
 }
 
@@ -1218,7 +1223,7 @@
   .dashboard-card-content {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    gap: 1em;
+    gap: 0.5em;
 
     @include breakpoint($small) {
       grid-template-columns: 1fr;
@@ -1228,22 +1233,23 @@
 
 .media-item {
   background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
-  border-radius: 8px;
-  padding: 1.25em;
+  border-radius: 6px;
+  padding: 0.75em;
   border: 1px solid rgba(0, 0, 0, 0.05);
   transition: all 0.3s ease;
 
   &:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transform: translateY(-1px);
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
   }
 }
 
 .media-title {
-  margin: 0 0 0.5em 0;
-  font-size: $type-size-5;
+  margin: 0 0 0.25em 0;
+  font-size: $type-size-6;
   font-weight: 700;
   color: $text-color;
+  line-height: 1.2;
 }
 
 .media-description {
