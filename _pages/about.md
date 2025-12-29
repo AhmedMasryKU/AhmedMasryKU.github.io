@@ -41,7 +41,6 @@ Full ride scholarship from the Al Ghurair Foundation for Education (AGFE)
 Work Experience
 ======
 
-<section class="work-experience">
 <table class="work-experience-table">
   <tbody>
     <!-- Mila -->
@@ -136,7 +135,6 @@ Work Experience
     </tr>
   </tbody>
 </table>
-</section>
 
 <br />
 
