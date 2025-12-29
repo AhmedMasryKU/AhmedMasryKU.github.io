@@ -8,17 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Computer Science at the <a href="https://intelligentvislab.github.io/" style="text-decoration: none; color: #99FF9FF;">Intelligent Visualization Lab</a> at <a href="https://www.yorku.ca/" style="text-decoration: none; color: #99FF9FF;">York University</a> supervised by <a href="http://www.yorku.ca/enamulh/index.html" style="text-decoration: none; color: #99FF9FF;">Prof. Enamul Hoque</a>. 
-I received an MSc in CS from <a href="https://www.yorku.ca/" style="text-decoration: none; color: #99FF9FF;">York University</a> in 2022 and a BSc in Computer Engineering from Koc University in 2020, funded by the Al Ghurair Foundation (AGFE) STEM scholarship.
+I am a Ph.D. student in Computer Science at the <a href="https://intelligentvislab.github.io/" style="text-decoration: none; color: #99FF9FF;">Intelligent Visualization Lab</a> at <a href="https://www.yorku.ca/" style="text-decoration: none; color: #99FF9FF;">York University</a> supervised by <a href="http://www.yorku.ca/enamulh/index.html" style="text-decoration: none; color: #99FF9FF;">Prof. Enamul Hoque</a> and funded by the prestigious <a href="https://nserc-crsng.canada.ca/en/funding-opportunity/canada-graduate-research-scholarship-doctoral-program" style="text-decoration: none; color: #99FF9FF;">NSERC CGS-D Doctoral Award</a>. 
+I received an MSc in CS from <a href="https://www.yorku.ca/" style="text-decoration: none; color: #99FF9FF;">York University</a> in 2022 and a BSc in Computer Engineering from Koc University in 2020, funded by <a href="https://www.alghurairfoundation.org/" style="text-decoration: none; color: #99FF9FF;">AGFE STEM scholarship</a>.
 
 Research Highlights
 ======
 * **Publications:** **ACL** (22, 24, 25), **EuroVis** (22), **EMNLP** (23, 24, 25), **COLING** (25), **ICLR** (25), **COLM** (25), **NeurIPS** (25)  
-* **Workshop Papers:** **CVPR 21 [Best Paper Award]**, **AAAI** (24), and **ICLR** (25).  
 * **Research Impact:** 2000+ citations, h-index of 13 on [Google Scholar](https://scholar.google.com/citations?user=XqPX5XcAAAAJ&hl=en).  
 * **Benchmark Contribution:** Created **ChartQA** benchmark, cited by GPT-4 & Gemini, with 700+ citations.  
 * **Modeling Contributions:** Multimodal chart and document models with **200K+ downloads** on [HuggingFace](https://huggingface.co/ahmed-masry)  
-* **Research Awards:** **NSERC CGS-D ($120K CAD)** & Google PaliGemma Academic Grant ($5K USD).  
 * **Media Coverage:** [ChartGemma](https://www.marktechpost.com/2024/07/16/chartgemma-a-multimodal-model-instruction-tuned-on-data-generated-directly-from-a-diverse-range-of-real-world-chart-images/) featured in MarketTechPost and [ChartInstruct](https://www.lgresearch.ai/blog/view?seq=476) in LG AI Research Blogs.  
 
 <br />
@@ -45,25 +43,25 @@ Work Experience
 
 <table class="work-experience-table">
   <tbody>
-    <tr class="work-item-row">
+    <!-- Mila -->
+    <tr>
       <td class="work-logo-cell" rowspan="2">
         <div class="work-logo">
-          <a href="https://mila.quebec/" target="_blank" rel="noopener noreferrer">
-            <img src="/images/companies/mila.png" alt="Mila - Quebec Artificial Intelligence Institute" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
-            <span class="work-logo-fallback" style="display: none;">MILA</span>
+          <a href="https://mila.quebec/" target="_blank">
+            <img src="/images/companies/mila.png" alt="Mila">
           </a>
         </div>
       </td>
       <td class="work-company-cell">
         <h3 class="work-company">
-          <a href="https://mila.quebec/" target="_blank" rel="noopener noreferrer">Mila - Quebec AI Institute</a>
+          <a href="https://mila.quebec/" target="_blank">Mila - Quebec Artificial Intelligence Institute</a>
         </h3>
       </td>
       <td class="work-period-cell">
         <span class="work-period">September 2025 - December 2025</span>
       </td>
     </tr>
-    <tr class="work-item-row">
+    <tr>
       <td class="work-title-cell">
         <span class="work-title">Visiting Researcher</span>
       </td>
@@ -71,28 +69,31 @@ Work Experience
         <span class="work-location">Montreal, Quebec</span>
       </td>
     </tr>
+    
+    <!-- Separator -->
     <tr class="work-item-separator">
       <td colspan="3"></td>
     </tr>
-    <tr class="work-item-row">
+    
+    <!-- ServiceNow -->
+    <tr>
       <td class="work-logo-cell" rowspan="2">
         <div class="work-logo">
-          <a href="https://www.servicenow.com/research/people.html" target="_blank" rel="noopener noreferrer">
-            <img src="/images/companies/servicenow.png" alt="ServiceNow Research" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
-            <span class="work-logo-fallback" style="display: none;">SN</span>
+          <a href="https://www.servicenow.com/research/" target="_blank">
+            <img src="/images/companies/servicenow.png" alt="ServiceNow">
           </a>
         </div>
       </td>
       <td class="work-company-cell">
         <h3 class="work-company">
-          <a href="https://www.servicenow.com/research/people.html" target="_blank" rel="noopener noreferrer">ServiceNow Research</a>
+          <a href="https://www.servicenow.com/research/" target="_blank">ServiceNow Research</a>
         </h3>
       </td>
       <td class="work-period-cell">
         <span class="work-period">September 2024 - Present</span>
       </td>
     </tr>
-    <tr class="work-item-row">
+    <tr>
       <td class="work-title-cell">
         <span class="work-title">Visiting Researcher</span>
       </td>
@@ -100,28 +101,31 @@ Work Experience
         <span class="work-location">Montreal, Quebec</span>
       </td>
     </tr>
+    
+    <!-- Separator -->
     <tr class="work-item-separator">
       <td colspan="3"></td>
     </tr>
-    <tr class="work-item-row">
+    
+    <!-- Arteria AI -->
+    <tr>
       <td class="work-logo-cell" rowspan="2">
         <div class="work-logo">
-          <a href="https://www.arteria.ai/" target="_blank" rel="noopener noreferrer">
-            <img src="/images/companies/arteria.png" alt="Arteria AI" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
-            <span class="work-logo-fallback" style="display: none;">AA</span>
+          <a href="https://www.arteria.ai/" target="_blank">
+            <img src="/images/companies/arteria.png" alt="Arteria AI">
           </a>
         </div>
       </td>
       <td class="work-company-cell">
         <h3 class="work-company">
-          <a href="https://www.arteria.ai/" target="_blank" rel="noopener noreferrer">Arteria AI</a>
+          <a href="https://www.arteria.ai/" target="_blank">Arteria AI</a>
         </h3>
       </td>
       <td class="work-period-cell">
         <span class="work-period">May 2022 - September 2024</span>
       </td>
     </tr>
-    <tr class="work-item-row">
+    <tr>
       <td class="work-title-cell">
         <span class="work-title">Senior Data Scientist</span>
       </td>

@@ -758,92 +758,56 @@
   }
 }
 
+
 /*
    Work Experience
    ========================================================================== */
+
    .work-experience-table {
     width: 100%;
     border-collapse: collapse;
-    border-spacing: 0;
     margin-top: 1.5em;
     border: none;
-    table-layout: fixed;
   }
   
-  .work-item-row {
-    background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%);
-    transition: all 0.3s ease;
-  
-    td {
-      border: none;
-      vertical-align: middle;
-      padding: 0.75em 1em;
-    }
-  
-    &:hover {
-      background: linear-gradient(135deg, #ffffff 0%, mix(#fff, $primary-color, 98%) 100%);
-  
-      .work-logo img {
-        transform: scale(1.05);
-      }
-    }
-  
-    @include breakpoint($small) {
-      display: block;
-      
-      td {
-        display: block;
-        width: 100% !important;
-        padding: 0.5em 1em !important;
-      }
-    }
-  }
-  
-  .work-item-separator {
-    height: 0.75em;
-    
-    td {
-      border: none;
-      padding: 0;
-      height: 0.75em;
-    }
+  .work-experience-table td {
+    padding: 0.75em 1em;
+    vertical-align: middle;
+    border: none;
   }
   
   .work-logo-cell {
     width: 80px;
-    padding: 0.75em 1em !important;
-    vertical-align: middle;
+    padding: 0.75em 1em;
   }
   
   .work-company-cell {
-    padding: 0.75em 1em !important;
-    vertical-align: middle;
-    width: auto;
+    width: 50%;
+    padding: 0.75em 1em;
   }
   
   .work-period-cell {
-    padding: 0.75em 1em !important;
-    vertical-align: middle;
+    width: 200px;
     text-align: right;
-    width: 250px;
     white-space: nowrap;
+    padding: 0.75em 1em;
   }
   
   .work-title-cell {
-    padding: 0.5em 1em !important;
-    vertical-align: middle;
-    width: auto;
+    width: 50%;
+    padding: 0.5em 1em;
   }
   
   .work-location-cell {
-    padding: 0.5em 1em !important;
-    vertical-align: middle;
+    width: 200px;
     text-align: right;
-    width: 250px;
     white-space: nowrap;
-    font-size: $type-size-7;
-    color: mix(#fff, $gray, 30%);
-    font-style: italic;
+    padding: 0.5em 1em;
+  }
+  
+  .work-item-separator td {
+    padding: 0.5em 0;
+    height: 0.5em;
   }
   
   .work-logo {
@@ -887,11 +851,6 @@
       text-transform: uppercase;
       letter-spacing: 0.1em;
     }
-  
-    @include breakpoint($small) {
-      width: 50px;
-      height: 50px;
-    }
   }
   
   .work-company {
@@ -932,4 +891,42 @@
     border: 1px solid mix($primary-color, #fff, 25%);
     display: inline-block;
     vertical-align: middle;
+  }
+  
+  .work-location {
+    font-size: $type-size-7;
+    color: mix(#fff, $gray, 30%);
+    font-style: italic;
+  }
+  
+  // Hover effects
+  .work-experience-table tr:hover {
+    .work-logo img {
+      transform: scale(1.05);
+    }
+  }
+  
+  // Mobile responsive
+  @include breakpoint($small) {
+    .work-experience-table,
+    .work-experience-table tbody,
+    .work-experience-table tr,
+    .work-experience-table td {
+      display: block;
+      width: 100%;
+    }
+  
+    .work-logo-cell,
+    .work-company-cell,
+    .work-period-cell,
+    .work-title-cell,
+    .work-location-cell {
+      width: 100% !important;
+      text-align: left !important;
+      padding: 0.5em 1em !important;
+    }
+  
+    .work-logo {
+      margin: 0 auto;
+    }
   }
