@@ -64,11 +64,11 @@ I work on advancing *vision-language models (VLMs)* for understanding visually r
     <div class="dashboard-card-content">
       <div class="publication-badges">
         <span class="publication-badge badge-neurips">NeurIPS '25</span>
+        <span class="publication-badge badge-colm">COLM '25</span>
         <span class="publication-badge badge-iclr">ICLR '25</span>
         <span class="publication-badge badge-acl">ACL '25 '24 '22</span>
-        <span class="publication-badge badge-emnlp">EMNLP '25 '24 '23</span>
-        <span class="publication-badge badge-coling">COLING '25</span>
-        <span class="publication-badge badge-colm">COLM '25</span>
+        <span class="publication-badge badge-emnlp">EMNLP '25 (Industry) '24 '23</span>
+        <span class="publication-badge badge-coling">COLING '25 (Industry)</span>
         <span class="publication-badge badge-eurovis">EuroVis '22</span>
       </div>
     </div>
