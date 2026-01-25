@@ -104,7 +104,7 @@ Work Experience
     </tr>
     <tr>
       <td class="work-title-cell">
-        <span class="work-title">Intern of Technical Staff, Multimodal Foundations Team, Host: <a href="https://scholar.google.com/citations?user=cw_TpTcAAAAJ&hl=fr" target="_blank" rel="noopener noreferrer">Pierre Richemond</a></span>
+        <span class="work-title">Intern of Technical Staff, Multimodal Foundations, Host: <a href="https://scholar.google.com/citations?user=cw_TpTcAAAAJ&hl=fr" target="_blank" rel="noopener noreferrer">Pierre Richemond</a></span>
       </td>
       <td class="work-location-cell">
         <span class="work-location">Toronto, Ontario</span>
