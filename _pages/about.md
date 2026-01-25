@@ -83,6 +83,39 @@ Work Experience
 
 <table class="work-experience-table">
   <tbody>
+    <!-- Cohere -->
+    <tr>
+      <td class="work-logo-cell" rowspan="2">
+        <div class="work-logo">
+          <a href="https://cohere.com/" target="_blank">
+            <img src="/images/companies/cohere.png" alt="Cohere" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+            <span class="work-logo-fallback" style="display: none;">C</span>
+          </a>
+        </div>
+      </td>
+      <td class="work-company-cell">
+        <h3 class="work-company">
+          <a href="https://cohere.com/" target="_blank">Cohere</a>
+        </h3>
+      </td>
+      <td class="work-period-cell">
+        <span class="work-period">Jan 2026 - Present</span>
+      </td>
+    </tr>
+    <tr>
+      <td class="work-title-cell">
+        <span class="work-title">Intern of Technical Staff, Multimodal Foundations Team, Host: <a href="https://scholar.google.com/citations?user=cw_TpTcAAAAJ&hl=fr" target="_blank" rel="noopener noreferrer">Pierre Richemond</a></span>
+      </td>
+      <td class="work-location-cell">
+        <span class="work-location">Toronto, Ontario</span>
+      </td>
+    </tr>
+    
+    <!-- Separator -->
+    <tr class="work-item-separator">
+      <td colspan="3"></td>
+    </tr>
+    
     <!-- Mila -->
     <tr>
       <td class="work-logo-cell" rowspan="2">
